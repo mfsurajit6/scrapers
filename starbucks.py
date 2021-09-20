@@ -1,35 +1,42 @@
+import random
 import requests
-from constant import ZIP_LAT_LANG
+from constant import ZIP_LAT_LANG, USER_AGENT
 
 
 class StarBucks:
+    """ Get StarBucks outlet information form random locations of United States  in dictionary format"""
     def __init__(self):
         self.original_url = "https://www.starbucks.com/bff/locations?"
-        self.url = ''
+        self.headers = {
+            "x-requested-with": "XMLHttpRequest",
+            'User-Agent': random.choice(USER_AGENT),
+            "Upgrade-Insecure-Requests": "1",
+            "DNT": "1",
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.5",
+            "Accept-Encoding": "gzip, deflate"
+        }
+        self.data = {}
 
     def get_stores(self):
-        data = {}
         for i in range(len(ZIP_LAT_LANG)):
-            self.url = self.original_url
+            url = self.original_url
             lat = ZIP_LAT_LANG[i][1]
             long = ZIP_LAT_LANG[i][2]
-            self.url += "lat="+str(lat)+"&lag="+str(long)
-            print(self.url)
-            stores = self.get_data(self.url)
+            url += "lat="+str(lat)+"&lag="+str(long)
+            stores = self.get_data(url)
             if stores != "Failed":
                 for s in stores:
-                    if s not in data:
-                        data[s] = stores[s]
+                    if s not in self.data:
+                        self.data[s] = stores[s]
             else:
                 print("Server is blocking...")
                 return None
-        return data
+        return self.data
 
     def get_data(self, url):
-        headers = {
-            "x-requested-with": "XMLHttpRequest"
-        }
-        res = requests.get(self.url, headers=headers)
+        res = requests.get(url, headers=self.headers)
+        # print(res.text)
         try:
             data = res.json()
         except ValueError:
@@ -44,7 +51,6 @@ class StarBucks:
             store_id = s.get('id')
             store['name'] = s.get('name')
             address = s.get('address')
-            # print(address)
             store['address'] = address.get('streetAddressLine1')
             store['city'] = address.get('city')
             store['state'] = address.get('countrySubdivisionCode')

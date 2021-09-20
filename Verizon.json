@@ -1,0 +1,6372 @@
+{
+   "A00000254259":{
+      "name":"GoWireless Spencer",
+      "address":"62 W MAIN STREET",
+      "city":"SPENCER",
+      "state":"Massachusetts",
+      "zip":"01562",
+      "phone":"5082105037",
+      "latitude":"42.23322051",
+      "longitude":"-72.01340686"
+   },
+   "A00000244974":{
+      "name":"TCC Ware",
+      "address":"350 Palmer Rd",
+      "city":"WARE",
+      "state":"Massachusetts",
+      "zip":"01082",
+      "phone":"4132779507",
+      "latitude":"42.23937638",
+      "longitude":"-72.28072835"
+   },
+   "A00000220610":{
+      "name":"GoWireless Holden",
+      "address":"1105-A MAIN STREET",
+      "city":"HOLDEN",
+      "state":"Massachusetts",
+      "zip":"01520",
+      "phone":"7743454625",
+      "latitude":"42.34887772",
+      "longitude":"-71.85845066"
+   },
+   "A00000257719":{
+      "name":"Wireless Zone Belchertown",
+      "address":"149b N Main St",
+      "city":"Belchertown",
+      "state":"Massachusetts",
+      "zip":"01007",
+      "phone":"4132130895",
+      "latitude":"42.288153",
+      "longitude":"-72.406905"
+   },
+   "A00000252780":{
+      "name":"GoWireless Athol",
+      "address":"130 Reservoir Dr",
+      "city":"Athol",
+      "state":"Massachusetts",
+      "zip":"01331",
+      "phone":"9782482100",
+      "latitude":"42.5794",
+      "longitude":"-72.2081"
+   },
+   "A00000256460":{
+      "name":"Wireless Zone Gardner MA",
+      "address":"328 TIMPANY BLVD",
+      "city":"GARDNER",
+      "state":"Massachusetts",
+      "zip":"01440",
+      "phone":"9784105861",
+      "latitude":"42.55908711",
+      "longitude":"-71.99051291"
+   },
+   "R00000000373":{
+      "name":"Sturbridge  MA",
+      "address":"120 Charlton Rd",
+      "city":"Sturbridge",
+      "state":"Massachusetts",
+      "zip":"01566",
+      "phone":"5083473483",
+      "latitude":"42.1234184",
+      "longitude":"-72.0581414"
+   },
+   "A00000248520":{
+      "name":"Cellular Sales Worcester",
+      "address":"87 GOLD STAR BLVD",
+      "city":"WORCESTER",
+      "state":"Massachusetts",
+      "zip":"01606",
+      "phone":"7742436334",
+      "latitude":"42.28963331",
+      "longitude":"-71.80420218"
+   },
+   "A00000013602":{
+      "name":"GoWireless Sturbridge",
+      "address":"135 MAIN STREET",
+      "city":"STURBRIDGE",
+      "state":"Massachusetts",
+      "zip":"01566",
+      "phone":"5083470008",
+      "latitude":"42.09354183",
+      "longitude":"-72.06881189"
+   },
+   "A00000243713":{
+      "name":"Cellular Sales Auburn",
+      "address":"46 AUBURN ST",
+      "city":"AUBURN",
+      "state":"Massachusetts",
+      "zip":"01501",
+      "phone":"5084078822",
+      "latitude":"42.20602472",
+      "longitude":"-71.83320443"
+   },
+   "R00000327839":{
+      "name":"Shrewsbury",
+      "address":"67 Boston Worcester Tpke",
+      "city":"Shrewsbury",
+      "state":"Massachusetts",
+      "zip":"01545",
+      "phone":"5087670900",
+      "latitude":"42.274672",
+      "longitude":"-71.75182"
+   },
+   "R00000165717":{
+      "name":"Hadley",
+      "address":"360 Russell St",
+      "city":"Hadley",
+      "state":"Massachusetts",
+      "zip":"01035",
+      "phone":"4135820299",
+      "latitude":"42.3586786",
+      "longitude":"-72.5501475"
+   },
+   "R00000169755":{
+      "name":"Millbury",
+      "address":"70 Worcester Providence Tpke",
+      "city":"Millbury",
+      "state":"Massachusetts",
+      "zip":"01527",
+      "phone":"5085817000",
+      "latitude":"42.198183",
+      "longitude":"-71.7761931"
+   },
+   "A00000038858":{
+      "name":"Wireless Zone Granby",
+      "address":"77 WEST STATE STREET",
+      "city":"GRANBY",
+      "state":"Massachusetts",
+      "zip":"01033",
+      "phone":"4134679777",
+      "latitude":"42.24727548",
+      "longitude":"-72.54358175"
+   },
+   "A00000043586":{
+      "name":"Wireless Zone Leominster Merriam Ave",
+      "address":"975 Merriam Ave",
+      "city":"LEOMINSTER",
+      "state":"Massachusetts",
+      "zip":"01453",
+      "phone":"9788401986",
+      "latitude":"42.55274751",
+      "longitude":"-71.78322255"
+   },
+   "A00000159980":{
+      "name":"GoWireless North Grafton",
+      "address":"206 WORCESTER ST",
+      "city":"NORTH GRAFTON",
+      "state":"Massachusetts",
+      "zip":"01536",
+      "phone":"5088878800",
+      "latitude":"42.22937604",
+      "longitude":"-71.71895295"
+   },
+   "A00000258780":{
+      "name":"Russell Cellular Clinton",
+      "address":"633 MAIN ST",
+      "city":"CLINTON",
+      "state":"Massachusetts",
+      "zip":"01510",
+      "phone":"9783680000",
+      "latitude":"42.42081857",
+      "longitude":"-71.68708861"
+   },
+   "R00000000636":{
+      "name":"East Springfield",
+      "address":"1420 Boston Rd",
+      "city":"Springfield",
+      "state":"Massachusetts",
+      "zip":"01119",
+      "phone":"4137968600",
+      "latitude":"42.1416662",
+      "longitude":"-72.4962659"
+   },
+   "R00000000372":{
+      "name":"Leominster MA",
+      "address":"12 Orchard Hill Park Dr",
+      "city":"Leominster",
+      "state":"Massachusetts",
+      "zip":"01453",
+      "phone":"9784667439",
+      "latitude":"42.5246255",
+      "longitude":"-71.7134473"
+   },
+   "A00000254325":{
+      "name":"GoWireless Sutton",
+      "address":"22 GALAXY PASS",
+      "city":"SUTTON",
+      "state":"Massachusetts",
+      "zip":"01590",
+      "phone":"5088343120",
+      "latitude":"42.1620988",
+      "longitude":"-71.7348919"
+   },
+   "A00000037953":{
+      "name":"GoWireless Webster",
+      "address":"2 WORCESTER RD",
+      "city":"WEBSTER",
+      "state":"Massachusetts",
+      "zip":"01570",
+      "phone":"5086710088",
+      "latitude":"42.06058855",
+      "longitude":"-71.86360565"
+   },
+   "A00000255035":{
+      "name":"Russell Cellular Lawrence",
+      "address":"435 WINTHROP AVE",
+      "city":"LAWRENCE",
+      "state":"Massachusetts",
+      "zip":"01843",
+      "phone":"9786842584",
+      "latitude":"42.68214378",
+      "longitude":"-71.13671903"
+   },
+   "A00000024686":{
+      "name":"Russell Cellular Andover",
+      "address":"77 MAIN ST",
+      "city":"ANDOVER",
+      "state":"Massachusetts",
+      "zip":"01810",
+      "phone":"9786230006",
+      "latitude":"42.65450193",
+      "longitude":"-71.13935714"
+   },
+   "A00000253564":{
+      "name":"Cellular Sales Methuen",
+      "address":"90 Pleasant Valley St",
+      "city":"Methuen",
+      "state":"Massachusetts",
+      "zip":"01844",
+      "phone":"9787940409",
+      "latitude":"42.742089",
+      "longitude":"-71.156793"
+   },
+   "A00000244789":{
+      "name":"Russell Cellular N Reading",
+      "address":"157 MAIN ST",
+      "city":"NORTH READING",
+      "state":"Massachusetts",
+      "zip":"01864",
+      "phone":"9782071542",
+      "latitude":"42.58187213",
+      "longitude":"-71.11241655"
+   },
+   "A00000253562":{
+      "name":"Russell Cellular Salem NH",
+      "address":"356 S BROADWAY",
+      "city":"SALEM",
+      "state":"New Hampshire",
+      "zip":"03079",
+      "phone":"6033285110",
+      "latitude":"42.75224909",
+      "longitude":"-71.20672078"
+   },
+   "A00000256820":{
+      "name":"R Wireless Middleton MA",
+      "address":"234 S MAIN ST",
+      "city":"MIDDLETON",
+      "state":"Massachusetts",
+      "zip":"01949",
+      "phone":"9783040520",
+      "latitude":"42.5772816",
+      "longitude":"-70.9993094"
+   },
+   "R00000256438":{
+      "name":"Salem - Cluff Crossing",
+      "address":"92 Cluff Crossing Rd",
+      "city":"Salem",
+      "state":"New Hampshire",
+      "zip":"03079",
+      "phone":"6038243879",
+      "latitude":"42.764292",
+      "longitude":"-71.219896"
+   },
+   "A00000176713":{
+      "name":"Russell Cellular Wilmington",
+      "address":"251 Main St",
+      "city":"Wilmington",
+      "state":"Massachusetts",
+      "zip":"01887",
+      "phone":"9786570510",
+      "latitude":"42.555729",
+      "longitude":"-71.180908"
+   },
+   "A00000042298":{
+      "name":"Wireless Zone Salem NH",
+      "address":"99 Rockingham Park Blvd",
+      "city":"Salem",
+      "state":"New Hampshire",
+      "zip":"03079",
+      "phone":"6038709536",
+      "latitude":"42.765011",
+      "longitude":"-71.229469"
+   },
+   "A00000243856":{
+      "name":"GoMOBL Tewksbury",
+      "address":"345 Main St",
+      "city":"Tewksbury",
+      "state":"Massachusetts",
+      "zip":"01876",
+      "phone":"9788583600",
+      "latitude":"42.623573",
+      "longitude":"-71.265441"
+   },
+   "R00000003340":{
+      "name":"Salem",
+      "address":"99 Rockingham Park Blvd",
+      "city":"Salem",
+      "state":"New Hampshire",
+      "zip":"03079",
+      "phone":"6038947300",
+      "latitude":"42.7666794",
+      "longitude":"-71.2308015"
+   },
+   "A00000017952":{
+      "name":"Wireless Zone Rowley",
+      "address":"225 NEWBURYPORT TURNPIKE",
+      "city":"ROWLEY",
+      "state":"Massachusetts",
+      "zip":"01969",
+      "phone":"9789480808",
+      "latitude":"42.7074916",
+      "longitude":"-70.90834085"
+   },
+   "A00000042462":{
+      "name":"Wireless Zone Plaistow",
+      "address":"9 PLAISTOW",
+      "city":"PLAISTOW",
+      "state":"New Hampshire",
+      "zip":"03865",
+      "phone":"6033820092",
+      "latitude":"42.81739773",
+      "longitude":"-71.10301458"
+   },
+   "R00000002221":{
+      "name":"Reading MA",
+      "address":"42 Walkers Brook Dr",
+      "city":"Reading",
+      "state":"Massachusetts",
+      "zip":"01867",
+      "phone":"7819425080",
+      "latitude":"42.519742",
+      "longitude":"-71.09243"
+   },
+   "A00000258774":{
+      "name":"Russell Cellular Lowell",
+      "address":"1201 Bridge St",
+      "city":"Lowell",
+      "state":"Massachusetts",
+      "zip":"01850",
+      "phone":"9784413999",
+      "latitude":"42.664715",
+      "longitude":"-71.303248"
+   },
+   "A00000253810":{
+      "name":"Russell Cellular Danvers",
+      "address":"49 MAPLE ST",
+      "city":"DANVERS",
+      "state":"Massachusetts",
+      "zip":"01923",
+      "phone":"9787509050",
+      "latitude":"42.56688697",
+      "longitude":"-70.93657834"
+   },
+   "R00000005485":{
+      "name":"Peabody",
+      "address":"262 Andover St",
+      "city":"Peabody",
+      "state":"Massachusetts",
+      "zip":"01960",
+      "phone":"9785736300",
+      "latitude":"42.5483133",
+      "longitude":"-70.9522138"
+   },
+   "A00000243559":{
+      "name":"TCC North Billerica",
+      "address":"305 BOSTON ROAD",
+      "city":"NORTH BILLERICA",
+      "state":"Massachusetts",
+      "zip":"01862",
+      "phone":"9786705500",
+      "latitude":"42.571313",
+      "longitude":"-71.27728909"
+   },
+   "A00000206396":{
+      "name":"Wireless Zone Pelham",
+      "address":"150 BRIDGE STREET",
+      "city":"PELHAM",
+      "state":"New Hampshire",
+      "zip":"03076",
+      "phone":"6035086900",
+      "latitude":"42.72488872",
+      "longitude":"-71.31890327"
+   },
+   "A00000257924":{
+      "name":"Russell Cellular Billerica",
+      "address":"700 Boston Rd",
+      "city":"BILLERICA",
+      "state":"Massachusetts",
+      "zip":"01821",
+      "phone":"9782942110",
+      "latitude":"42.5390503",
+      "longitude":"-71.24502993"
+   },
+   "A00000256661":{
+      "name":"Russell Cellular Beverly Dodge St",
+      "address":"71 Dodge St",
+      "city":"Beverly",
+      "state":"Massachusetts",
+      "zip":"01915",
+      "phone":"9789211071",
+      "latitude":"42.577616",
+      "longitude":"-70.889601"
+   },
+   "A00000253561":{
+      "name":"Russell Cellular Stoneham",
+      "address":"97 Main St",
+      "city":"Stoneham",
+      "state":"Massachusetts",
+      "zip":"02180",
+      "phone":"7815076666",
+      "latitude":"42.495684",
+      "longitude":"-71.100857"
+   },
+   "A00000258776":{
+      "name":"Russell Cellular Beverly",
+      "address":"142 Brimbal Ave",
+      "city":"Beverly",
+      "state":"Massachusetts",
+      "zip":"01915",
+      "phone":"9789271277",
+      "latitude":"42.573924",
+      "longitude":"-70.878191"
+   },
+   "A00000257026":{
+      "name":"Russell Cellular Woburn Montvale Ave",
+      "address":"318B MONTVALE AVE",
+      "city":"WOBURN",
+      "state":"Massachusetts",
+      "zip":"01801",
+      "phone":"7812816859",
+      "latitude":"42.47971708",
+      "longitude":"-71.11969484"
+   },
+   "A00000258775":{
+      "name":"Russell Cellular Newburyport",
+      "address":"45 Storey Ave",
+      "city":"Newburyport",
+      "state":"Massachusetts",
+      "zip":"01950",
+      "phone":"9784655007",
+      "latitude":"42.82112",
+      "longitude":"-70.905825"
+   },
+   "R00000245169":{
+      "name":"Hyannis",
+      "address":"790 Iyannough Rd",
+      "city":"Hyannis",
+      "state":"Massachusetts",
+      "zip":"02601",
+      "phone":"5087906944",
+      "latitude":"41.669709",
+      "longitude":"-70.2963622"
+   },
+   "R00000169666":{
+      "name":"Wareham Crossing",
+      "address":"2421 Cranberry Hwy",
+      "city":"Wareham",
+      "state":"Massachusetts",
+      "zip":"02571",
+      "phone":"5082730024",
+      "latitude":"41.7749800091165",
+      "longitude":"-70.7428061226845"
+   },
+   "R00000000147":{
+      "name":"Dartmouth Mall",
+      "address":"200 Dartmouth Mall",
+      "city":"Dartmouth",
+      "state":"Massachusetts",
+      "zip":"02747",
+      "phone":"5089842100",
+      "latitude":"41.6412329",
+      "longitude":"-70.9928011"
+   },
+   "A00000043533":{
+      "name":"Wireless Zone Concord Loudon Rd",
+      "address":"270 LOUDON RD",
+      "city":"CONCORD",
+      "state":"New Hampshire",
+      "zip":"03301",
+      "phone":"6032263248",
+      "latitude":"43.22443729",
+      "longitude":"-71.48873231"
+   },
+   "A00000235309":{
+      "name":"Wireless Zone Concord D'amante Dr",
+      "address":"62 D'AMANTE DR",
+      "city":"CONCORD",
+      "state":"New Hampshire",
+      "zip":"03301",
+      "phone":"6032239979",
+      "latitude":"43.22097874",
+      "longitude":"-71.48653129"
+   },
+   "R00000167172":{
+      "name":"Rochester NH",
+      "address":"115 Farmington Rd",
+      "city":"Rochester",
+      "state":"New Hampshire",
+      "zip":"03867",
+      "phone":"6033352775",
+      "latitude":"43.3362133",
+      "longitude":"-71.0102966"
+   },
+   "A00000170989":{
+      "name":"BeMobile Rochester",
+      "address":"160 Washington St",
+      "city":"Rochester",
+      "state":"New Hampshire",
+      "zip":"03839",
+      "phone":"6033359200",
+      "latitude":"43.298158",
+      "longitude":"-70.991098"
+   },
+   "R00000002954":{
+      "name":"Concord NH",
+      "address":"75-77 Fort Eddy Rd",
+      "city":"Concord",
+      "state":"New Hampshire",
+      "zip":"03301",
+      "phone":"6037316600",
+      "latitude":"43.2139663",
+      "longitude":"-71.5323183"
+   },
+   "A00000253013":{
+      "name":"GoWireless Belmont",
+      "address":"94 DANIEL WEBSTER HIGHWAY",
+      "city":"BELMONT",
+      "state":"New Hampshire",
+      "zip":"03220",
+      "phone":"6035249672",
+      "latitude":"43.51297363",
+      "longitude":"-71.49556683"
+   },
+   "A00000254564":{
+      "name":"VICTRA TILTON TANGER OUTLETS",
+      "address":"120 LACONIA RD",
+      "city":"TILTON",
+      "state":"New Hampshire",
+      "zip":"03276",
+      "phone":"6037293465",
+      "latitude":"43.4579377",
+      "longitude":"-71.56172884"
+   },
+   "A00000009758":{
+      "name":"Wireless Zone Laconia",
+      "address":"1106 UNION AVE",
+      "city":"LACONIA",
+      "state":"New Hampshire",
+      "zip":"03246",
+      "phone":"6035241900",
+      "latitude":"43.55532093",
+      "longitude":"-71.45631569"
+   },
+   "A00000031416":{
+      "name":"Wireless Zone Lee",
+      "address":"71 CALEF HIGHWAY",
+      "city":"LEE",
+      "state":"New Hampshire",
+      "zip":"03861",
+      "phone":"6037407474",
+      "latitude":"43.15313817",
+      "longitude":"-71.00529498"
+   },
+   "A00000246336":{
+      "name":"Cellular Sales Dover",
+      "address":"20 WEEKS LN",
+      "city":"DOVER",
+      "state":"New Hampshire",
+      "zip":"03820",
+      "phone":"6038425192",
+      "latitude":"43.22249",
+      "longitude":"-70.88641819"
+   },
+   "A00000163055":{
+      "name":"Wireless Zone Hooksett",
+      "address":"1292 HOOKSET ROAD",
+      "city":"HOOKSETT",
+      "state":"New Hampshire",
+      "zip":"03106",
+      "phone":"6036631006",
+      "latitude":"43.05187547",
+      "longitude":"-71.43846175"
+   },
+   "A00000233615":{
+      "name":"Wireless Zone Raymond",
+      "address":"15 FREETOWN RD.",
+      "city":"RAYMOND",
+      "state":"New Hampshire",
+      "zip":"03077",
+      "phone":"6032441682",
+      "latitude":"43.03572369",
+      "longitude":"-71.16399499"
+   },
+   "A00000257182":{
+      "name":"Wireless Zone Hooksett Quality Dr",
+      "address":"210 Quality Dr",
+      "city":"Hooksett",
+      "state":"New Hampshire",
+      "zip":"03106",
+      "phone":"6036068550",
+      "latitude":"43.046548",
+      "longitude":"-71.459038"
+   },
+   "A00000258471":{
+      "name":"Wireless Zone Meredith",
+      "address":"71 ROUTE 25",
+      "city":"MEREDITH",
+      "state":"New Hampshire",
+      "zip":"03253",
+      "phone":"6036777008",
+      "latitude":"43.66132762",
+      "longitude":"-71.49444393"
+   },
+   "A00000170719":{
+      "name":"Wireless Zone Center Ossipee",
+      "address":"1995 ROUTE 16",
+      "city":"CENTER OSSIPEE",
+      "state":"New Hampshire",
+      "zip":"03814",
+      "phone":"6035392020",
+      "latitude":"43.80366862",
+      "longitude":"-71.18178846"
+   },
+   "A00000253034":{
+      "name":"Lakes Region Computer Center Harbor",
+      "address":"12 Main St",
+      "city":"Center Harbor",
+      "state":"New Hampshire",
+      "zip":"03226",
+      "phone":"6032539847",
+      "latitude":"43.709294",
+      "longitude":"-71.462262"
+   },
+   "A00000253012":{
+      "name":"GoWireless North Conway",
+      "address":"1465 WHITE MOUNTAIN HIGHWAY",
+      "city":"NORTH CONWAY",
+      "state":"New Hampshire",
+      "zip":"03860",
+      "phone":"6033563555",
+      "latitude":"44.01920569",
+      "longitude":"-71.11513352"
+   },
+   "A00000035174":{
+      "name":"Wireless Zone Plymouth Tenney Mtn Hwy",
+      "address":"594 Tenney Mountain Highway",
+      "city":"Plymouth",
+      "state":"New Hampshire",
+      "zip":"03264",
+      "phone":"6035366090",
+      "latitude":"43.77143409",
+      "longitude":"-71.72524853"
+   },
+   "R00000000476":{
+      "name":"Biddeford Crossing",
+      "address":"127 Shops Way",
+      "city":"Biddeford",
+      "state":"Maine",
+      "zip":"04005",
+      "phone":"2072820003",
+      "latitude":"43.4743584",
+      "longitude":"-70.5103177"
+   },
+   "R00000164406":{
+      "name":"Portland - Gorham Rd",
+      "address":"365 Gorham Rd",
+      "city":"South Portland",
+      "state":"Maine",
+      "zip":"04106",
+      "phone":"2077731033",
+      "latitude":"43.6366767",
+      "longitude":"-70.3310443"
+   },
+   "R00000166623":{
+      "name":"Bangor Stillwater ME",
+      "address":"930 Stillwater Ave",
+      "city":"Bangor",
+      "state":"Maine",
+      "zip":"04401",
+      "phone":"2079733400",
+      "latitude":"44.8396687",
+      "longitude":"-68.746503"
+   },
+   "A00000034735":{
+      "name":"Wireless Zone Bangor Stillwater Ave",
+      "address":"570 STILLWATER AVENUE",
+      "city":"BANGOR",
+      "state":"Maine",
+      "zip":"04401",
+      "phone":"2079421004",
+      "latitude":"44.82988379",
+      "longitude":"-68.75411356"
+   },
+   "A00000256836":{
+      "name":"Cellular Sales Brewer",
+      "address":"5 SCHILLING DR",
+      "city":"BREWER",
+      "state":"Maine",
+      "zip":"04412",
+      "phone":"2079891370",
+      "latitude":"44.77720072",
+      "longitude":"-68.73284153"
+   },
+   "R00000161168":{
+      "name":"Augusta  ME",
+      "address":"37 Xavier Loop",
+      "city":"Augusta",
+      "state":"Maine",
+      "zip":"04330",
+      "phone":"2076235080",
+      "latitude":"44.3452398",
+      "longitude":"-69.7895558"
+   },
+   "R00000127241":{
+      "name":"Auburn ME",
+      "address":"352 Center St",
+      "city":"Auburn",
+      "state":"Maine",
+      "zip":"04210",
+      "phone":"2077843330",
+      "latitude":"44.1149582",
+      "longitude":"-70.2249054"
+   },
+   "A00000017526":{
+      "name":"TCC Berlin Berlin Mall Rd",
+      "address":"282 Berlin Mall Rd",
+      "city":"Berlin",
+      "state":"Vermont",
+      "zip":"05602",
+      "phone":"8022239090",
+      "latitude":"44.216794",
+      "longitude":"-72.56461"
+   },
+   "A00000244712":{
+      "name":"Cellular Sales Berlin",
+      "address":"1542 US ROUTE 302",
+      "city":"BERLIN",
+      "state":"Vermont",
+      "zip":"05641",
+      "phone":"8024799900",
+      "latitude":"44.23023987",
+      "longitude":"-72.55308497"
+   },
+   "A00000248519":{
+      "name":"Cellular Sales Williston",
+      "address":"60 MERCHANTS ROW",
+      "city":"WILLISTON",
+      "state":"Vermont",
+      "zip":"05495",
+      "phone":"8028721106",
+      "latitude":"44.44599407",
+      "longitude":"-73.11324965"
+   },
+   "A00000252783":{
+      "name":"GoWireless Essex Junction",
+      "address":"60C PEARL ST",
+      "city":"ESSEX JUNCTION",
+      "state":"Vermont",
+      "zip":"05452",
+      "phone":"8028767649",
+      "latitude":"44.49308415",
+      "longitude":"-73.11756703"
+   },
+   "A00000016412":{
+      "name":"TCC South Burlington",
+      "address":"155 Dorset St",
+      "city":"South Burlington",
+      "state":"Vermont",
+      "zip":"05403",
+      "phone":"8028642520",
+      "latitude":"44.4645",
+      "longitude":"-73.181136"
+   },
+   "A00000244279":{
+      "name":"Cellular Sales South Burlington",
+      "address":"1270 SHELBURNE ROAD",
+      "city":"SOUTH BURLINGTON",
+      "state":"Vermont",
+      "zip":"05403",
+      "phone":"8028590542",
+      "latitude":"44.43497579",
+      "longitude":"-73.21042898"
+   },
+   "R00000003105":{
+      "name":"South Burlington VT",
+      "address":"825 Williston Rd",
+      "city":"South Burlington",
+      "state":"Vermont",
+      "zip":"05403",
+      "phone":"8028653100",
+      "latitude":"44.4710901",
+      "longitude":"-73.1888042"
+   },
+   "A00000260683":{
+      "name":"Cellular Sales Colchester",
+      "address":"18 Lower Mountain View Dr",
+      "city":"Colchester",
+      "state":"Vermont",
+      "zip":"05446",
+      "phone":"8027606775",
+      "latitude":"44.507059",
+      "longitude":"-73.179921"
+   },
+   "A00000258118":{
+      "name":"Best Wireless Niantic",
+      "address":"248 Flanders Rd",
+      "city":"NIANTIC",
+      "state":"Connecticut",
+      "zip":"06357",
+      "phone":"8604518209",
+      "latitude":"41.35757007",
+      "longitude":"-72.21054899"
+   },
+   "R00000257705":{
+      "name":"Waterford",
+      "address":"819 Hartford Tpke",
+      "city":"Waterford",
+      "state":"Connecticut",
+      "zip":"06385",
+      "phone":"8604473208",
+      "latitude":"41.37287",
+      "longitude":"-72.137523"
+   },
+   "A00000042867":{
+      "name":"Wireless Zone New London",
+      "address":"351 N Frontage Rd",
+      "city":"New London",
+      "state":"Connecticut",
+      "zip":"06320",
+      "phone":"8604391000",
+      "latitude":"41.370242",
+      "longitude":"-72.118781"
+   },
+   "A00000031196":{
+      "name":"Wireless Zone Groton",
+      "address":"220 ROUTE 12",
+      "city":"GROTON",
+      "state":"Connecticut",
+      "zip":"06340",
+      "phone":"8604489000",
+      "latitude":"41.36855519",
+      "longitude":"-72.06997634"
+   },
+   "A00000327343":{
+      "name":"TCC Old Saybrook",
+      "address":"105 Elm St",
+      "city":"Old Saybrook",
+      "state":"Connecticut",
+      "zip":"06475",
+      "phone":"8603398103",
+      "latitude":"41.295178",
+      "longitude":"-72.385181"
+   },
+   "A00000038855":{
+      "name":"TCC Norwich Salem Turnpike",
+      "address":"77 Salem Tpk",
+      "city":"Norwich",
+      "state":"Connecticut",
+      "zip":"06360",
+      "phone":"8608864000",
+      "latitude":"41.5123501",
+      "longitude":"-72.11079791"
+   },
+   "A00000256111":{
+      "name":"R Wireless Norwich",
+      "address":"624 W MAIN ST",
+      "city":"NORWICH",
+      "state":"Connecticut",
+      "zip":"06360",
+      "phone":"8603834807",
+      "latitude":"41.5149894",
+      "longitude":"-72.103549"
+   },
+   "A00000039103":{
+      "name":"Wireless Zone Colchester",
+      "address":"119 SOUTH MAIN STREET",
+      "city":"COLCHESTER",
+      "state":"Connecticut",
+      "zip":"06415",
+      "phone":"8605371000",
+      "latitude":"41.57239107",
+      "longitude":"-72.33144707"
+   },
+   "A00000253972":{
+      "name":"Your Wireless Clinton",
+      "address":"203 EAST MAIN STREET",
+      "city":"CLINTON",
+      "state":"Connecticut",
+      "zip":"06413",
+      "phone":"8606645160",
+      "latitude":"41.27348772",
+      "longitude":"-72.50828814"
+   },
+   "A00000205127":{
+      "name":"TCC Lisbon",
+      "address":"193 RIVER ROAD",
+      "city":"LISBON",
+      "state":"Connecticut",
+      "zip":"06351",
+      "phone":"8603761300",
+      "latitude":"41.58446478",
+      "longitude":"-71.99443559"
+   },
+   "A00000011040":{
+      "name":"TCC East Hampton",
+      "address":"11 East High Street",
+      "city":"East Hampton",
+      "state":"Connecticut",
+      "zip":"06424",
+      "phone":"8602676169",
+      "latitude":"41.58307336",
+      "longitude":"-72.50464389"
+   },
+   "A00000248574":{
+      "name":"Your Wireless Madison",
+      "address":"28 DURHAM RD",
+      "city":"MADISON",
+      "state":"Connecticut",
+      "zip":"06443",
+      "phone":"2034216581",
+      "latitude":"41.2819391",
+      "longitude":"-72.59940237"
+   },
+   "A00000257779":{
+      "name":"Wireless Zone Marlborough",
+      "address":"3 E HAMPTON RD",
+      "city":"MARLBOROUGH",
+      "state":"Connecticut",
+      "zip":"06447",
+      "phone":"8602950012",
+      "latitude":"41.63090867",
+      "longitude":"-72.4599359"
+   },
+   "A00000233979":{
+      "name":"TCC Westerly",
+      "address":"143 FRANKLIN ST",
+      "city":"WESTERLY",
+      "state":"Rhode Island",
+      "zip":"02891",
+      "phone":"4015962705",
+      "latitude":"41.35822185",
+      "longitude":"-71.80960126"
+   },
+   "A00000257270":{
+      "name":"Wireless Zone Westerly",
+      "address":"224 POST RD",
+      "city":"WESTERLY",
+      "state":"Rhode Island",
+      "zip":"02891",
+      "phone":"4015949999",
+      "latitude":"41.35131469",
+      "longitude":"-71.77165148"
+   },
+   "A00000254412":{
+      "name":"Russell Cellular Mansfield Center",
+      "address":"135g Storrs Rd",
+      "city":"Mansfield Center",
+      "state":"Connecticut",
+      "zip":"06250",
+      "phone":"8609428884",
+      "latitude":"41.737895",
+      "longitude":"-72.198416"
+   },
+   "A00000028448":{
+      "name":"Wireless Zone North Windham",
+      "address":"361 Boston Post Road Route 6",
+      "city":"North Windham",
+      "state":"Connecticut",
+      "zip":"06256",
+      "phone":"8604567000",
+      "latitude":"41.74118869",
+      "longitude":"-72.17737206"
+   },
+   "A00000252699":{
+      "name":"VICTRA KEARNY HARRISON AVE",
+      "address":"220 HARRISON AVENUE",
+      "city":"KEARNY",
+      "state":"New Jersey",
+      "zip":"07032",
+      "phone":"2014289281",
+      "latitude":"40.74832283",
+      "longitude":"-74.14287794"
+   },
+   "A00000253248":{
+      "name":"TCC Nutley",
+      "address":"211 FRANKLIN AVE",
+      "city":"NUTLEY",
+      "state":"New Jersey",
+      "zip":"07110",
+      "phone":"9736678400",
+      "latitude":"40.8153186",
+      "longitude":"-74.16254062"
+   },
+   "R00000148894":{
+      "name":"Clifton",
+      "address":"382 State Route 3",
+      "city":"Clifton",
+      "state":"New Jersey",
+      "zip":"07014",
+      "phone":"9737789059",
+      "latitude":"40.8303292",
+      "longitude":"-74.1377864"
+   },
+   "A00000282962":{
+      "name":"Wireless Zone East Rutherford",
+      "address":"1 American Dream Way",
+      "city":"East Rutherford",
+      "state":"New Jersey",
+      "zip":"07073",
+      "phone":"None",
+      "latitude":"40.8249",
+      "longitude":"-74.0895"
+   },
+   "A00000258431":{
+      "name":"Russell Cellular East Rutherford",
+      "address":"70 Route 17 N",
+      "city":"EAST RUTHERFORD",
+      "state":"New Jersey",
+      "zip":"07073",
+      "phone":"2019330800",
+      "latitude":"40.83005198",
+      "longitude":"-74.09118325"
+   },
+   "A00000254122":{
+      "name":"VICTRA BLOOMFIELD",
+      "address":"320 GLENWOOD AVE",
+      "city":"BLOOMFIELD",
+      "state":"New Jersey",
+      "zip":"07003",
+      "phone":"9738424053",
+      "latitude":"40.79328244",
+      "longitude":"-74.19823329"
+   },
+   "R00000001104":{
+      "name":"Harmon Meadows Secaucus",
+      "address":"200 Mill Creek Dr",
+      "city":"Secaucus",
+      "state":"New Jersey",
+      "zip":"07094",
+      "phone":"2015536600",
+      "latitude":"40.7916423",
+      "longitude":"-74.049532"
+   },
+   "A00000258903":{
+      "name":"Your Wireless Jersey City",
+      "address":"322 CENTRAL AV",
+      "city":"JERSEY CITY",
+      "state":"New Jersey",
+      "zip":"07307",
+      "phone":"2014993585",
+      "latitude":"40.746051",
+      "longitude":"-74.049158"
+   },
+   "A00000170568":{
+      "name":"Russell Cellular Montclair",
+      "address":"46a S Park St",
+      "city":"Montclair",
+      "state":"New Jersey",
+      "zip":"07042",
+      "phone":"9737449005",
+      "latitude":"40.814016",
+      "longitude":"-74.220243"
+   },
+   "A00000256565":{
+      "name":"K&B Wireless Passaic",
+      "address":"266 MONROE ST",
+      "city":"PASSAIC",
+      "state":"New Jersey",
+      "zip":"07055",
+      "phone":"9739285293",
+      "latitude":"40.8654536",
+      "longitude":"-74.12534877"
+   },
+   "A00000258857":{
+      "name":"Russell Cellular West New York",
+      "address":"5900 Bergenline Ave",
+      "city":"West New York",
+      "state":"New Jersey",
+      "zip":"07093",
+      "phone":"2018543100",
+      "latitude":"40.788226",
+      "longitude":"-74.016662"
+   },
+   "R00000170162":{
+      "name":"Hoboken Store",
+      "address":"93 Washington St",
+      "city":"Hoboken",
+      "state":"New Jersey",
+      "zip":"07030",
+      "phone":"2016562870",
+      "latitude":"40.7371242",
+      "longitude":"-74.0307555"
+   },
+   "R00000001666":{
+      "name":"Jersey City - Newport Centre",
+      "address":"30 Mall Dr W",
+      "city":"Jersey City",
+      "state":"New Jersey",
+      "zip":"07310",
+      "phone":"2012394000",
+      "latitude":"40.7267935",
+      "longitude":"-74.0374084"
+   },
+   "A00000235724":{
+      "name":"VICTRA WEST ORANGE",
+      "address":"235 PROSPECT AVE",
+      "city":"WEST ORANGE",
+      "state":"New Jersey",
+      "zip":"07052",
+      "phone":"8622337487",
+      "latitude":"40.80497439",
+      "longitude":"-74.24699745"
+   },
+   "A00000207305":{
+      "name":"Victra Garfield",
+      "address":"17 Outwater Ln",
+      "city":"Garfield",
+      "state":"New Jersey",
+      "zip":"07026",
+      "phone":"8622950062",
+      "latitude":"40.880298",
+      "longitude":"-74.118495"
+   },
+   "A00000011776":{
+      "name":"Wireless Zone Clifton",
+      "address":"1006 Us Highway 46",
+      "city":"Clifton",
+      "state":"New Jersey",
+      "zip":"07013",
+      "phone":"9734718616",
+      "latitude":"40.872489",
+      "longitude":"-74.177404"
+   },
+   "A00000258904":{
+      "name":"Your Wireless Irvington ",
+      "address":"1004 SPRINGFIELD AV",
+      "city":"IRVINGTON",
+      "state":"New Jersey",
+      "zip":"07111",
+      "phone":"8622316435",
+      "latitude":"40.726383",
+      "longitude":"-74.229682"
+   },
+   "R00000258170":{
+      "name":"Hudson Yards",
+      "address":"20 Hudson Yards",
+      "city":"New York",
+      "state":"New York",
+      "zip":"10001",
+      "phone":"6469058024",
+      "latitude":"40.753111",
+      "longitude":"-74.000317"
+   },
+   "A00000224260":{
+      "name":"Your Wireless Cedar Grove",
+      "address":"569 POMPTON AVE.",
+      "city":"CEDAR GROVE",
+      "state":"New Jersey",
+      "zip":"07009",
+      "phone":"9732391095",
+      "latitude":"40.85262801",
+      "longitude":"-74.22936763"
+   },
+   "A00000253481":{
+      "name":"Wireless One NYC 8th Ave",
+      "address":"141 8TH AVE",
+      "city":"NEW YORK",
+      "state":"New York",
+      "zip":"10011",
+      "phone":"2127374500",
+      "latitude":"40.74174077",
+      "longitude":"-74.00126627"
+   },
+   "A00000223912":{
+      "name":"TCC NYC W 23rd St",
+      "address":"263 W 23rd St",
+      "city":"New York",
+      "state":"New York",
+      "zip":"10011",
+      "phone":"2122066888",
+      "latitude":"40.744865",
+      "longitude":"-73.997161"
+   },
+   "R00000001618":{
+      "name":"Edgewater",
+      "address":"29 The Promenade",
+      "city":"Edgewater",
+      "state":"New Jersey",
+      "zip":"07020",
+      "phone":"2013138324",
+      "latitude":"40.8067609",
+      "longitude":"-73.9886209"
+   },
+   "A00000256864":{
+      "name":"Cellular Sales New York 37th St",
+      "address":"302 W 37TH ST",
+      "city":"NEW YORK",
+      "state":"New York",
+      "zip":"10018",
+      "phone":"2122391973",
+      "latitude":"40.75412498",
+      "longitude":"-73.99250141"
+   },
+   "A00000257763":{
+      "name":"BH Wireless South Orange",
+      "address":"77 S ORANGE AVE",
+      "city":"SOUTH ORANGE",
+      "state":"New Jersey",
+      "zip":"07079",
+      "phone":"9737637777",
+      "latitude":"40.7459077",
+      "longitude":"-74.25794404"
+   },
+   "A00000250850":{
+      "name":"VICTRA FAIRVIEW",
+      "address":"435 ANDERSON AVE",
+      "city":"FAIRVIEW",
+      "state":"New Jersey",
+      "zip":"07022",
+      "phone":"2018408500",
+      "latitude":"40.820827",
+      "longitude":"-73.991548"
+   },
+   "A00000176935":{
+      "name":"TCC Old Bridge",
+      "address":"2583 Route 516",
+      "city":"OLD BRIDGE",
+      "state":"New Jersey",
+      "zip":"08857",
+      "phone":"7326791711",
+      "latitude":"40.4039564",
+      "longitude":"-74.32387703"
+   },
+   "A00000252366":{
+      "name":"Wireless Zone Englishtown",
+      "address":"87 US HIGHWAY 9",
+      "city":"ENGLISHTOWN",
+      "state":"New Jersey",
+      "zip":"07726",
+      "phone":"7328531831",
+      "latitude":"40.29350642",
+      "longitude":"-74.29898138"
+   },
+   "R00000006652":{
+      "name":"Manalapan Epicentre",
+      "address":"55 Us Highway 9",
+      "city":"Manalapan",
+      "state":"New Jersey",
+      "zip":"07726",
+      "phone":"7324092722",
+      "latitude":"40.2917842",
+      "longitude":"-74.2983159"
+   },
+   "R00000046668":{
+      "name":"Hazlet",
+      "address":"2996 State Route 35",
+      "city":"Hazlet",
+      "state":"New Jersey",
+      "zip":"07730",
+      "phone":"7322039160",
+      "latitude":"40.4176528",
+      "longitude":"-74.1783296"
+   },
+   "A00000172690":{
+      "name":"Wireless Zone Spotswood",
+      "address":"424 MAIN STREET",
+      "city":"SPOTSWOOD",
+      "state":"New Jersey",
+      "zip":"08884",
+      "phone":"7327231111",
+      "latitude":"40.3941646",
+      "longitude":"-74.38664745"
+   },
+   "A00000252813":{
+      "name":"VICTRA SOUTH AMBOY",
+      "address":"963 US HIGHWAY 9",
+      "city":"SOUTH AMBOY",
+      "state":"New Jersey",
+      "zip":"08879",
+      "phone":"7322531149",
+      "latitude":"40.46089235",
+      "longitude":"-74.29532975"
+   },
+   "A00000224044":{
+      "name":"Wireless Zone Lincroft",
+      "address":"642 NEWMAN SPRINGS RD",
+      "city":"LINCROFT",
+      "state":"New Jersey",
+      "zip":"07738",
+      "phone":"7325301901",
+      "latitude":"40.33123855",
+      "longitude":"-74.11946619"
+   },
+   "A00000172558":{
+      "name":"Wireless Zone Freehold",
+      "address":"329 WEST MAIN STREET",
+      "city":"FREEHOLD",
+      "state":"New Jersey",
+      "zip":"07728",
+      "phone":"7324628888",
+      "latitude":"40.24407629",
+      "longitude":"-74.29914322"
+   },
+   "A00000038509":{
+      "name":"Russell Cellular Middletown",
+      "address":"747 Hwy 35",
+      "city":"Middletown",
+      "state":"New Jersey",
+      "zip":"07748",
+      "phone":"7329570828",
+      "latitude":"40.388237",
+      "longitude":"-74.096967"
+   },
+   "A00000237197":{
+      "name":"TCC Monroe Township",
+      "address":"1600 PERRINEVILLE ROAD",
+      "city":"MONROE TOWNSHIP",
+      "state":"New Jersey",
+      "zip":"08831",
+      "phone":"6096552881",
+      "latitude":"40.31601776",
+      "longitude":"-74.43851481"
+   },
+   "R00000253899":{
+      "name":"East Brunswick",
+      "address":"323 State Route 18",
+      "city":"East Brunswick",
+      "state":"New Jersey",
+      "zip":"08816",
+      "phone":"7324164900",
+      "latitude":"40.4560196",
+      "longitude":"-74.4014398"
+   },
+   "A00000254862":{
+      "name":"VICTRA RED BANK",
+      "address":"70 WATER STREET",
+      "city":"RED BANK",
+      "state":"New Jersey",
+      "zip":"07701",
+      "phone":"7328893121",
+      "latitude":"40.35032905",
+      "longitude":"-74.0701099"
+   },
+   "A00000258902":{
+      "name":"Your Wireless Perth Amboy",
+      "address":"131 SMITH ST",
+      "city":"PERTH AMBOY",
+      "state":"New Jersey",
+      "zip":"08861",
+      "phone":"7326385074",
+      "latitude":"40.508692",
+      "longitude":"-74.268652"
+   },
+   "A00000235307":{
+      "name":"VICTRA SHREWSBURY BROAD ST",
+      "address":"1130 BROAD ST.",
+      "city":"SHREWSBURY",
+      "state":"New Jersey",
+      "zip":"07702",
+      "phone":"7329459795",
+      "latitude":"40.31497221",
+      "longitude":"-74.0633863"
+   },
+   "A00000260386":{
+      "name":"TCC Staten Island Veterans Rd",
+      "address":"2955 Veterans Rd W",
+      "city":"Staten Island",
+      "state":"New York",
+      "zip":"10309",
+      "phone":"7185544250",
+      "latitude":"40.527587",
+      "longitude":"-74.231451"
+   },
+   "A00000253468":{
+      "name":"Victra Eatontown Monmouth Mall",
+      "address":"180 State Route 35",
+      "city":"EATONTOWN",
+      "state":"New Jersey",
+      "zip":"07724",
+      "phone":"8484565123",
+      "latitude":"40.28965343",
+      "longitude":"-74.05191243"
+   },
+   "A00000034560":{
+      "name":"TCC Edison",
+      "address":"561 Route 1 South",
+      "city":"EDISON",
+      "state":"New Jersey",
+      "zip":"08817",
+      "phone":"7323930020",
+      "latitude":"40.50657105",
+      "longitude":"-74.39464474"
+   },
+   "R00000001732":{
+      "name":"West Long Branch",
+      "address":"310 Route 36",
+      "city":"West Long Branch",
+      "state":"New Jersey",
+      "zip":"07764",
+      "phone":"7325784600",
+      "latitude":"40.2911179",
+      "longitude":"-74.0343533"
+   },
+   "A00000254467":{
+      "name":"VICTRA STATEN ISLAND WOODROW RD",
+      "address":"1243 WOODROW RD",
+      "city":"STATEN ISLAND",
+      "state":"New York",
+      "zip":"10309",
+      "phone":"9292843167",
+      "latitude":"40.54197249",
+      "longitude":"-74.20621167"
+   },
+   "A00000254776":{
+      "name":"VICTRA NEPTUNE CITY",
+      "address":"3544 ROUTE 66",
+      "city":"NEPTUNE CITY",
+      "state":"New Jersey",
+      "zip":"07753",
+      "phone":"7328982522",
+      "latitude":"40.22302484",
+      "longitude":"-74.08479809"
+   },
+   "A00000282970":{
+      "name":"Victra Menlo Park Mall",
+      "address":"100 Menlo Park",
+      "city":"Edison",
+      "state":"New Jersey",
+      "zip":"08837",
+      "phone":"7323873120",
+      "latitude":"40.545068",
+      "longitude":"-74.336639"
+   },
+   "A00000254662":{
+      "name":"VICTRA METUCHEN",
+      "address":"665 MIDDLESEX AVE",
+      "city":"METUCHEN",
+      "state":"New Jersey",
+      "zip":"08840",
+      "phone":"7325155990",
+      "latitude":"40.540073",
+      "longitude":"-74.36748088"
+   },
+   "A00000248330":{
+      "name":"Victra Woodbridge Woodbridge  Ctr",
+      "address":"250 Woodbridge Center Dr",
+      "city":"Woodbridge",
+      "state":"New Jersey",
+      "zip":"07095",
+      "phone":"7323622962",
+      "latitude":"40.554963",
+      "longitude":"-74.301325"
+   },
+   "R00000000115":{
+      "name":"North Brunswick",
+      "address":"1020 Cozzens Ln",
+      "city":"North Brunswick",
+      "state":"New Jersey",
+      "zip":"08902",
+      "phone":"7323988573",
+      "latitude":"40.4505278",
+      "longitude":"-74.4937964"
+   },
+   "R00000126382":{
+      "name":"Woodbridge",
+      "address":"302 Woodbridge Ctr Dr",
+      "city":"Woodbridge",
+      "state":"New Jersey",
+      "zip":"07095",
+      "phone":"7323267500",
+      "latitude":"40.5566744",
+      "longitude":"-74.3000609"
+   },
+   "A00000253759":{
+      "name":"TCC Marmora",
+      "address":"4 ROOSEVELT BLVD",
+      "city":"MARMORA",
+      "state":"New Jersey",
+      "zip":"08223",
+      "phone":"6095458639",
+      "latitude":"39.26580871",
+      "longitude":"-74.64925388"
+   },
+   "A00000246360":{
+      "name":"Cellular Sales Somers Point",
+      "address":"280 NEW RD",
+      "city":"SOMERS POINT",
+      "state":"New Jersey",
+      "zip":"08244",
+      "phone":"6093652122",
+      "latitude":"39.32736694",
+      "longitude":"-74.59731962"
+   },
+   "A00000253714":{
+      "name":"TCC Cape May Courthouse",
+      "address":"5 Court House South Dennis Rd",
+      "city":"Cape May Court House",
+      "state":"New Jersey",
+      "zip":"08210",
+      "phone":"6095362694",
+      "latitude":"39.08895",
+      "longitude":"-74.819717"
+   },
+   "A00000253773":{
+      "name":"TCC Margate City",
+      "address":"7828 VENTNORE AVE",
+      "city":"MARGATE CITY",
+      "state":"New Jersey",
+      "zip":"08402",
+      "phone":"6094870060",
+      "latitude":"39.33041521",
+      "longitude":"-74.49790785"
+   },
+   "R00000282892":{
+      "name":"Atlantic City",
+      "address":"6814 Tilton Rd",
+      "city":"Egg Harbor Township",
+      "state":"New Jersey",
+      "zip":"08234",
+      "phone":"6093832100",
+      "latitude":"39.3919174416704",
+      "longitude":"-74.5579508293609"
+   },
+   "A00000253726":{
+      "name":"TCC Rio Grande",
+      "address":"3159 Route 9 S",
+      "city":"Rio Grande",
+      "state":"New Jersey",
+      "zip":"08242",
+      "phone":"6094636727",
+      "latitude":"39.020378",
+      "longitude":"-74.870941"
+   },
+   "R00000248314":{
+      "name":"Egg Harbor",
+      "address":"6042 Black Horse Pike",
+      "city":"Egg Harbor Township",
+      "state":"New Jersey",
+      "zip":"08234",
+      "phone":"6094846400",
+      "latitude":"39.4350181",
+      "longitude":"-74.6100176"
+   },
+   "A00000253758":{
+      "name":"TCC Galloway Down Town Plaza",
+      "address":"325 E JIMMIE LEEDS RD",
+      "city":"GALLOWAY",
+      "state":"New Jersey",
+      "zip":"08205",
+      "phone":"6092416100",
+      "latitude":"39.46592701",
+      "longitude":"-74.49800737"
+   },
+   "A00000256571":{
+      "name":"R Wireless Cape May",
+      "address":"3845 BAYSHORE RD",
+      "city":"CAPE MAY",
+      "state":"New Jersey",
+      "zip":"08204",
+      "phone":"6098543066",
+      "latitude":"38.974765",
+      "longitude":"-74.9413091"
+   },
+   "R00000327553":{
+      "name":"Washington Heights",
+      "address":"4250 Broadway",
+      "city":"New York",
+      "state":"New York",
+      "zip":"10033",
+      "phone":"2127816034",
+      "latitude":"40.8499365623736",
+      "longitude":"-73.9355530814356"
+   },
+   "R00000000745":{
+      "name":"Fordham Road",
+      "address":"153 E Fordham Rd",
+      "city":"Bronx",
+      "state":"New York",
+      "zip":"10468",
+      "phone":"7187332292",
+      "latitude":"40.8626826",
+      "longitude":"-73.8977294"
+   },
+   "A00000236290":{
+      "name":"Your Wireless Fort Lee",
+      "address":"230A MAIN STREET",
+      "city":"FORT LEE",
+      "state":"New Jersey",
+      "zip":"07024",
+      "phone":"2013029000",
+      "latitude":"40.85154345",
+      "longitude":"-73.97175474"
+   },
+   "A00000235507":{
+      "name":"Your Wireless Bronx Riverdale Ave",
+      "address":"5909 RIVERDALE AVE.",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10471",
+      "phone":"3478430482",
+      "latitude":"40.90801767",
+      "longitude":"-73.90396862"
+   },
+   "A00000260664":{
+      "name":"TCC Bronx",
+      "address":"2140a White Plains Rd",
+      "city":"Bronx",
+      "state":"New York",
+      "zip":"10462",
+      "phone":"7184841701",
+      "latitude":"40.85425",
+      "longitude":"-73.867577"
+   },
+   "A00000257151":{
+      "name":"TCC Englewood",
+      "address":"13 E Palisade Ave",
+      "city":"Englewood",
+      "state":"New Jersey",
+      "zip":"07631",
+      "phone":"9175361669",
+      "latitude":"40.893821",
+      "longitude":"-73.974457"
+   },
+   "A00000177190":{
+      "name":"Your Wireless Yonkers",
+      "address":"972 MCLEAN AV",
+      "city":"YONKERS",
+      "state":"New York",
+      "zip":"10704",
+      "phone":"9142070855",
+      "latitude":"40.90317107",
+      "longitude":"-73.86550554"
+   },
+   "A00000252270":{
+      "name":"Your Wireless Palisades Pk 276 Broad Ave",
+      "address":"276 BROAD AVENUE",
+      "city":"PALISADES PARK",
+      "state":"New Jersey",
+      "zip":"07650",
+      "phone":"2013638870",
+      "latitude":"40.84776092",
+      "longitude":"-73.99775248"
+   },
+   "A00000251564":{
+      "name":"Wireless Zone Palisades Park",
+      "address":"225 BROAD AVENUE - RODEO PLAZA",
+      "city":"PALISADES PARK",
+      "state":"New Jersey",
+      "zip":"07650",
+      "phone":"2013460661",
+      "latitude":"40.846615",
+      "longitude":"-73.99932"
+   },
+   "R00000000850":{
+      "name":"Harlem",
+      "address":"166 W 125th St",
+      "city":"New York",
+      "state":"New York",
+      "zip":"10027",
+      "phone":"2125311542",
+      "latitude":"40.8086061",
+      "longitude":"-73.9482182"
+   },
+   "A00000164147":{
+      "name":"Your Wireless Bronx Westchester",
+      "address":"125 WESTCHESTER SQUARE",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10461",
+      "phone":"7188233300",
+      "latitude":"40.84078848",
+      "longitude":"-73.84118205"
+   },
+   "R00000005169":{
+      "name":"Bay Plaza",
+      "address":"2266 Bartow Ave",
+      "city":"Bronx",
+      "state":"New York",
+      "zip":"10475",
+      "phone":"7186712621",
+      "latitude":"40.8664836",
+      "longitude":"-73.8259774"
+   },
+   "A00000016391":{
+      "name":"Your Wireless Bronx Crosby Ave",
+      "address":"1546 CROSBY AV",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10461",
+      "phone":"7188232800",
+      "latitude":"40.843238",
+      "longitude":"-73.83009019"
+   },
+   "A00000249372":{
+      "name":"Wireless One NYC 2657 Broadway",
+      "address":"2657 BROADWAY",
+      "city":"NEW YORK",
+      "state":"New York",
+      "zip":"10025",
+      "phone":"2122803300",
+      "latitude":"40.79796171",
+      "longitude":"-73.96968548"
+   },
+   "A00000244734":{
+      "name":"Cellular Sales New York",
+      "address":"805 COLUMBUS AVE",
+      "city":"NEW YORK",
+      "state":"New York",
+      "zip":"10025",
+      "phone":"2126628333",
+      "latitude":"40.79496964",
+      "longitude":"-73.96576526"
+   },
+   "R00000000697":{
+      "name":"Cross County",
+      "address":"5060 Xavier Dr",
+      "city":"Yonkers",
+      "state":"New York",
+      "zip":"10704",
+      "phone":"9149669853",
+      "latitude":"40.926529",
+      "longitude":"-73.853034"
+   },
+   "A00000249371":{
+      "name":"Wireless One NYC 2512 Broadway",
+      "address":"2512 BROADWAY",
+      "city":"NEW YORK",
+      "state":"New York",
+      "zip":"10025",
+      "phone":"9173883200",
+      "latitude":"40.79302029",
+      "longitude":"-73.9726326"
+   },
+   "A00000257442":{
+      "name":"Your Wireless Pelham",
+      "address":"4370 Boston Post Rd",
+      "city":"Pelham",
+      "state":"New York",
+      "zip":"10803",
+      "phone":"9144099133",
+      "latitude":"40.890683",
+      "longitude":"-73.818368"
+   },
+   "A00000257245":{
+      "name":"Your Wireless NYC 2nd Ave ",
+      "address":"1732 2ND AVE",
+      "city":"NEW YORK",
+      "state":"New York",
+      "zip":"10128",
+      "phone":"6465421200",
+      "latitude":"40.78033996",
+      "longitude":"-73.94971294"
+   },
+   "R00000000775":{
+      "name":"86th Street",
+      "address":"157 E 86th St",
+      "city":"New York",
+      "state":"New York",
+      "zip":"10028",
+      "phone":"9174922583",
+      "latitude":"40.7794414",
+      "longitude":"-73.9546729"
+   },
+   "A00000251466":{
+      "name":"TCC Astoria",
+      "address":"2239 31st St",
+      "city":"Astoria",
+      "state":"New York",
+      "zip":"11105",
+      "phone":"7187316000",
+      "latitude":"40.775278",
+      "longitude":"-73.91156"
+   },
+   "R00000238627":{
+      "name":"80th & Broadway",
+      "address":"2239 Broadway",
+      "city":"New York",
+      "state":"New York",
+      "zip":"10024",
+      "phone":"2127128040",
+      "latitude":"40.7845211",
+      "longitude":"-73.9798641"
+   },
+   "A00000256867":{
+      "name":"VICTRA NEW YORK LEXINGTON AVE",
+      "address":"1125 LEXINGTON AVE",
+      "city":"NEW YORK",
+      "state":"New York",
+      "zip":"10075",
+      "phone":"6468766760",
+      "latitude":"40.77433989",
+      "longitude":"-73.95912207"
+   },
+   "A00000258244":{
+      "name":"Russell Cellular Warwick",
+      "address":"148 STATE ROUTE 94 S",
+      "city":"WARWICK",
+      "state":"New York",
+      "zip":"10990",
+      "phone":"8459878990",
+      "latitude":"41.23887211",
+      "longitude":"-74.378933"
+   },
+   "A00000206454":{
+      "name":"Wireless Zone Mahwah",
+      "address":"117 FRANKLIN TURNPIKE",
+      "city":"MAHWAH",
+      "state":"New Jersey",
+      "zip":"07430",
+      "phone":"2016840008",
+      "latitude":"41.09973686",
+      "longitude":"-74.14690898"
+   },
+   "A00000028043":{
+      "name":"TCC Oakland",
+      "address":"350 Ramapo Valley Rd",
+      "city":"Oakland",
+      "state":"New Jersey",
+      "zip":"07436",
+      "phone":"2014052626",
+      "latitude":"41.024471",
+      "longitude":"-74.242025"
+   },
+   "A00000258242":{
+      "name":"Russell Cellular Chester NY",
+      "address":"3 Bryle Pl",
+      "city":"Chester",
+      "state":"New York",
+      "zip":"10918",
+      "phone":"8454691221",
+      "latitude":"41.356149",
+      "longitude":"-74.284139"
+   },
+   "A00000258243":{
+      "name":"Russell Cellular Monroe Rt 17M",
+      "address":"791 State Route 17m",
+      "city":"Monroe",
+      "state":"New York",
+      "zip":"10950",
+      "phone":"8458371766",
+      "latitude":"41.333485",
+      "longitude":"-74.192156"
+   },
+   "A00000039572":{
+      "name":"TCC Franklin Lakes",
+      "address":"807 FRANKLIN AV",
+      "city":"FRANKLIN LAKES",
+      "state":"New Jersey",
+      "zip":"07417",
+      "phone":"2018472355",
+      "latitude":"41.02290624",
+      "longitude":"-74.20788901"
+   },
+   "R00000151699":{
+      "name":"Butler NJ",
+      "address":"1538 State Rt 23",
+      "city":"Butler",
+      "state":"New Jersey",
+      "zip":"07405",
+      "phone":"9738389950",
+      "latitude":"41.0055484",
+      "longitude":"-74.3576706"
+   },
+   "A00000254750":{
+      "name":"R Wireless Ramsey",
+      "address":"885 STATE RT 17",
+      "city":"RAMSEY",
+      "state":"New Jersey",
+      "zip":"07446",
+      "phone":"5512649210",
+      "latitude":"41.0635869",
+      "longitude":"-74.1301954"
+   },
+   "A00000258250":{
+      "name":"Russell Cellular Monroe Larkin Dr",
+      "address":"290 LARKIN DR",
+      "city":"MONROE",
+      "state":"New York",
+      "zip":"10950",
+      "phone":"8457833696",
+      "latitude":"41.32048297",
+      "longitude":"-74.15051693"
+   },
+   "A00000033187":{
+      "name":"The Wireless Experts Monroe",
+      "address":"51 FOREST ROAD",
+      "city":"Monroe",
+      "state":"New York",
+      "zip":"10950",
+      "phone":"8457747114",
+      "latitude":"41.34014103",
+      "longitude":"-74.1703937"
+   },
+   "A00000252496":{
+      "name":"Ping Cellular Monsey",
+      "address":"59 ROUTE 59",
+      "city":"MONSEY",
+      "state":"New York",
+      "zip":"10952",
+      "phone":"8454266500",
+      "latitude":"41.10753851",
+      "longitude":"-74.06557747"
+   },
+   "A00000233501":{
+      "name":"TCC Wyckoff",
+      "address":"327 A FRANKLIN AVE.",
+      "city":"WYCKOFF",
+      "state":"New Jersey",
+      "zip":"07481",
+      "phone":"2015601100",
+      "latitude":"41.01099186",
+      "longitude":"-74.16655007"
+   },
+   "A00000254179":{
+      "name":"R Wireless Franklin",
+      "address":"109 STATE ROUTE 23",
+      "city":"FRANKLIN",
+      "state":"New Jersey",
+      "zip":"07416",
+      "phone":"9738231212",
+      "latitude":"41.1084169",
+      "longitude":"-74.5832581"
+   },
+   "A00000257510":{
+      "name":"Wireless Zone Pompton Plains",
+      "address":"500 ROUTE 23",
+      "city":"POMPTON PLAINS",
+      "state":"New Jersey",
+      "zip":"07444",
+      "phone":"8622259595",
+      "latitude":"40.9671894",
+      "longitude":"-74.28504605"
+   },
+   "A00000248549":{
+      "name":"Eye On Wireless Sussex",
+      "address":"36 HAMBURG AVE",
+      "city":"SUSSEX",
+      "state":"New Jersey",
+      "zip":"07461",
+      "phone":"9738752754",
+      "latitude":"41.2064227",
+      "longitude":"-74.60565351"
+   },
+   "A00000258432":{
+      "name":"Russell Cellular Montvale",
+      "address":"118 CHESTNUT RIDGE RD",
+      "city":"MONTVALE",
+      "state":"New Jersey",
+      "zip":"07645",
+      "phone":"2018020411",
+      "latitude":"41.05705713",
+      "longitude":"-74.06792507"
+   },
+   "A00000026174":{
+      "name":"TCC Waldwick",
+      "address":"26 FRANKLIN TPKE 30",
+      "city":"WALDWICK",
+      "state":"New Jersey",
+      "zip":"07463",
+      "phone":"2014471800",
+      "latitude":"41.00942246",
+      "longitude":"-74.11946302"
+   },
+   "A00000235347":{
+      "name":"VICTRA WAYNE HAMBURG TRNPK",
+      "address":"1055 HAMBURG TURNPIKE",
+      "city":"WAYNE",
+      "state":"New Jersey",
+      "zip":"07470",
+      "phone":"9737861500",
+      "latitude":"40.95972428",
+      "longitude":"-74.23735596"
+   },
+   "R00000249899":{
+      "name":"Nanuet",
+      "address":"110 Market St",
+      "city":"Nanuet",
+      "state":"New York",
+      "zip":"10954",
+      "phone":"8456273530",
+      "latitude":"41.0965045",
+      "longitude":"-74.012648"
+   },
+   "A00000238757":{
+      "name":"Your Wireless W Haverstraw",
+      "address":"32 S Route 9W",
+      "city":"WEST HAVERSTRAW",
+      "state":"New York",
+      "zip":"10993",
+      "phone":"8452714855",
+      "latitude":"41.20723782",
+      "longitude":"-73.98458917"
+   },
+   "A00000250701":{
+      "name":"Your Wireless Wayne",
+      "address":"1428 ROUTE 23",
+      "city":"WAYNE",
+      "state":"New Jersey",
+      "zip":"07470",
+      "phone":"9738327220",
+      "latitude":"40.93264368",
+      "longitude":"-74.26872762"
+   },
+   "A00000203841":{
+      "name":"Wireless Zone Pearl River",
+      "address":"89 NORTH MIDDLETOWN ROAD",
+      "city":"PEARL RIVER",
+      "state":"New York",
+      "zip":"10965",
+      "phone":"8456203787",
+      "latitude":"41.06227677",
+      "longitude":"-74.01309703"
+   },
+   "A00000233299":{
+      "name":"Cellular Sales Middletown",
+      "address":"160 DOLSON AVE",
+      "city":"MIDDLETOWN",
+      "state":"New York",
+      "zip":"10940",
+      "phone":"8453446899",
+      "latitude":"41.42844609",
+      "longitude":"-74.42615237"
+   },
+   "A00000172083":{
+      "name":"Russell Cellular Lincoln Park",
+      "address":"261 Comly Rd",
+      "city":"Lincoln Park",
+      "state":"New Jersey",
+      "zip":"07035",
+      "phone":"9738324487",
+      "latitude":"40.922331",
+      "longitude":"-74.302469"
+   },
+   "A00000024804":{
+      "name":"Russell Cellular Twnshp of Washington",
+      "address":"281 Pascack Rd",
+      "city":"Township Of Washington",
+      "state":"New Jersey",
+      "zip":"07676",
+      "phone":"2013580900",
+      "latitude":"40.985278",
+      "longitude":"-74.063909"
+   },
+   "A00000013430":{
+      "name":"TCC East Islip",
+      "address":"126 E Main St",
+      "city":"East Islip",
+      "state":"New York",
+      "zip":"11730",
+      "phone":"6312778557",
+      "latitude":"40.732292",
+      "longitude":"-73.184726"
+   },
+   "A00000245220":{
+      "name":"Russell Cellular Bohemia",
+      "address":"4481 Sunrise Highway",
+      "city":"BOHEMIA",
+      "state":"New York",
+      "zip":"11716",
+      "phone":"6315633000",
+      "latitude":"40.75349806",
+      "longitude":"-73.1210208"
+   },
+   "A00000245219":{
+      "name":"Russell Cellular Sayville",
+      "address":"31 North Main St",
+      "city":"SAYVILLE",
+      "state":"New York",
+      "zip":"11782",
+      "phone":"6312182000",
+      "latitude":"40.73647173",
+      "longitude":"-73.08176255"
+   },
+   "A00000282964":{
+      "name":"Russell Cellular South Shore Mall",
+      "address":"1701 Sunrise Hwy",
+      "city":"Bay Shore",
+      "state":"New York",
+      "zip":"11706",
+      "phone":"6314940356",
+      "latitude":"40.736817",
+      "longitude":"-73.24434"
+   },
+   "A00000253747":{
+      "name":"TCC Islandia",
+      "address":"1748 VETERANS HWY",
+      "city":"ISLANDIA",
+      "state":"New York",
+      "zip":"11749",
+      "phone":"6317618606",
+      "latitude":"40.80424417",
+      "longitude":"-73.17913393"
+   },
+   "A00000244542":{
+      "name":"TCC Sayville",
+      "address":"5640 SUNRISE HIGHWAY",
+      "city":"SAYVILLE",
+      "state":"New York",
+      "zip":"11782",
+      "phone":"6315630101",
+      "latitude":"40.76642555",
+      "longitude":"-73.07419995"
+   },
+   "A00000256507":{
+      "name":"Cellular Sales Islandia NY",
+      "address":"3701 EXPRESSWAY DR N",
+      "city":"ISLANDIA",
+      "state":"New York",
+      "zip":"11749",
+      "phone":"6312340610",
+      "latitude":"40.81018022",
+      "longitude":"-73.16005947"
+   },
+   "A00000257788":{
+      "name":"TCC Brentwood",
+      "address":"460 Suffolk Ave",
+      "city":"BRENTWOOD",
+      "state":"New York",
+      "zip":"11717",
+      "phone":"6312313437",
+      "latitude":"40.7783862",
+      "longitude":"-73.25796529"
+   },
+   "A00000257692":{
+      "name":"TCC Bay Shore",
+      "address":"860 SUNRISE HWY",
+      "city":"BAY SHORE",
+      "state":"New York",
+      "zip":"11706",
+      "phone":"6316653700",
+      "latitude":"40.72926457",
+      "longitude":"-73.2776251"
+   },
+   "A00000245636":{
+      "name":"Russell Cellular Blue Point",
+      "address":"38 Montauk Hwy",
+      "city":"Blue Point",
+      "state":"New York",
+      "zip":"11715",
+      "phone":"6318687070",
+      "latitude":"40.752514",
+      "longitude":"-73.039506"
+   },
+   "A00000252623":{
+      "name":"Russell Cellular Hauppauge",
+      "address":"534 Route 111",
+      "city":"HAUPPAUGE",
+      "state":"New York",
+      "zip":"11788",
+      "phone":"6313523600",
+      "latitude":"40.82772756",
+      "longitude":"-73.2005457"
+   },
+   "R00000197319":{
+      "name":"Patchogue",
+      "address":"499-43 Sunrise HWY",
+      "city":"Patchogue",
+      "state":"New York",
+      "zip":"11772",
+      "phone":"6314750183",
+      "latitude":"40.7771256",
+      "longitude":"-73.0363745"
+   },
+   "A00000246276":{
+      "name":"TCC Lake Ronkonkoma",
+      "address":"575 PORTION RD",
+      "city":"LAKE RONKONKOMA",
+      "state":"New York",
+      "zip":"11779",
+      "phone":"6314678088",
+      "latitude":"40.83054898",
+      "longitude":"-73.09188156"
+   },
+   "A00000258676":{
+      "name":"Best Wireless Patchogue",
+      "address":"90 E Main St",
+      "city":"PATCHOGUE",
+      "state":"New York",
+      "zip":"11772",
+      "phone":"6314391100",
+      "latitude":"40.76556588",
+      "longitude":"-73.01302222"
+   },
+   "A00000244500":{
+      "name":"Russell Cellular West Islip",
+      "address":"420 Montauk Highway",
+      "city":"WEST ISLIP",
+      "state":"New York",
+      "zip":"11795",
+      "phone":"6316694888",
+      "latitude":"40.69673922",
+      "longitude":"-73.31270311"
+   },
+   "A00000253722":{
+      "name":"TCC Smithtown",
+      "address":"74 E MAIN ST",
+      "city":"SMITHTOWN",
+      "state":"New York",
+      "zip":"11787",
+      "phone":"6317805219",
+      "latitude":"40.85540825",
+      "longitude":"-73.1921823"
+   },
+   "A00000245319":{
+      "name":"Cellular Sales North Babylon",
+      "address":"1502 DEER PARK AVE",
+      "city":"NORTH BABYLON",
+      "state":"New York",
+      "zip":"11703",
+      "phone":"6312424211",
+      "latitude":"40.74815356",
+      "longitude":"-73.32430418"
+   },
+   "A00000256167":{
+      "name":"Your Wireless Commack",
+      "address":"664 COMMACK RD",
+      "city":"COMMACK",
+      "state":"New York",
+      "zip":"11725",
+      "phone":"6314930500",
+      "latitude":"40.81109288",
+      "longitude":"-73.29399945"
+   },
+   "R00000047157":{
+      "name":"Smith Haven",
+      "address":"1 Smith Haven Mall",
+      "city":"Lake Grove",
+      "state":"New York",
+      "zip":"11755",
+      "phone":"6313823720",
+      "latitude":"40.862854",
+      "longitude":"-73.1288349"
+   },
+   "A00000244564":{
+      "name":"Cellular Sales Commack",
+      "address":"2002 JERICHO TPKE",
+      "city":"COMMACK",
+      "state":"New York",
+      "zip":"11725",
+      "phone":"6316706699",
+      "latitude":"40.8449178",
+      "longitude":"-73.27305169"
+   },
+   "A00000253331":{
+      "name":"Cellular Sales Selden",
+      "address":"1277 Middle Country Rd",
+      "city":"SELDEN",
+      "state":"New York",
+      "zip":"11784",
+      "phone":"6313203783",
+      "latitude":"40.86259457",
+      "longitude":"-73.05698489"
+   },
+   "A00000245838":{
+      "name":"Russell Cellular Lindenhurst",
+      "address":"310 East Montauk Highway",
+      "city":"LINDENHURST",
+      "state":"New York",
+      "zip":"11757",
+      "phone":"6319918500",
+      "latitude":"40.68354054",
+      "longitude":"-73.35448455"
+   },
+   "R00000002087":{
+      "name":"East Northport",
+      "address":"4000 Jericho Tpke",
+      "city":"East Northport",
+      "state":"New York",
+      "zip":"11731",
+      "phone":"6314991820",
+      "latitude":"40.8394784",
+      "longitude":"-73.3159086"
+   },
+   "A00000255629":{
+      "name":"Cellular Sales Medford NY",
+      "address":"2815 HORSEBLOCK RD",
+      "city":"MEDFORD",
+      "state":"New York",
+      "zip":"11763",
+      "phone":"6314969880",
+      "latitude":"40.82734638",
+      "longitude":"-72.99295603"
+   },
+   "A00000254053":{
+      "name":"Your Wireless Kings Park",
+      "address":"1 MAIN ST",
+      "city":"KINGS PARK",
+      "state":"New York",
+      "zip":"11754",
+      "phone":"6312696578",
+      "latitude":"40.88448527",
+      "longitude":"-73.25373018"
+   },
+   "A00000018679":{
+      "name":"Wireless Zone Great Barrington",
+      "address":"740 MAIN STREET",
+      "city":"GREAT BARRINGTON",
+      "state":"Massachusetts",
+      "zip":"01230",
+      "phone":"4135288800",
+      "latitude":"42.18066348",
+      "longitude":"-73.36453312"
+   },
+   "A00000282965":{
+      "name":"TCC Hudson",
+      "address":"462 Fairview Ave",
+      "city":"Hudson",
+      "state":"New York",
+      "zip":"12534",
+      "phone":"5186607600",
+      "latitude":"42.28119",
+      "longitude":"-73.756399"
+   },
+   "A00000255080":{
+      "name":"Cellular Sales Lenox",
+      "address":"505 PITTSFIELD RD",
+      "city":"LENOX",
+      "state":"Massachusetts",
+      "zip":"01240",
+      "phone":"4133449458",
+      "latitude":"42.4052081",
+      "longitude":"-73.26515822"
+   },
+   "R00000002557":{
+      "name":"Pittsfield",
+      "address":"555 Hubbard Ave",
+      "city":"Pittsfield",
+      "state":"Massachusetts",
+      "zip":"01201",
+      "phone":"4134453000",
+      "latitude":"42.4685643",
+      "longitude":"-73.1968604"
+   },
+   "A00000232434":{
+      "name":"TCC Catskill",
+      "address":"40 GRANDVIEW PLZ",
+      "city":"CATSKILL",
+      "state":"New York",
+      "zip":"12414",
+      "phone":"5189437800",
+      "latitude":"42.21387411",
+      "longitude":"-73.87784343"
+   },
+   "A00000327720":{
+      "name":"Cellular Sales East Greenbush",
+      "address":"597 Columbia Tpke",
+      "city":"East Greenbush",
+      "state":"New York",
+      "zip":"12061",
+      "phone":"5182453443",
+      "latitude":"42.59929",
+      "longitude":"-73.710293"
+   },
+   "A00000252785":{
+      "name":"GoWireless Liberty Sullivan Ave",
+      "address":"15 SULLIVAN AVENUE",
+      "city":"LIBERTY",
+      "state":"New York",
+      "zip":"12754",
+      "phone":"8457479167",
+      "latitude":"41.78635313",
+      "longitude":"-74.72854562"
+   },
+   "A00000253763":{
+      "name":"TCC Honesdale",
+      "address":"650 OLD WILLOW AVE",
+      "city":"HONESDALE",
+      "state":"Pennsylvania",
+      "zip":"18431",
+      "phone":"5702513200",
+      "latitude":"41.55139536",
+      "longitude":"-75.23468348"
+   },
+   "R00000006330":{
+      "name":"Orange Plaza",
+      "address":"61 Orange Plaza Ln",
+      "city":"Middletown",
+      "state":"New York",
+      "zip":"10940",
+      "phone":"8453269000",
+      "latitude":"41.454377",
+      "longitude":"-74.3826133"
+   },
+   "R00000151700":{
+      "name":"Dickson City",
+      "address":"1504 Scranton Carbondale Hwy",
+      "city":"Scranton",
+      "state":"Pennsylvania",
+      "zip":"18508",
+      "phone":"5704890142",
+      "latitude":"41.4705361",
+      "longitude":"-75.6360815"
+   },
+   "A00000245003":{
+      "name":"Cellular Sales Oneida",
+      "address":"1067 ONEIDA PLAZA DR",
+      "city":"ONEIDA",
+      "state":"New York",
+      "zip":"13421",
+      "phone":"3152800741",
+      "latitude":"43.07694094",
+      "longitude":"-75.69046509"
+   },
+   "A00000224604":{
+      "name":"Cellular Sales Fayetteville",
+      "address":"6901 E GENESEE ST",
+      "city":"FAYETTEVILLE",
+      "state":"New York",
+      "zip":"13066",
+      "phone":"3157603144",
+      "latitude":"43.02835425",
+      "longitude":"-76.04489174"
+   },
+   "R00000001883":{
+      "name":"Erie Blvd",
+      "address":"3433 Erie Blvd E",
+      "city":"Syracuse",
+      "state":"New York",
+      "zip":"13214",
+      "phone":"3154459060",
+      "latitude":"43.0464968",
+      "longitude":"-76.0689553"
+   },
+   "A00000235495":{
+      "name":"Cellular Sales Syracuse Thompson Rd",
+      "address":"6511 THOMPSON RD",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13206",
+      "phone":"3153730929",
+      "latitude":"43.08641426",
+      "longitude":"-76.09030907"
+   },
+   "R00000003232":{
+      "name":"Destiny USA Mall",
+      "address":"1 Destiny Usa Dr",
+      "city":"Syracuse",
+      "state":"New York",
+      "zip":"13204",
+      "phone":"3157014720",
+      "latitude":"43.0683385",
+      "longitude":"-76.1733996"
+   },
+   "A00000254434":{
+      "name":"R Wireless N Syracuse",
+      "address":"113 LAWRENCE ROAD EAST",
+      "city":"N SYRACUSE",
+      "state":"New York",
+      "zip":"13212",
+      "phone":"3154540010",
+      "latitude":"43.115609",
+      "longitude":"-76.146628"
+   },
+   "R00000168915":{
+      "name":"Cicero",
+      "address":"8063 Brewerton Rd",
+      "city":"Cicero",
+      "state":"New York",
+      "zip":"13039",
+      "phone":"3157520423",
+      "latitude":"43.1610534",
+      "longitude":"-76.1211123"
+   },
+   "A00000028222":{
+      "name":"Wireless Zone Liverpool",
+      "address":"318 OSWEGO ST.",
+      "city":"LIVERPOOL",
+      "state":"New York",
+      "zip":"13088",
+      "phone":"3157080800",
+      "latitude":"43.1016704",
+      "longitude":"-76.20268859"
+   },
+   "A00000257593":{
+      "name":"Cellular Sales Camillus",
+      "address":"3705 W GENESEE ST",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13219",
+      "phone":"3154845881",
+      "latitude":"43.04666012",
+      "longitude":"-76.23954481"
+   },
+   "A00000254496":{
+      "name":"GoWireless CamIllus Township Blvd",
+      "address":"130 TOWNSHIP BLVD",
+      "city":"CAMILLUS",
+      "state":"New York",
+      "zip":"13031",
+      "phone":"3158026225",
+      "latitude":"43.05536989",
+      "longitude":"-76.2678743"
+   },
+   "A00000252554":{
+      "name":"Cellular Sales Rome",
+      "address":"320 ADAMS STREET",
+      "city":"ROME",
+      "state":"New York",
+      "zip":"13440",
+      "phone":"3153710207",
+      "latitude":"43.21237838",
+      "longitude":"-75.46460973"
+   },
+   "R00000003148":{
+      "name":"Seneca Turnpike",
+      "address":"8500 Seneca Tpke",
+      "city":"New Hartford",
+      "state":"New York",
+      "zip":"13413",
+      "phone":"3157974444",
+      "latitude":"43.0803032",
+      "longitude":"-75.3208751"
+   },
+   "R00000163284":{
+      "name":"New York Mills",
+      "address":"4848 Commercial Dr",
+      "city":"New Hartford",
+      "state":"New York",
+      "zip":"13413",
+      "phone":"3153680333",
+      "latitude":"43.0964724",
+      "longitude":"-75.3030072"
+   },
+   "A00000246243":{
+      "name":"Cellular Sales Utica",
+      "address":"710 HORATIO ST",
+      "city":"UTICA",
+      "state":"New York",
+      "zip":"13502",
+      "phone":"3155072157",
+      "latitude":"43.1261282",
+      "longitude":"-75.22672733"
+   },
+   "A00000243947":{
+      "name":"TCC Alden",
+      "address":"13129 BROADWAY ST",
+      "city":"ALDEN",
+      "state":"New York",
+      "zip":"14004",
+      "phone":"7169379472",
+      "latitude":"42.89915447",
+      "longitude":"-78.49869503"
+   },
+   "R00000161810":{
+      "name":"Batavia NY",
+      "address":"8351 Lewiston Rd",
+      "city":"Batavia",
+      "state":"New York",
+      "zip":"14020",
+      "phone":"5853450919",
+      "latitude":"43.0080561",
+      "longitude":"-78.2062787"
+   },
+   "R00000002806":{
+      "name":"Transit Road",
+      "address":"6733 Transit Rd",
+      "city":"Buffalo",
+      "state":"New York",
+      "zip":"14221",
+      "phone":"7166329750",
+      "latitude":"42.9558789",
+      "longitude":"-78.696321"
+   },
+   "A00000244295":{
+      "name":"Cellular Sales East Amherst",
+      "address":"6051 TRANSIT RD",
+      "city":"EAST AMHERST",
+      "state":"New York",
+      "zip":"14051",
+      "phone":"7166896404",
+      "latitude":"43.01225",
+      "longitude":"-78.69674246"
+   },
+   "A00000257054":{
+      "name":"Cellular Sales Depew",
+      "address":"3263 WALDEN AVE",
+      "city":"DEPEW",
+      "state":"New York",
+      "zip":"14043",
+      "phone":"7162887502",
+      "latitude":"42.91172913",
+      "longitude":"-78.69716227"
+   },
+   "A00000233185":{
+      "name":"TCC Depew",
+      "address":"4891 Transit Rd",
+      "city":"DEPEW",
+      "state":"New York",
+      "zip":"14043",
+      "phone":"7166684848",
+      "latitude":"42.87627481",
+      "longitude":"-78.69673573"
+   },
+   "A00000253451":{
+      "name":"Cellular Sales Williamsville Main St",
+      "address":"5221 MAIN ST",
+      "city":"WILLIAMSVILLE",
+      "state":"New York",
+      "zip":"14221",
+      "phone":"7165807608",
+      "latitude":"42.96051079",
+      "longitude":"-78.75811898"
+   },
+   "A00000013041":{
+      "name":"Wireless Zone East Aurora",
+      "address":"123 Grey Street",
+      "city":"East Aurora",
+      "state":"New York",
+      "zip":"14052",
+      "phone":"7166523430",
+      "latitude":"42.76563232",
+      "longitude":"-78.63276812"
+   },
+   "R00000248792":{
+      "name":"Walden Ave.",
+      "address":"3393 Union Rd",
+      "city":"Cheektowaga",
+      "state":"New York",
+      "zip":"14225",
+      "phone":"7166864300",
+      "latitude":"42.9065231",
+      "longitude":"-78.7537494"
+   },
+   "A00000256758":{
+      "name":"Cellular Sales Buffalo Walden Galleria",
+      "address":"1 WALDEN GALLERIA",
+      "city":"BUFFALO",
+      "state":"New York",
+      "zip":"14225",
+      "phone":"7166853053",
+      "latitude":"42.90811867",
+      "longitude":"-78.75916254"
+   },
+   "A00000255701":{
+      "name":"Russell Cellular Le Roy",
+      "address":"128 W Main St",
+      "city":"LE ROY",
+      "state":"New York",
+      "zip":"14482",
+      "phone":"5855078394",
+      "latitude":"42.97819707",
+      "longitude":"-78.00514791"
+   },
+   "A00000035056":{
+      "name":"Wireless Zone Lockport",
+      "address":"5696 S TRANSIT RD",
+      "city":"LOCKPORT",
+      "state":"New York",
+      "zip":"14094",
+      "phone":"7164390300",
+      "latitude":"43.14912667",
+      "longitude":"-78.69707796"
+   },
+   "A00000031773":{
+      "name":"Russell Cellular Warsaw",
+      "address":"429 N MAIN ST",
+      "city":"WARSAW",
+      "state":"New York",
+      "zip":"14569",
+      "phone":"5857868540",
+      "latitude":"42.75771014",
+      "longitude":"-78.13139384"
+   },
+   "A00000254201":{
+      "name":"Cellular Sales Albion",
+      "address":"214 WEST AVE",
+      "city":"ALBION",
+      "state":"New York",
+      "zip":"14411",
+      "phone":"5852834110",
+      "latitude":"43.24075599",
+      "longitude":"-78.19942945"
+   },
+   "A00000258119":{
+      "name":"Cellular Sales Amherst Eggert Rd",
+      "address":"2155 Eggert Rd",
+      "city":"AMHERST",
+      "state":"New York",
+      "zip":"14226",
+      "phone":"7168341473",
+      "latitude":"42.97956773",
+      "longitude":"-78.82204147"
+   },
+   "R00000004760":{
+      "name":"Niagara Falls Blvd.",
+      "address":"1703 Niagara Falls Blvd",
+      "city":"Buffalo",
+      "state":"New York",
+      "zip":"14228",
+      "phone":"7168319100",
+      "latitude":"43.0007394",
+      "longitude":"-78.8218061"
+   },
+   "A00000250506":{
+      "name":"Cellular Sales West Seneca",
+      "address":"701 ORCHARD PARK RD",
+      "city":"WEST SENECA",
+      "state":"New York",
+      "zip":"14224",
+      "phone":"7167713099",
+      "latitude":"42.82948972",
+      "longitude":"-78.77649237"
+   },
+   "A00000256387":{
+      "name":"Cellular Sales Amherst",
+      "address":"3010 NIAGARA FALLS BLVD",
+      "city":"AMHERST",
+      "state":"New York",
+      "zip":"14228",
+      "phone":"7166934905",
+      "latitude":"43.03652805",
+      "longitude":"-78.82342299"
+   },
+   "R00000249885":{
+      "name":"Quaker Crossing",
+      "address":"3500 Amelia Dr",
+      "city":"Orchard Park",
+      "state":"New York",
+      "zip":"14127",
+      "phone":"7162493241",
+      "latitude":"42.7898699",
+      "longitude":"-78.78277"
+   },
+   "A00000233186":{
+      "name":"TCC Buffalo",
+      "address":"2290 Delaware Ave",
+      "city":"BUFFALO",
+      "state":"New York",
+      "zip":"14216",
+      "phone":"7168751510",
+      "latitude":"42.9464157",
+      "longitude":"-78.86852015"
+   },
+   "A00000260347":{
+      "name":"Russell Cellular Buffalo NY",
+      "address":"3600 Delaware Ave",
+      "city":"Buffalo",
+      "state":"New York",
+      "zip":"14217",
+      "phone":"7164232180",
+      "latitude":"42.982445",
+      "longitude":"-78.872721"
+   },
+   "A00000235538":{
+      "name":"Cellular Sales Rochester University Ave",
+      "address":"1190 UNIVERSITY AVE",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14607",
+      "phone":"5854612355",
+      "latitude":"43.15190933",
+      "longitude":"-77.57122789"
+   },
+   "A00000236458":{
+      "name":"Cellular Sales Rochester Culver Rd",
+      "address":"3045 CULVER RD",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14622",
+      "phone":"5852708449",
+      "latitude":"43.2039208",
+      "longitude":"-77.5620608"
+   },
+   "A00000250081":{
+      "name":"TCC Rochester",
+      "address":"2362 LYELL AVE.",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14606",
+      "phone":"5852472220",
+      "latitude":"43.16486104",
+      "longitude":"-77.68999063"
+   },
+   "R00000250528":{
+      "name":"West Ridge",
+      "address":"1908 W Ridge Rd",
+      "city":"Greece",
+      "state":"New York",
+      "zip":"14615",
+      "phone":"5854539950",
+      "latitude":"43.2076177",
+      "longitude":"-77.678082"
+   },
+   "A00000256090":{
+      "name":"VICTRA ROCHESTER GREECE RIDGE CTR DR",
+      "address":"530 GREECE RIDGE CENTER DR",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14626",
+      "phone":"5854919673",
+      "latitude":"43.20775766",
+      "longitude":"-77.69096612"
+   },
+   "A00000243926":{
+      "name":"Cellular Sales Rochester Dewey Ave",
+      "address":"3687 DEWEY AVE",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14616",
+      "phone":"5856633688",
+      "latitude":"43.23725156",
+      "longitude":"-77.64703095"
+   },
+   "A00000257857":{
+      "name":"Cellular Sales Webster",
+      "address":"1930 EMPIRE BLVD",
+      "city":"WEBSTER",
+      "state":"New York",
+      "zip":"14580",
+      "phone":"5853474375",
+      "latitude":"43.19227346",
+      "longitude":"-77.50242699"
+   },
+   "R00000233396":{
+      "name":"Jefferson Road",
+      "address":"1150 Jefferson Rd",
+      "city":"Rochester",
+      "state":"New York",
+      "zip":"14623",
+      "phone":"5856975900",
+      "latitude":"43.087836",
+      "longitude":"-77.6064669"
+   },
+   "R00000248793":{
+      "name":"Pittsford",
+      "address":"3349 Monroe Ave",
+      "city":"Rochester",
+      "state":"New York",
+      "zip":"14618",
+      "phone":"5852428866",
+      "latitude":"43.1011991",
+      "longitude":"-77.538944"
+   },
+   "A00000254755":{
+      "name":"GoWireless Rochester West Ridge Rd",
+      "address":"3839 WEST RIDGE RD.",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14626",
+      "phone":"5854718149",
+      "latitude":"43.21426907",
+      "longitude":"-77.73156486"
+   },
+   "R00000003271":{
+      "name":"Webster",
+      "address":"935 Holt Rd",
+      "city":"Webster",
+      "state":"New York",
+      "zip":"14580",
+      "phone":"5852163149",
+      "latitude":"43.2113672",
+      "longitude":"-77.4475676"
+   },
+   "A00000032652":{
+      "name":"Wireless Zone Rochester",
+      "address":"3170 Chili Ave",
+      "city":"Rochester",
+      "state":"New York",
+      "zip":"14624",
+      "phone":"5852473610",
+      "latitude":"43.10728",
+      "longitude":"-77.74615"
+   },
+   "A00000021530":{
+      "name":"Wireless Zone Penfield",
+      "address":"2200 PENFIELD ROAD",
+      "city":"PENFIELD",
+      "state":"New York",
+      "zip":"14526",
+      "phone":"5853773230",
+      "latitude":"43.13092712",
+      "longitude":"-77.43916711"
+   },
+   "A00000256106":{
+      "name":"VICTRA VICTOR EASTVIEW MALL",
+      "address":"442 EASTVIEW MALL",
+      "city":"VICTOR",
+      "state":"New York",
+      "zip":"14564",
+      "phone":"5852368811",
+      "latitude":"43.03155814",
+      "longitude":"-77.44534901"
+   },
+   "R00000249297":{
+      "name":"Victor",
+      "address":"60 Square Dr",
+      "city":"Victor",
+      "state":"New York",
+      "zip":"14564",
+      "phone":"5852239950",
+      "latitude":"43.0329551",
+      "longitude":"-77.4416397"
+   },
+   "A00000254638":{
+      "name":"Cellular Sales Macedon",
+      "address":"1146 PITTSFORD PALMYRA RD",
+      "city":"MACEDON",
+      "state":"New York",
+      "zip":"14502",
+      "phone":"3155388861",
+      "latitude":"43.06429289",
+      "longitude":"-77.32167329"
+   },
+   "A00000255594":{
+      "name":"Russell Cellular Ontario NY",
+      "address":"6254 Furnace Rd",
+      "city":"Ontario",
+      "state":"New York",
+      "zip":"14519",
+      "phone":"5857360194",
+      "latitude":"43.225848",
+      "longitude":"-77.282438"
+   },
+   "A00000233097":{
+      "name":"Cellular Sales Brockport",
+      "address":"1000 TRANSIT WAY",
+      "city":"BROCKPORT",
+      "state":"New York",
+      "zip":"14420",
+      "phone":"5853951023",
+      "latitude":"43.19809137",
+      "longitude":"-77.9326381"
+   },
+   "A00000032164":{
+      "name":"Wireless Zone Brockport",
+      "address":"4756 Lake Rd S",
+      "city":"Brockport",
+      "state":"New York",
+      "zip":"14420",
+      "phone":"5856376010",
+      "latitude":"43.19935",
+      "longitude":"-77.943214"
+   },
+   "A00000258042":{
+      "name":"VICTRA Beaver",
+      "address":"1701 3RD ST",
+      "city":"BEAVER",
+      "state":"Pennsylvania",
+      "zip":"15009",
+      "phone":"7243594106",
+      "latitude":"40.68869507",
+      "longitude":"-80.31977544"
+   },
+   "R00000282997":{
+      "name":"Monaca",
+      "address":"880 Route 18",
+      "city":"Monaca",
+      "state":"Pennsylvania",
+      "zip":"15061",
+      "phone":"7247752866",
+      "latitude":"40.6729387166776",
+      "longitude":"-80.3121663650513"
+   },
+   "A00000233500":{
+      "name":"Wireless Zone Aliquippa",
+      "address":"3113 Green Garden Rd",
+      "city":"ALIQUIPPA",
+      "state":"Pennsylvania",
+      "zip":"15001",
+      "phone":"7243750600",
+      "latitude":"40.60013347",
+      "longitude":"-80.30488964"
+   },
+   "R00000235776":{
+      "name":"Calcutta",
+      "address":"15765 State Route 170",
+      "city":"East Liverpool",
+      "state":"Ohio",
+      "zip":"43920",
+      "phone":"3303850245",
+      "latitude":"40.6733262",
+      "longitude":"-80.5820429"
+   },
+   "A00000023697":{
+      "name":"Wireless Zone Beaver Falls",
+      "address":"242 CHIPPEWA TOWN CENTRE",
+      "city":"BEAVER FALLS",
+      "state":"Pennsylvania",
+      "zip":"15010",
+      "phone":"7248461845",
+      "latitude":"40.78037015",
+      "longitude":"-80.38304537"
+   },
+   "A00000256357":{
+      "name":"Cellular Sales Moon Township",
+      "address":"8929 UNIVERSITY BLVD",
+      "city":"CORAOPOLIS",
+      "state":"Pennsylvania",
+      "zip":"15108",
+      "phone":"4122645707",
+      "latitude":"40.50446758",
+      "longitude":"-80.2225067"
+   },
+   "A00000206479":{
+      "name":"TCC Sewickley",
+      "address":"539 BEAVER STREET",
+      "city":"SEWICKLEY",
+      "state":"Pennsylvania",
+      "zip":"15143",
+      "phone":"4127415313",
+      "latitude":"40.53943268",
+      "longitude":"-80.17930812"
+   },
+   "A00000246502":{
+      "name":"VICTRA ELLWOOD CITY",
+      "address":"281 STATE ROUTE 288",
+      "city":"ELLWOOD CITY",
+      "state":"Pennsylvania",
+      "zip":"16117",
+      "phone":"7244733525",
+      "latitude":"40.84650009",
+      "longitude":"-80.25900869"
+   },
+   "R00000171811":{
+      "name":"Cranberry",
+      "address":"20436 Route 19",
+      "city":"Cranberry Township",
+      "state":"Pennsylvania",
+      "zip":"16066",
+      "phone":"7247429044",
+      "latitude":"40.695544",
+      "longitude":"-80.10372"
+   },
+   "A00000246255":{
+      "name":"TCC Cranberry Township Mackenzie Way",
+      "address":"2030 MACKENZIE WAY",
+      "city":"CRANBERRY TOWNSHIP",
+      "state":"Pennsylvania",
+      "zip":"16066",
+      "phone":"7245918511",
+      "latitude":"40.68650425",
+      "longitude":"-80.08779442"
+   },
+   "A00000176976":{
+      "name":"TCC Weirton",
+      "address":"241 Three Springs Dr",
+      "city":"WEIRTON",
+      "state":"West Virginia",
+      "zip":"26062",
+      "phone":"3047405030",
+      "latitude":"40.40044395",
+      "longitude":"-80.54964759"
+   },
+   "A00000252320":{
+      "name":"Victra Pittsburgh Robinson Ctr Dr",
+      "address":"100 Robinson Center Dr",
+      "city":"Pittsburgh",
+      "state":"Pennsylvania",
+      "zip":"15205",
+      "phone":"4125055195",
+      "latitude":"40.454008",
+      "longitude":"-80.16017"
+   },
+   "A00000246521":{
+      "name":"Victra Pittsburgh Mt Nebo Pointe Rd",
+      "address":"250 Mount Nebo Pointe Rd",
+      "city":"Pittsburgh",
+      "state":"Pennsylvania",
+      "zip":"15237",
+      "phone":"4125368340",
+      "latitude":"40.532951",
+      "longitude":"-80.070574"
+   },
+   "R00000170761":{
+      "name":"Settler's Ridge",
+      "address":"250 Settlers Ridge Center Dr",
+      "city":"Pittsburgh",
+      "state":"Pennsylvania",
+      "zip":"15205",
+      "phone":"4127875406",
+      "latitude":"40.4407375",
+      "longitude":"-80.1501721"
+   },
+   "A00000171931":{
+      "name":"Wireless Zone Pittsburgh St Simon Way",
+      "address":"9028 ST. SIMON WAY",
+      "city":"PITTSBURGH",
+      "state":"Pennsylvania",
+      "zip":"15237",
+      "phone":"4123640493",
+      "latitude":"40.56903841",
+      "longitude":"-80.0252311"
+   },
+   "A00000243472":{
+      "name":"TCC Steubenville Sunset Blvd",
+      "address":"2203 Sunset Blvd",
+      "city":"STEUBENVILLE",
+      "state":"Ohio",
+      "zip":"43952",
+      "phone":"7403462624",
+      "latitude":"40.36941417",
+      "longitude":"-80.6406664"
+   },
+   "A00000246442":{
+      "name":"VICTRA NEW CASTLE E WASHINGTON ST",
+      "address":"1909 E. WASHINGTON STREET",
+      "city":"NEW CASTLE",
+      "state":"Pennsylvania",
+      "zip":"16101",
+      "phone":"7246586900",
+      "latitude":"40.97922709",
+      "longitude":"-80.31946972"
+   },
+   "R00000254186":{
+      "name":"North Hills",
+      "address":"7209 McKnight Rd",
+      "city":"Pittsburgh",
+      "state":"Pennsylvania",
+      "zip":"15237",
+      "phone":"4123698500",
+      "latitude":"40.5347973",
+      "longitude":"-80.0116461"
+   },
+   "A00000172001":{
+      "name":"Wireless Zone Pittsburgh Ross Park Mall",
+      "address":"1000 Ross Park Mall Dr",
+      "city":"Pittsburgh",
+      "state":"Pennsylvania",
+      "zip":"15237",
+      "phone":"4129260153",
+      "latitude":"40.541224",
+      "longitude":"-80.006336"
+   },
+   "A00000171934":{
+      "name":"TCC Wintersville",
+      "address":"864 MAIN STREET",
+      "city":"WINTERSVILLE",
+      "state":"Ohio",
+      "zip":"43953",
+      "phone":"7403460655",
+      "latitude":"40.37514287",
+      "longitude":"-80.7036"
+   },
+   "A00000255703":{
+      "name":"Wireless Zone New Castle",
+      "address":"2505 WEST STATE STREET",
+      "city":"NEW CASTLE",
+      "state":"Pennsylvania",
+      "zip":"16101",
+      "phone":"7242026607",
+      "latitude":"41.01148804",
+      "longitude":"-80.39322999"
+   },
+   "A00000282933":{
+      "name":"Cellular Sales Connellsville",
+      "address":"1420 Morrell Ave",
+      "city":"Connellsville",
+      "state":"Pennsylvania",
+      "zip":"15425",
+      "phone":"7242783900",
+      "latitude":"40.003029",
+      "longitude":"-79.603752"
+   },
+   "A00000039679":{
+      "name":"Wireless Zone Connellsville",
+      "address":"812 Vanderbilt Road",
+      "city":"Connellsville",
+      "state":"Pennsylvania",
+      "zip":"15425",
+      "phone":"7246261081",
+      "latitude":"40.01863986",
+      "longitude":"-79.60288786"
+   },
+   "A00000245410":{
+      "name":"Wireless Zone Mount Pleasant",
+      "address":"2118 SUMMIT RIDGE PLAZA",
+      "city":"MOUNT PLEASANT",
+      "state":"Pennsylvania",
+      "zip":"15666",
+      "phone":"7246914730",
+      "latitude":"40.12732884",
+      "longitude":"-79.54766964"
+   },
+   "R00000177750":{
+      "name":"Uniontown North",
+      "address":"505 Synergy Drive",
+      "city":"Uniontown",
+      "state":"Pennsylvania",
+      "zip":"15401",
+      "phone":"7244374724",
+      "latitude":"39.9153774",
+      "longitude":"-79.7518319"
+   },
+   "A00000252321":{
+      "name":"VICTRA SOMERSET N CENTER AVE",
+      "address":"1044 NORTH CENTER AVENUE",
+      "city":"SOMERSET",
+      "state":"Pennsylvania",
+      "zip":"15501",
+      "phone":"8142894107",
+      "latitude":"40.01804488",
+      "longitude":"-79.0777195"
+   },
+   "A00000258906":{
+      "name":"Wireless Zone Somerset",
+      "address":"2066 N CENTER AV   111",
+      "city":"SOMERSET",
+      "state":"Pennsylvania",
+      "zip":"15501",
+      "phone":"8142795707",
+      "latitude":"40.052729",
+      "longitude":"-79.074401"
+   },
+   "A00000260586":{
+      "name":"Wireless Zone Youngwood",
+      "address":"250 S 3rd St",
+      "city":"Youngwood",
+      "state":"Pennsylvania",
+      "zip":"15697",
+      "phone":"7247713781",
+      "latitude":"40.235315",
+      "longitude":"-79.580933"
+   },
+   "A00000029070":{
+      "name":"Wireless Zone Latrobe",
+      "address":"2401 SHARKEY'S DRIVE",
+      "city":"LATROBE",
+      "state":"Pennsylvania",
+      "zip":"15650",
+      "phone":"7245390105",
+      "latitude":"40.28571567",
+      "longitude":"-79.38974292"
+   },
+   "A00000235539":{
+      "name":"Wireless Zone St Marys",
+      "address":"863a S Saint Marys St",
+      "city":"Saint Marys",
+      "state":"Pennsylvania",
+      "zip":"15857",
+      "phone":"8148345117",
+      "latitude":"41.409512",
+      "longitude":"-78.560507"
+   },
+   "A00000257308":{
+      "name":"Cellular Sales Saint Marys",
+      "address":"1107 MILLION DOLLAR HWY",
+      "city":"SAINT MARYS",
+      "state":"Pennsylvania",
+      "zip":"15857",
+      "phone":"8147882551",
+      "latitude":"41.39065495",
+      "longitude":"-78.55780701"
+   },
+   "R00000001715":{
+      "name":"Olean",
+      "address":"3048 West State Street",
+      "city":"Olean",
+      "state":"New York",
+      "zip":"14760",
+      "phone":"7163732056",
+      "latitude":"42.0772304",
+      "longitude":"-78.4666139"
+   },
+   "R00000003214":{
+      "name":"Jamestown",
+      "address":"901 Fairmount Ave",
+      "city":"Jamestown",
+      "state":"New York",
+      "zip":"14701",
+      "phone":"7167637500",
+      "latitude":"42.0970382",
+      "longitude":"-79.2891455"
+   },
+   "R00000001138":{
+      "name":"State College",
+      "address":"2030 N Atherton St",
+      "city":"State College",
+      "state":"Pennsylvania",
+      "zip":"16803",
+      "phone":"8142313948",
+      "latitude":"40.8090175",
+      "longitude":"-77.9077194"
+   },
+   "A00000254261":{
+      "name":"Wireless Zone Franklin",
+      "address":"6885 US 322",
+      "city":"FRANKLIN",
+      "state":"Pennsylvania",
+      "zip":"16323",
+      "phone":"8145161643",
+      "latitude":"41.35265281",
+      "longitude":"-79.7219247"
+   },
+   "A00000252319":{
+      "name":"Victra Cranberry",
+      "address":"124 Home Depot Dr",
+      "city":"Franklin",
+      "state":"Pennsylvania",
+      "zip":"16323",
+      "phone":"7248704377",
+      "latitude":"41.3573",
+      "longitude":"-79.7407"
+   },
+   "A00000252313":{
+      "name":"VICTRA FRANKLIN LIBERTY ST",
+      "address":"1241 LIBERTY STREET",
+      "city":"FRANKLIN",
+      "state":"Pennsylvania",
+      "zip":"16323",
+      "phone":"8143463113",
+      "latitude":"41.39752368",
+      "longitude":"-79.82965649"
+   },
+   "A00000246419":{
+      "name":"VICTRA TITUSVILLE",
+      "address":"105 DIAMOND STREET",
+      "city":"TITUSVILLE",
+      "state":"Pennsylvania",
+      "zip":"16354",
+      "phone":"8148273555",
+      "latitude":"41.62631736",
+      "longitude":"-79.67322406"
+   },
+   "A00000251494":{
+      "name":"TCC Clarion",
+      "address":"38 Clarion Plz",
+      "city":"Clarion",
+      "state":"Pennsylvania",
+      "zip":"16214",
+      "phone":"8142978221",
+      "latitude":"41.1924",
+      "longitude":"-79.3965"
+   },
+   "R00000161474":{
+      "name":"Butler PA",
+      "address":"540 Butler Crossing",
+      "city":"Butler",
+      "state":"Pennsylvania",
+      "zip":"16001",
+      "phone":"7242852900",
+      "latitude":"40.877455",
+      "longitude":"-79.9479881"
+   },
+   "R00000164235":{
+      "name":"Hermitage",
+      "address":"3372 E State St",
+      "city":"Hermitage",
+      "state":"Pennsylvania",
+      "zip":"16148",
+      "phone":"7243474360",
+      "latitude":"41.2316568",
+      "longitude":"-80.4482912"
+   },
+   "R00000007156":{
+      "name":"Erie",
+      "address":"7190 Peach St",
+      "city":"Erie",
+      "state":"Pennsylvania",
+      "zip":"16509",
+      "phone":"8148662211",
+      "latitude":"42.0537468",
+      "longitude":"-80.0872539"
+   },
+   "A00000253990":{
+      "name":"Russell Cellular Mifflinburg PA",
+      "address":"8 E CHESTNUT STREET",
+      "city":"MIFFLINBURG",
+      "state":"Pennsylvania",
+      "zip":"17844",
+      "phone":"5707283074",
+      "latitude":"40.92155573",
+      "longitude":"-77.03701853"
+   },
+   "A00000253992":{
+      "name":"Russell Cellular Mill Hall PA",
+      "address":"2 Millbrook Plz",
+      "city":"Mill Hall",
+      "state":"Pennsylvania",
+      "zip":"17751",
+      "phone":"5702954154",
+      "latitude":"41.117301",
+      "longitude":"-77.477907"
+   },
+   "A00000254083":{
+      "name":"Wireless Zone Burnham",
+      "address":"225 NORTH LOGAN ST",
+      "city":"BURNHAM",
+      "state":"Pennsylvania",
+      "zip":"17009",
+      "phone":"7172501358",
+      "latitude":"40.63151533",
+      "longitude":"-77.56936011"
+   },
+   "A00000172258":{
+      "name":"TCC Lewisburg",
+      "address":"7431 WESTBRANCH HWY",
+      "city":"LEWISBURG",
+      "state":"Pennsylvania",
+      "zip":"17837",
+      "phone":"5705220725",
+      "latitude":"40.98142774",
+      "longitude":"-76.88367353"
+   },
+   "A00000161251":{
+      "name":"Wireless Zone Bellefonte",
+      "address":"141 S. ALLEGHENY",
+      "city":"BELLEFONTE",
+      "state":"Pennsylvania",
+      "zip":"16823",
+      "phone":"8148805353",
+      "latitude":"40.91111213",
+      "longitude":"-77.77773289"
+   },
+   "R00000260511":{
+      "name":"Selinsgrove",
+      "address":"1499 N Susquehanna Trl",
+      "city":"Selinsgrove",
+      "state":"Pennsylvania",
+      "zip":"17870",
+      "phone":"5703746777",
+      "latitude":"40.8301630058737",
+      "longitude":"-76.8411838945121"
+   },
+   "R00000001051":{
+      "name":"Williamsport",
+      "address":"1931 E 3rd St",
+      "city":"Williamsport",
+      "state":"Pennsylvania",
+      "zip":"17701",
+      "phone":"5703211896",
+      "latitude":"41.2498343",
+      "longitude":"-76.9621246"
+   },
+   "R00000002565":{
+      "name":"Buckhorn",
+      "address":"56 Plaza Dr",
+      "city":"Bloomsburg",
+      "state":"Pennsylvania",
+      "zip":"17815",
+      "phone":"5703877840",
+      "latitude":"41.0106614",
+      "longitude":"-76.4874856"
+   },
+   "R00000250925":{
+      "name":"Mechanicsburg PA",
+      "address":"6427 Carlisle Pike",
+      "city":"Mechanicsburg",
+      "state":"Pennsylvania",
+      "zip":"17050",
+      "phone":"7177968200",
+      "latitude":"40.2462479",
+      "longitude":"-77.0097262"
+   },
+   "A00000246118":{
+      "name":"Cellular Sales Hanover",
+      "address":"1408 BALTIMORE ST",
+      "city":"HANOVER",
+      "state":"Pennsylvania",
+      "zip":"17331",
+      "phone":"7176983288",
+      "latitude":"39.77363182",
+      "longitude":"-76.96012994"
+   },
+   "A00000256373":{
+      "name":"VICTRA HANOVER MALL",
+      "address":"1155 CARLISLE ST",
+      "city":"HANOVER",
+      "state":"Pennsylvania",
+      "zip":"17331",
+      "phone":"7176468646",
+      "latitude":"39.82133343",
+      "longitude":"-76.99621169"
+   },
+   "A00000164239":{
+      "name":"TCC Hanover Eisenhower Dr",
+      "address":"189 EISENHOWER DR",
+      "city":"HANOVER",
+      "state":"Pennsylvania",
+      "zip":"17331",
+      "phone":"7176300013",
+      "latitude":"39.82508019",
+      "longitude":"-76.99103028"
+   },
+   "A00000257338":{
+      "name":"Russell Cellular Littlestown",
+      "address":"790 W KING ST",
+      "city":"LITTLESTOWN",
+      "state":"Pennsylvania",
+      "zip":"17340",
+      "phone":"7173536917",
+      "latitude":"39.74275223",
+      "longitude":"-77.10068711"
+   },
+   "A00000257295":{
+      "name":"TCC Gettysburg",
+      "address":"1863 GETTYSBRG VLG DR",
+      "city":"GETTYSBURG",
+      "state":"Pennsylvania",
+      "zip":"17325",
+      "phone":"7175492928",
+      "latitude":"39.7961932",
+      "longitude":"-77.20019412"
+   },
+   "A00000236585":{
+      "name":"TCC Hampstead",
+      "address":"2319 HANOVER PIKE",
+      "city":"HAMPSTEAD",
+      "state":"Maryland",
+      "zip":"21074",
+      "phone":"4103745930",
+      "latitude":"39.63770135",
+      "longitude":"-76.86666664"
+   },
+   "A00000202823":{
+      "name":"TCC Gettysburg York Rd",
+      "address":"1275 YORK RD.",
+      "city":"GETTYSBURG",
+      "state":"Pennsylvania",
+      "zip":"17325",
+      "phone":"7173982506",
+      "latitude":"39.84391134",
+      "longitude":"-77.20100214"
+   },
+   "A00000206707":{
+      "name":"TCC Taneytown",
+      "address":"465 EAST BALTIMORE ST",
+      "city":"TANEYTOWN",
+      "state":"Maryland",
+      "zip":"21787",
+      "phone":"4107566959",
+      "latitude":"39.65137626",
+      "longitude":"-77.16139419"
+   },
+   "A00000260407":{
+      "name":"Russell Cellular Westminster",
+      "address":"250 Englar Rd",
+      "city":"Westminster",
+      "state":"Maryland",
+      "zip":"21157",
+      "phone":"4438217920",
+      "latitude":"39.584679",
+      "longitude":"-76.989019"
+   },
+   "R00000254639":{
+      "name":"Westminster Crossroads Sq",
+      "address":"625 Baltimore Blvd",
+      "city":"Westminster",
+      "state":"Maryland",
+      "zip":"21157",
+      "phone":"4108713420",
+      "latitude":"39.5628208",
+      "longitude":"-76.97278"
+   },
+   "A00000244483":{
+      "name":"VICTRA SHREWSBURY MT AIRY RD",
+      "address":"14605 MOUNT AIRY RD",
+      "city":"SHREWSBURY",
+      "state":"Pennsylvania",
+      "zip":"17361",
+      "phone":"7177594456",
+      "latitude":"39.77560353",
+      "longitude":"-76.67008561"
+   },
+   "A00000236938":{
+      "name":"Cellular Sales York",
+      "address":"2196 WHITE ST",
+      "city":"YORK",
+      "state":"Pennsylvania",
+      "zip":"17404",
+      "phone":"7177932045",
+      "latitude":"39.9635484",
+      "longitude":"-76.76725037"
+   },
+   "A00000164594":{
+      "name":"TCC Shrewsbury",
+      "address":"582 SHREWSBURY COMMONS AVE",
+      "city":"SHREWSBURY",
+      "state":"Pennsylvania",
+      "zip":"17361",
+      "phone":"7172353152",
+      "latitude":"39.77058684",
+      "longitude":"-76.66996671"
+   },
+   "R00000251209":{
+      "name":"York Route 30",
+      "address":"703 Loucks Rd",
+      "city":"York",
+      "state":"Pennsylvania",
+      "zip":"17404",
+      "phone":"7174305474",
+      "latitude":"39.9821123",
+      "longitude":"-76.7460544"
+   },
+   "A00000257855":{
+      "name":"Your Wireless York",
+      "address":"2525 E Market St",
+      "city":"YORK",
+      "state":"Pennsylvania",
+      "zip":"17402",
+      "phone":"7173562046",
+      "latitude":"39.9747048",
+      "longitude":"-76.67834867"
+   },
+   "A00000163736":{
+      "name":"TCC Red Lion",
+      "address":"3212 Cape Horn Rd",
+      "city":"RED LION",
+      "state":"Pennsylvania",
+      "zip":"17356",
+      "phone":"7172463060",
+      "latitude":"39.91522582",
+      "longitude":"-76.62877532"
+   },
+   "A00000252306":{
+      "name":"VICTRA YORK WHITEFORD RD",
+      "address":"2899 Whiteford Rd",
+      "city":"YORK",
+      "state":"Pennsylvania",
+      "zip":"17402",
+      "phone":"7177818255",
+      "latitude":"39.98783733",
+      "longitude":"-76.67430554"
+   },
+   "A00000255225":{
+      "name":"TCC Manchester Glen Dr",
+      "address":"135 GLEN DR",
+      "city":"MANCHESTER",
+      "state":"Pennsylvania",
+      "zip":"17345",
+      "phone":"7173846572",
+      "latitude":"40.04413895",
+      "longitude":"-76.72482705"
+   },
+   "A00000224574":{
+      "name":"TCC Dillsburg",
+      "address":"860 N Us Route 15",
+      "city":"Dillsburg",
+      "state":"Pennsylvania",
+      "zip":"17019",
+      "phone":"7174323801",
+      "latitude":"40.130941",
+      "longitude":"-77.019635"
+   },
+   "A00000253984":{
+      "name":"Russell Cellular Coal Township PA",
+      "address":"9319 STATE ROUTE 61",
+      "city":"COAL TOWNSHIP",
+      "state":"Pennsylvania",
+      "zip":"17866",
+      "phone":"5704864011",
+      "latitude":"40.78923373",
+      "longitude":"-76.50601309"
+   },
+   "A00000172257":{
+      "name":"TCC Saint Clair Terry Rich Blvd",
+      "address":"400 Terry Rich Blvd",
+      "city":"Saint Clair",
+      "state":"Pennsylvania",
+      "zip":"17970",
+      "phone":"5704290571",
+      "latitude":"40.728062",
+      "longitude":"-76.192557"
+   },
+   "A00000243443":{
+      "name":"TCC Pottsville",
+      "address":"1544 ROUTE 61 SOUTH",
+      "city":"POTTSVILLE",
+      "state":"Pennsylvania",
+      "zip":"17901",
+      "phone":"5703852088",
+      "latitude":"40.64081",
+      "longitude":"-76.18382072"
+   },
+   "A00000253988":{
+      "name":"Russell Cellular Danville Northumberland St",
+      "address":"163 Northumberland St",
+      "city":"Danville",
+      "state":"Pennsylvania",
+      "zip":"17821",
+      "phone":"5702381249",
+      "latitude":"40.966126",
+      "longitude":"-76.62285"
+   },
+   "A00000252308":{
+      "name":"VICTRA SELINSGROVE",
+      "address":"1 SUSQUEHANNA VALLEY MALL",
+      "city":"SELINSGROVE",
+      "state":"Pennsylvania",
+      "zip":"17870",
+      "phone":"5708845298",
+      "latitude":"40.82139806",
+      "longitude":"-76.84980781"
+   },
+   "A00000253878":{
+      "name":"TCC Bloomsburg",
+      "address":"1901 COLUMBIA BLVD",
+      "city":"BLOOMSBURG",
+      "state":"Pennsylvania",
+      "zip":"17815",
+      "phone":"5703172869",
+      "latitude":"41.00888222",
+      "longitude":"-76.42241819"
+   },
+   "A00000253409":{
+      "name":"TCC Carbondale",
+      "address":"95 BROOKLYN ST",
+      "city":"CARBONDALE",
+      "state":"Pennsylvania",
+      "zip":"18407",
+      "phone":"5705366529",
+      "latitude":"41.56695863",
+      "longitude":"-75.5125748"
+   },
+   "A00000176461":{
+      "name":"TCC S Abington Twnshp",
+      "address":"1141 NORTHERN BLVD",
+      "city":"SOUTH ABINGTON TOWNSHIP",
+      "state":"Pennsylvania",
+      "zip":"18411",
+      "phone":"5705857158",
+      "latitude":"41.48827981",
+      "longitude":"-75.69631791"
+   },
+   "A00000256372":{
+      "name":"VICTRA SCRANTON VIEWMONT MALL",
+      "address":"100 Viewmont Mall",
+      "city":"SCRANTON",
+      "state":"Pennsylvania",
+      "zip":"18508",
+      "phone":"5705911790",
+      "latitude":"41.46085908",
+      "longitude":"-75.6567691"
+   },
+   "A00000253751":{
+      "name":"TCC Scranton",
+      "address":"1782 N KEYSER AVE",
+      "city":"SCRANTON",
+      "state":"Pennsylvania",
+      "zip":"18508",
+      "phone":"5708714010",
+      "latitude":"41.44511728",
+      "longitude":"-75.66775167"
+   },
+   "A00000253743":{
+      "name":"TCC Dunmore",
+      "address":"228 S BLAKELY ST",
+      "city":"DUNMORE",
+      "state":"Pennsylvania",
+      "zip":"18512",
+      "phone":"5709555101",
+      "latitude":"41.42035914",
+      "longitude":"-75.63205713"
+   },
+   "A00000256037":{
+      "name":"Victra Scranton Lackawanna Ave",
+      "address":"300 LACKAWANNA AVE",
+      "city":"SCRANTON",
+      "state":"Pennsylvania",
+      "zip":"18503",
+      "phone":"5708005595",
+      "latitude":"41.40791092",
+      "longitude":"-75.66709144"
+   },
+   "A00000253784":{
+      "name":"TCC Hamlin",
+      "address":"569 HAMLIN HWY",
+      "city":"HAMLIN",
+      "state":"Pennsylvania",
+      "zip":"18427",
+      "phone":"5706893300",
+      "latitude":"41.404198",
+      "longitude":"-75.405609"
+   },
+   "A00000255109":{
+      "name":"Best Wireless Scranton",
+      "address":"1341 S Main Ave",
+      "city":"Scranton",
+      "state":"Pennsylvania",
+      "zip":"18518",
+      "phone":"5704717107",
+      "latitude":"41.395143",
+      "longitude":"-75.689361"
+   },
+   "R00000251834":{
+      "name":"Roosevelt Mall",
+      "address":"2329 Cottman Ave",
+      "city":"Philadelphia",
+      "state":"Pennsylvania",
+      "zip":"19149",
+      "phone":"2157084400",
+      "latitude":"40.046926",
+      "longitude":"-75.0554284"
+   },
+   "A00000257133":{
+      "name":"Your Wireless Huntingdon Valley",
+      "address":"773 HUNTINGDON PIKE",
+      "city":"HUNTINGDON VALLEY",
+      "state":"Pennsylvania",
+      "zip":"19006",
+      "phone":"2157582956",
+      "latitude":"40.08770042",
+      "longitude":"-75.09357665"
+   },
+   "A00000256654":{
+      "name":"VICTRA RED LION",
+      "address":"10000 ROOSEVELT BLVD",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19116",
+      "phone":"2676690601",
+      "latitude":"40.09506697",
+      "longitude":"-75.01554676"
+   },
+   "A00000256501":{
+      "name":"Best Wireless  Wyncote ",
+      "address":"1000 Easton Rd",
+      "city":"WYNCOTE",
+      "state":"Pennsylvania",
+      "zip":"19095",
+      "phone":"2158851745",
+      "latitude":"40.08197433",
+      "longitude":"-75.17130005"
+   },
+   "A00000260605":{
+      "name":"K&B Wireless Broad St Philadelphia",
+      "address":"3646 N Broad St",
+      "city":"Philadelphia",
+      "state":"Pennsylvania",
+      "zip":"19140",
+      "phone":"2152251617",
+      "latitude":"40.008858",
+      "longitude":"-75.15142"
+   },
+   "A00000260606":{
+      "name":"K&B Wireless Germantown Ave",
+      "address":"2644 Germantown Ave",
+      "city":"Philadelphia",
+      "state":"Pennsylvania",
+      "zip":"19133",
+      "phone":"2152261379",
+      "latitude":"39.992615",
+      "longitude":"-75.148157"
+   },
+   "R00000000505":{
+      "name":"Woodhaven",
+      "address":"1301 Bristol Pike",
+      "city":"Bensalem",
+      "state":"Pennsylvania",
+      "zip":"19020",
+      "phone":"2156385620",
+      "latitude":"40.0709521",
+      "longitude":"-74.9654119"
+   },
+   "A00000196845":{
+      "name":"GoWireless Cinnaminson",
+      "address":"141 ROUTE 130 S",
+      "city":"CINNAMINSON",
+      "state":"New Jersey",
+      "zip":"08077",
+      "phone":"8568298600",
+      "latitude":"39.98872911",
+      "longitude":"-75.00898231"
+   },
+   "A00000254568":{
+      "name":"R Wireless Delran",
+      "address":"4004 ROUTE 130",
+      "city":"DELRAN",
+      "state":"New Jersey",
+      "zip":"08075",
+      "phone":"8569986192",
+      "latitude":"40.0134959",
+      "longitude":"-74.9591068"
+   },
+   "A00000019400":{
+      "name":"Wireless Zone Feasterville Trevose",
+      "address":"110 E STREET RD",
+      "city":"FEASTERVILLE TREVOSE",
+      "state":"Pennsylvania",
+      "zip":"19053",
+      "phone":"2153577357",
+      "latitude":"40.14911434",
+      "longitude":"-74.99953079"
+   },
+   "A00000253641":{
+      "name":"TCC Huntington Valley",
+      "address":"2032 COUNTY LINE RD",
+      "city":"HUNTINGDON VALLEY",
+      "state":"Pennsylvania",
+      "zip":"19006",
+      "phone":"2154949467",
+      "latitude":"40.17027427",
+      "longitude":"-75.07038623"
+   },
+   "R00000252213":{
+      "name":"Easton Road",
+      "address":"2330 Easton Rd",
+      "city":"Willow Grove",
+      "state":"Pennsylvania",
+      "zip":"19090",
+      "phone":"2155761520",
+      "latitude":"40.1653917",
+      "longitude":"-75.1258596"
+   },
+   "A00000244802":{
+      "name":"Cellular Sales Flourtown",
+      "address":"1831 BETHLEHEM PIKE",
+      "city":"FLOURTOWN",
+      "state":"Pennsylvania",
+      "zip":"19031",
+      "phone":"2674223085",
+      "latitude":"40.10937789",
+      "longitude":"-75.21405394"
+   },
+   "A00000327342":{
+      "name":"TCC Philadelphia City Ave",
+      "address":"4040 City Ave",
+      "city":"Philadelphia",
+      "state":"Pennsylvania",
+      "zip":"19131",
+      "phone":"2677923561",
+      "latitude":"40.007552",
+      "longitude":"-75.212465"
+   },
+   "A00000202183":{
+      "name":"TCC Philadelphia Ridge Ave",
+      "address":"7110 RIDGE AVE",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19128",
+      "phone":"2154838800",
+      "latitude":"40.04468386",
+      "longitude":"-75.23094266"
+   },
+   "A00000260496":{
+      "name":"R Wireless Bensalem",
+      "address":"707 Neshaminy Mall",
+      "city":"Bensalem",
+      "state":"Pennsylvania",
+      "zip":"19020",
+      "phone":"2153571100",
+      "latitude":"40.1387256",
+      "longitude":"-74.9584434"
+   },
+   "R00000003385":{
+      "name":"Market Street East",
+      "address":"Reading Terminal Headhouse",
+      "city":"Philadelphia",
+      "state":"Pennsylvania",
+      "zip":"19107",
+      "phone":"2152382600",
+      "latitude":"39.9520252",
+      "longitude":"-75.1589635"
+   },
+   "A00000234191":{
+      "name":"Wireless Zone Philadelphia Walnut St",
+      "address":"920 WALNUT STREET",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19107",
+      "phone":"2153515252",
+      "latitude":"39.94818159",
+      "longitude":"-75.15610298"
+   },
+   "R00000248539":{
+      "name":"Walnut St",
+      "address":"1430 Walnut St",
+      "city":"Philadelphia",
+      "state":"Pennsylvania",
+      "zip":"19102",
+      "phone":"2155647800",
+      "latitude":"39.9493786",
+      "longitude":"-75.1658527"
+   },
+   "A00000253760":{
+      "name":"TCC Horsham",
+      "address":"501 HORSHAM RD",
+      "city":"HORSHAM",
+      "state":"Pennsylvania",
+      "zip":"19044",
+      "phone":"2673876473",
+      "latitude":"40.18559268",
+      "longitude":"-75.14187295"
+   },
+   "R00000144485":{
+      "name":"Towne Place at Garden State",
+      "address":"901 Haddonfield Rd",
+      "city":"Cherry Hill",
+      "state":"New Jersey",
+      "zip":"08002",
+      "phone":"8569107952",
+      "latitude":"39.9266278",
+      "longitude":"-75.0337961"
+   },
+   "A00000253798":{
+      "name":"TCC Philadelphia Columbus Blvd",
+      "address":"1300 S COLUMBUS BLVD",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19147",
+      "phone":"2152189733",
+      "latitude":"39.930796",
+      "longitude":"-75.14442702"
+   },
+   "A00000243992":{
+      "name":"Cellular Sales Bensalem Bristol Rd",
+      "address":"2290 Bristol Rd",
+      "city":"BENSALEM",
+      "state":"Pennsylvania",
+      "zip":"19020",
+      "phone":"2157413860",
+      "latitude":"40.13085784",
+      "longitude":"-74.92344487"
+   },
+   "A00000020748":{
+      "name":"Wireless Zone Warminster",
+      "address":"553 YORK ROAD",
+      "city":"WARMINSTER",
+      "state":"Pennsylvania",
+      "zip":"18974",
+      "phone":"2156752228",
+      "latitude":"40.20527252",
+      "longitude":"-75.09990409"
+   },
+   "A00000243991":{
+      "name":"Cellular Sales Mount Laurel",
+      "address":"1005 NIXON DR",
+      "city":"MOUNT LAUREL",
+      "state":"New Jersey",
+      "zip":"08054",
+      "phone":"8562060913",
+      "latitude":"39.93928016",
+      "longitude":"-74.96406356"
+   },
+   "A00000253789":{
+      "name":"TCC Georgetown College Park Ln",
+      "address":"201 College Park Ln",
+      "city":"Georgetown",
+      "state":"Delaware",
+      "zip":"19947",
+      "phone":"3028540303",
+      "latitude":"38.7017",
+      "longitude":"-75.4027"
+   },
+   "A00000041297":{
+      "name":"Wireless Zone Milford N Dupont Hwy",
+      "address":"935 NORTH DUPONT HIGHWAY",
+      "city":"MILFORD",
+      "state":"Delaware",
+      "zip":"19963",
+      "phone":"3024241900",
+      "latitude":"38.92958497",
+      "longitude":"-75.43193472"
+   },
+   "A00000009437":{
+      "name":"Wireless Zone Harrington",
+      "address":"17146 S DUPONT HWY",
+      "city":"HARRINGTON",
+      "state":"Delaware",
+      "zip":"19952",
+      "phone":"3023986040",
+      "latitude":"38.92438413",
+      "longitude":"-75.56790183"
+   },
+   "A00000234080":{
+      "name":"VICTRA SEAFORD",
+      "address":"22931 SUSSEX HWY",
+      "city":"SEAFORD",
+      "state":"Delaware",
+      "zip":"19973",
+      "phone":"3029903766",
+      "latitude":"38.65888214",
+      "longitude":"-75.59387588"
+   },
+   "A00000254305":{
+      "name":"GoWireless Lewes Coastal Plaza",
+      "address":"18388 COASTAL HWY",
+      "city":"LEWES",
+      "state":"Delaware",
+      "zip":"19958",
+      "phone":"3026442644",
+      "latitude":"38.74015562",
+      "longitude":"-75.14687054"
+   },
+   "A00000254306":{
+      "name":"GoWireless Millsboro Plaza Dr",
+      "address":"25938 PLAZA DR",
+      "city":"MILLSBORO",
+      "state":"Delaware",
+      "zip":"19966",
+      "phone":"3029453334",
+      "latitude":"38.63173704",
+      "longitude":"-75.19428003"
+   },
+   "A00000253753":{
+      "name":"TCC Millsboro",
+      "address":"28665 DUPONT BLVD",
+      "city":"MILLSBORO",
+      "state":"Delaware",
+      "zip":"19966",
+      "phone":"3029341023",
+      "latitude":"38.57571591",
+      "longitude":"-75.28620682"
+   },
+   "A00000253719":{
+      "name":"TCC Rehoboth Beach",
+      "address":"37156 REHOBOTH AVE",
+      "city":"REHOBOTH BEACH",
+      "state":"Delaware",
+      "zip":"19971",
+      "phone":"3022277300",
+      "latitude":"38.71259219",
+      "longitude":"-75.10002738"
+   },
+   "A00000253732":{
+      "name":"TCC Camden",
+      "address":"386 Walmart Dr",
+      "city":"Camden",
+      "state":"Delaware",
+      "zip":"19934",
+      "phone":"3026978340",
+      "latitude":"39.099479",
+      "longitude":"-75.545434"
+   },
+   "A00000237537":{
+      "name":"TCC Denton",
+      "address":"14 DENTON PLAZA",
+      "city":"DENTON",
+      "state":"Maryland",
+      "zip":"21629",
+      "phone":"4104795552",
+      "latitude":"38.87538559",
+      "longitude":"-75.82361789"
+   },
+   "A00000238259":{
+      "name":"TCC Delmar",
+      "address":"31010 Thornton Blvd.",
+      "city":"Delmar",
+      "state":"Delaware",
+      "zip":"19940",
+      "phone":"3029070360",
+      "latitude":"38.45841458",
+      "longitude":"-75.55771794"
+   },
+   "A00000257836":{
+      "name":"Wireless Zone Ocean View",
+      "address":"89 ATLANTIC AV",
+      "city":"OCEAN VIEW",
+      "state":"Delaware",
+      "zip":"19970",
+      "phone":"3023085800",
+      "latitude":"38.54504567",
+      "longitude":"-75.09481946"
+   },
+   "R00000001540":{
+      "name":"Salisbury MD",
+      "address":"2720 N Salisbury Blvd",
+      "city":"Salisbury",
+      "state":"Maryland",
+      "zip":"21801",
+      "phone":"4105725830",
+      "latitude":"38.4177738",
+      "longitude":"-75.5660797"
+   },
+   "R00000000157":{
+      "name":"Dover",
+      "address":"1045 N Dupont Hwy",
+      "city":"Dover",
+      "state":"Delaware",
+      "zip":"19901",
+      "phone":"3027305200",
+      "latitude":"39.1854508",
+      "longitude":"-75.5344545"
+   },
+   "A00000327730":{
+      "name":"TCC Fulton E Market Pl",
+      "address":"11710 E Market Pl",
+      "city":"Fulton",
+      "state":"Maryland",
+      "zip":"20759",
+      "phone":"3014909149",
+      "latitude":"39.148865",
+      "longitude":"-76.907528"
+   },
+   "A00000255164":{
+      "name":"Cellular Sales Laurel",
+      "address":"14613 BALTIMORE AVE",
+      "city":"LAUREL",
+      "state":"Maryland",
+      "zip":"20707",
+      "phone":"3014981568",
+      "latitude":"39.09003904",
+      "longitude":"-76.85833933"
+   },
+   "A00000251690":{
+      "name":"TCC Burtonsville",
+      "address":"15610 OLD COLUMBIA PIKE",
+      "city":"BURTONSVILLE",
+      "state":"Maryland",
+      "zip":"20866",
+      "phone":"3014211121",
+      "latitude":"39.11128539",
+      "longitude":"-76.93298001"
+   },
+   "R00000003220":{
+      "name":"Columbia MD",
+      "address":"9021 Snowden Square Dr",
+      "city":"Columbia",
+      "state":"Maryland",
+      "zip":"21046",
+      "phone":"4108727200",
+      "latitude":"39.1844185",
+      "longitude":"-76.8181844"
+   },
+   "A00000254230":{
+      "name":"TCC Ellicott City Shipley",
+      "address":"5715 Richards Valley Rd",
+      "city":"ELLICOTT CITY",
+      "state":"Maryland",
+      "zip":"21043",
+      "phone":"4104655200",
+      "latitude":"39.21375812",
+      "longitude":"-76.80222138"
+   },
+   "A00000169164":{
+      "name":"GoWireless Hanover",
+      "address":"7645 ARUNDEL MILLS BLVD",
+      "city":"HANOVER",
+      "state":"Maryland",
+      "zip":"21076",
+      "phone":"4107997047",
+      "latitude":"39.15241098",
+      "longitude":"-76.72559496"
+   },
+   "A00000244366":{
+      "name":"Cellular Sales Odenton",
+      "address":"1496 ANNAPOLIS ROAD",
+      "city":"ODENTON",
+      "state":"Maryland",
+      "zip":"21113",
+      "phone":"4108747637",
+      "latitude":"39.09654983",
+      "longitude":"-76.7203265"
+   },
+   "A00000244707":{
+      "name":"Cellular Sales Silver Spring",
+      "address":"13340 NEW HAMPSHIRE AVE",
+      "city":"SILVER SPRING",
+      "state":"Maryland",
+      "zip":"20904",
+      "phone":"3013841403",
+      "latitude":"39.07463061",
+      "longitude":"-77.00253942"
+   },
+   "R00000000128":{
+      "name":"College Park",
+      "address":"10250 Baltimore Ave",
+      "city":"College Park",
+      "state":"Maryland",
+      "zip":"20740",
+      "phone":"3013130569",
+      "latitude":"39.0224929",
+      "longitude":"-76.9258887"
+   },
+   "A00000224181":{
+      "name":"VICTRA ELLICOTT CITY",
+      "address":"9337 BALTIMORE NATIONAL PIKE",
+      "city":"ELLICOTT CITY",
+      "state":"Maryland",
+      "zip":"21042",
+      "phone":"4103139444",
+      "latitude":"39.27737316",
+      "longitude":"-76.83483292"
+   },
+   "A00000026920":{
+      "name":"Wireless Zone Olney",
+      "address":"3229 SPARTAN RD",
+      "city":"OLNEY",
+      "state":"Maryland",
+      "zip":"20832",
+      "phone":"3015709663",
+      "latitude":"39.1501858",
+      "longitude":"-77.06287064"
+   },
+   "A00000254390":{
+      "name":"Cellular Sales Olney",
+      "address":"18130 GEORGIA AVE",
+      "city":"OLNEY",
+      "state":"Maryland",
+      "zip":"20832",
+      "phone":"2403891771",
+      "latitude":"39.15413338",
+      "longitude":"-77.06713359"
+   },
+   "A00000253290":{
+      "name":"Your Wireless College Park",
+      "address":"7201 BALTIMORE AVE",
+      "city":"COLLEGE PARK",
+      "state":"Maryland",
+      "zip":"20740",
+      "phone":"2407704019",
+      "latitude":"38.97767893",
+      "longitude":"-76.93771323"
+   },
+   "R00000002716":{
+      "name":"Catonsville",
+      "address":"6220 Baltimore National Pike",
+      "city":"Catonsville",
+      "state":"Maryland",
+      "zip":"21228",
+      "phone":"4107445500",
+      "latitude":"39.284197",
+      "longitude":"-76.7523926"
+   },
+   "A00000282971":{
+      "name":"Victra Lanham",
+      "address":"9453 Annapolis Rd",
+      "city":"Lanham",
+      "state":"Maryland",
+      "zip":"20706",
+      "phone":"3017105966",
+      "latitude":"38.964738",
+      "longitude":"-76.842607"
+   },
+   "A00000245575":{
+      "name":"Cellular Sales Gambrills",
+      "address":"2385 BRANDERMILL BLVD",
+      "city":"GAMBRILLS",
+      "state":"Maryland",
+      "zip":"21054",
+      "phone":"4107212359",
+      "latitude":"39.03241447",
+      "longitude":"-76.68435727"
+   },
+   "A00000260437":{
+      "name":"Russell Cellular Arbutus",
+      "address":"3920 Washington Blvd",
+      "city":"Halethorpe",
+      "state":"Maryland",
+      "zip":"21227",
+      "phone":"4437098300",
+      "latitude":"39.24328",
+      "longitude":"-76.676821"
+   },
+   "A00000246126":{
+      "name":"VICTRA GLEN BURNIE",
+      "address":"7704 RITCHIE HWY",
+      "city":"GLEN BURNIE",
+      "state":"Maryland",
+      "zip":"21061",
+      "phone":"4433545218",
+      "latitude":"39.15429183",
+      "longitude":"-76.61556212"
+   },
+   "R00000249979":{
+      "name":"Glen Burnie North",
+      "address":"6621 Ritchie Hwy",
+      "city":"Glen Burnie",
+      "state":"Maryland",
+      "zip":"21061",
+      "phone":"4107605192",
+      "latitude":"39.196135",
+      "longitude":"-76.612813"
+   },
+   "A00000260396":{
+      "name":"Russell Cellular Rckvll Rockvi",
+      "address":"11431 A Rockville Pike",
+      "city":"Rockville",
+      "state":"Maryland",
+      "zip":"20852",
+      "phone":"2403979951",
+      "latitude":"39.044188",
+      "longitude":"-77.111234"
+   },
+   "R00000000881":{
+      "name":"Rockville",
+      "address":"1701 Rockville Pike",
+      "city":"Rockville",
+      "state":"Maryland",
+      "zip":"20852",
+      "phone":"3017704411",
+      "latitude":"39.0613597",
+      "longitude":"-77.1243399"
+   },
+   "A00000253433":{
+      "name":"Your Wireless Derwood",
+      "address":"7250 MUNCASTER MILL RD",
+      "city":"DERWOOD",
+      "state":"Maryland",
+      "zip":"20855",
+      "phone":"2406866106",
+      "latitude":"39.14636058",
+      "longitude":"-77.14572441"
+   },
+   "R00000000774":{
+      "name":"Bowie",
+      "address":"15642 Emerald Way",
+      "city":"Bowie",
+      "state":"Maryland",
+      "zip":"20716",
+      "phone":"3018095400",
+      "latitude":"38.9437829",
+      "longitude":"-76.7327852"
+   },
+   "A00000245268":{
+      "name":"TCC Rockville",
+      "address":"20 MARYLAND AVE",
+      "city":"ROCKVILLE",
+      "state":"Maryland",
+      "zip":"20850",
+      "phone":"2404280556",
+      "latitude":"39.08710383",
+      "longitude":"-77.15095601"
+   },
+   "A00000260367":{
+      "name":"Russell Cellular DC Market St",
+      "address":"2440 Market St NE",
+      "city":"Washington",
+      "state":"District Of Columbia",
+      "zip":"20018",
+      "phone":"2026047801",
+      "latitude":"38.920653",
+      "longitude":"-76.952572"
+   },
+   "A00000258195":{
+      "name":"Cellular Sales Annapolis",
+      "address":"167 Jennifer Rd",
+      "city":"ANNAPOLIS",
+      "state":"Maryland",
+      "zip":"21401",
+      "phone":"4439498590",
+      "latitude":"38.9873559",
+      "longitude":"-76.54367214"
+   },
+   "R00000234985":{
+      "name":"Annapolis",
+      "address":"2476 Solomons Island Rd",
+      "city":"Annapolis",
+      "state":"Maryland",
+      "zip":"21401",
+      "phone":"4105732340",
+      "latitude":"38.975788",
+      "longitude":"-76.543533"
+   },
+   "A00000246125":{
+      "name":"Victra Edgewater Lee Airpark Dr",
+      "address":"15 Lee Airpark Dr",
+      "city":"Edgewater",
+      "state":"Maryland",
+      "zip":"21037",
+      "phone":"4434093086",
+      "latitude":"38.942902",
+      "longitude":"-76.562885"
+   },
+   "A00000237948":{
+      "name":"Cellular Sales Arnold",
+      "address":"1450 GOVENRNOR RITCHIE HWY",
+      "city":"ARNOLD",
+      "state":"Maryland",
+      "zip":"21012",
+      "phone":"4438376359",
+      "latitude":"39.03042808",
+      "longitude":"-76.50536129"
+   },
+   "A00000237756":{
+      "name":"Victra Annapolis Hillsmere Dr",
+      "address":"105 HILLSMERE DR",
+      "city":"ANNAPOLIS",
+      "state":"Maryland",
+      "zip":"21403",
+      "phone":"4109199605",
+      "latitude":"38.94995303",
+      "longitude":"-76.49243531"
+   },
+   "A00000246127":{
+      "name":"Victra Severna Park",
+      "address":"497 Ritchie Hwy",
+      "city":"Severna Park",
+      "state":"Maryland",
+      "zip":"21146",
+      "phone":"4432613308",
+      "latitude":"39.081706",
+      "longitude":"-76.549336"
+   },
+   "A00000246130":{
+      "name":"Victra Pasadena",
+      "address":"4151 MOUNTAIN RD",
+      "city":"PASADENA",
+      "state":"Maryland",
+      "zip":"21122",
+      "phone":"4432613309",
+      "latitude":"39.12221458",
+      "longitude":"-76.51500195"
+   },
+   "A00000251142":{
+      "name":"VICTRA UPPER MARLBORO",
+      "address":"4 WATKINS PARK DRIVE",
+      "city":"UPPER MARLBORO",
+      "state":"Maryland",
+      "zip":"20774",
+      "phone":"3013273067",
+      "latitude":"38.89958567",
+      "longitude":"-76.79179241"
+   },
+   "A00000237538":{
+      "name":"TCC Chester Kent Town Market",
+      "address":"63B KENT TOWN MARKET",
+      "city":"CHESTER",
+      "state":"Maryland",
+      "zip":"21619",
+      "phone":"4106041000",
+      "latitude":"38.97445356",
+      "longitude":"-76.28002824"
+   },
+   "A00000195813":{
+      "name":"GoWireless Chester",
+      "address":"500 Abruzzi Dr",
+      "city":"Chester",
+      "state":"Maryland",
+      "zip":"21619",
+      "phone":"4106042761",
+      "latitude":"38.973302",
+      "longitude":"-76.266204"
+   },
+   "A00000234025":{
+      "name":"VICTRA CAPITOL HEIGHTS",
+      "address":"9141 ALAKING CT",
+      "city":"CAPITOL HEIGHTS",
+      "state":"Maryland",
+      "zip":"20743",
+      "phone":"3019096903",
+      "latitude":"38.87066145",
+      "longitude":"-76.84767942"
+   },
+   "A00000253728":{
+      "name":"TCC Dunkirk",
+      "address":"2969 Plaza Dr",
+      "city":"Dunkirk",
+      "state":"Maryland",
+      "zip":"20754",
+      "phone":"4439645997",
+      "latitude":"38.723583",
+      "longitude":"-76.659119"
+   },
+   "A00000255525":{
+      "name":"TCC Dundalk",
+      "address":"1798 MERRITT BLVD",
+      "city":"DUNDALK",
+      "state":"Maryland",
+      "zip":"21222",
+      "phone":"4435494975",
+      "latitude":"39.26755607",
+      "longitude":"-76.50492738"
+   },
+   "A00000244255":{
+      "name":"VICTRA BALTIMORE WHETSTONE WAY",
+      "address":"1605 WHETSTONE WAY",
+      "city":"BALTIMORE",
+      "state":"Maryland",
+      "zip":"21230",
+      "phone":"4104549864",
+      "latitude":"39.26955433",
+      "longitude":"-76.59932287"
+   },
+   "A00000255167":{
+      "name":"Cellular Sales Fairfax",
+      "address":"10950 Lee Hwy",
+      "city":"Fairfax",
+      "state":"Virginia",
+      "zip":"22030",
+      "phone":"7038654578",
+      "latitude":"38.853157",
+      "longitude":"-77.32204"
+   },
+   "A00000254506":{
+      "name":"TCC Fairfax",
+      "address":"10695 BRADDOCK RD",
+      "city":"FAIRFAX",
+      "state":"Virginia",
+      "zip":"22032",
+      "phone":"7032780789",
+      "latitude":"38.8261881",
+      "longitude":"-77.31400022"
+   },
+   "A00000327794":{
+      "name":"Russell Cellular Fair Oaks Mall",
+      "address":"11750 U Fair Oaks Mall",
+      "city":"Fairfax",
+      "state":"Virginia",
+      "zip":"22033",
+      "phone":"7037850440",
+      "latitude":"38.8639",
+      "longitude":"-77.355561"
+   },
+   "A00000233695":{
+      "name":"VICTRA BURKE",
+      "address":"5717 BURKE CENTRE PARKWAY",
+      "city":"BURKE",
+      "state":"Virginia",
+      "zip":"22015",
+      "phone":"5713287144",
+      "latitude":"38.7988671",
+      "longitude":"-77.32210391"
+   },
+   "A00000260371":{
+      "name":"Russell Cellular Fairfax Fair",
+      "address":"12985 Fair Lakes Pkwy",
+      "city":"Fairfax",
+      "state":"Virginia",
+      "zip":"22033",
+      "phone":"7035027900",
+      "latitude":"38.858452",
+      "longitude":"-77.395823"
+   },
+   "A00000260366":{
+      "name":"Russell Cellular Fairfax Main",
+      "address":"9444 Main St",
+      "city":"Fairfax",
+      "state":"Virginia",
+      "zip":"22031",
+      "phone":"7038654142",
+      "latitude":"38.841205",
+      "longitude":"-77.270407"
+   },
+   "A00000260408":{
+      "name":"Russell Cellular Vienna Maple",
+      "address":"301a Maple Ave W",
+      "city":"Vienna",
+      "state":"Virginia",
+      "zip":"22180",
+      "phone":"5713160064",
+      "latitude":"38.897804",
+      "longitude":"-77.270149"
+   },
+   "A00000258518":{
+      "name":"Victra Chantilly",
+      "address":"14385 NEWBROOK DR",
+      "city":"CHANTILLY",
+      "state":"Virginia",
+      "zip":"20151",
+      "phone":"5714852002",
+      "latitude":"38.8767345",
+      "longitude":"-77.44414486"
+   },
+   "A00000260403":{
+      "name":"Russell Cellular Springfield H",
+      "address":"7549 Huntsman Blvd",
+      "city":"Springfield",
+      "state":"Virginia",
+      "zip":"22153",
+      "phone":"7033721798",
+      "latitude":"38.751915",
+      "longitude":"-77.266418"
+   },
+   "A00000235594":{
+      "name":"Wireless Zone Annandale",
+      "address":"7301 LITTLE RIVER TURNPIKE",
+      "city":"ANNANDALE",
+      "state":"Virginia",
+      "zip":"22003",
+      "phone":"7036420642",
+      "latitude":"38.83038568",
+      "longitude":"-77.1968155"
+   },
+   "A00000255166":{
+      "name":"Cellular Sales Vienna",
+      "address":"2059 CHAIN BRIDGE RD",
+      "city":"VIENNA",
+      "state":"Virginia",
+      "zip":"22182",
+      "phone":"7037141540",
+      "latitude":"38.91648083",
+      "longitude":"-77.23596177"
+   },
+   "A00000260364":{
+      "name":"Russell Cellular Falls Church 2",
+      "address":"7263 Arlington Blvd",
+      "city":"Falls Church",
+      "state":"Virginia",
+      "zip":"22042",
+      "phone":"7033340305",
+      "latitude":"38.865824",
+      "longitude":"-77.197055"
+   },
+   "R00000083021":{
+      "name":"Tysons Corner Mall",
+      "address":"8078 Tysons Corner Ctr",
+      "city":"McLean",
+      "state":"Virginia",
+      "zip":"22102",
+      "phone":"7038832552",
+      "latitude":"38.916711",
+      "longitude":"-77.223728"
+   },
+   "A00000260648":{
+      "name":"Russell Cellular Mc Lean",
+      "address":"8301 Greensboro Dr",
+      "city":"Mc Lean",
+      "state":"Virginia",
+      "zip":"22102",
+      "phone":"7034479873",
+      "latitude":"38.924569",
+      "longitude":"-77.232425"
+   },
+   "A00000260383":{
+      "name":"Russell Cellular Falls Church 1",
+      "address":"7505 Leesburg Pike",
+      "city":"Falls Church",
+      "state":"Virginia",
+      "zip":"22043",
+      "phone":"7032884614",
+      "latitude":"38.902663",
+      "longitude":"-77.203266"
+   },
+   "R00000000365":{
+      "name":"Reston",
+      "address":"11830 Spectrum Ctr",
+      "city":"Reston",
+      "state":"Virginia",
+      "zip":"20190",
+      "phone":"7034372600",
+      "latitude":"38.9650618",
+      "longitude":"-77.3556424"
+   },
+   "R00000160162":{
+      "name":"Springfield Plaza",
+      "address":"6432 Springfield Plz",
+      "city":"Springfield",
+      "state":"Virginia",
+      "zip":"22150",
+      "phone":"7034510140",
+      "latitude":"38.7794301",
+      "longitude":"-77.190103"
+   },
+   "A00000234029":{
+      "name":"VICTRA MANASSAS",
+      "address":"10042 MARKET CIRCLE",
+      "city":"MANASSAS",
+      "state":"Virginia",
+      "zip":"20110",
+      "phone":"5717192863",
+      "latitude":"38.74006814",
+      "longitude":"-77.45409626"
+   },
+   "A00000260384":{
+      "name":"Russell Cellular Lorton",
+      "address":"8971 Ox Rd",
+      "city":"Lorton",
+      "state":"Virginia",
+      "zip":"22079",
+      "phone":"5714889838",
+      "latitude":"38.713503",
+      "longitude":"-77.263112"
+   },
+   "R00000003134":{
+      "name":"Manassas",
+      "address":"8410 Sudley Rd",
+      "city":"Manassas",
+      "state":"Virginia",
+      "zip":"20109",
+      "phone":"7033358500",
+      "latitude":"38.772883",
+      "longitude":"-77.5004166"
+   },
+   "A00000258481":{
+      "name":"Victra Woodbridge",
+      "address":"3278 Old Bridge Rd",
+      "city":"Woodbridge",
+      "state":"Virginia",
+      "zip":"22192",
+      "phone":"7037634870",
+      "latitude":"38.685164",
+      "longitude":"-77.31222"
+   },
+   "A00000327374":{
+      "name":"Victra Alexandria Little River Tpk",
+      "address":"6198m Little River Tpke",
+      "city":"Alexandria",
+      "state":"Virginia",
+      "zip":"22312",
+      "phone":"5714512902",
+      "latitude":"38.817749",
+      "longitude":"-77.141655"
+   },
+   "A00000254560":{
+      "name":"TCC McLean",
+      "address":"6819 REDMOND DRIVE",
+      "city":"MC LEAN",
+      "state":"Virginia",
+      "zip":"22101",
+      "phone":"7034720306",
+      "latitude":"38.93366284",
+      "longitude":"-77.17943067"
+   },
+   "A00000249315":{
+      "name":"Your Wireless McLean",
+      "address":"1420 CHAIN BRIDGE RD",
+      "city":"MC LEAN",
+      "state":"Virginia",
+      "zip":"22101",
+      "phone":"7034629600",
+      "latitude":"38.9343922",
+      "longitude":"-77.17719755"
+   },
+   "A00000235200":{
+      "name":"Wireless Zone South Riding",
+      "address":"25031 RIDING PLZ",
+      "city":"SOUTH RIDING",
+      "state":"Virginia",
+      "zip":"20152",
+      "phone":"7035422546",
+      "latitude":"38.92524546",
+      "longitude":"-77.52163082"
+   },
+   "R00000260501":{
+      "name":"Charlottesville",
+      "address":"1650 Rio Rd E",
+      "city":"Charlottesville",
+      "state":"Virginia",
+      "zip":"22901",
+      "phone":"4349735022",
+      "latitude":"38.0806870449883",
+      "longitude":"-78.4740740443191"
+   },
+   "A00000255758":{
+      "name":"Cellular Sales Charlottesville",
+      "address":"1200 EMMETT ST N",
+      "city":"CHARLOTTESVILLE",
+      "state":"Virginia",
+      "zip":"22903",
+      "phone":"4343288225",
+      "latitude":"38.05262316",
+      "longitude":"-78.49885522"
+   },
+   "A00000255593":{
+      "name":"Wireless Zone Charlottesville",
+      "address":"250 Merchant Walk Avenue",
+      "city":"CHARLOTTESVILLE",
+      "state":"Virginia",
+      "zip":"22902",
+      "phone":"4342022683",
+      "latitude":"38.01030287",
+      "longitude":"-78.49906455"
+   },
+   "A00000224184":{
+      "name":"VICTRA RUCKERSVILLE",
+      "address":"98 STONERIDGE DR",
+      "city":"RUCKERSVILLE",
+      "state":"Virginia",
+      "zip":"22968",
+      "phone":"4349392035",
+      "latitude":"38.23480856",
+      "longitude":"-78.37066989"
+   },
+   "A00000235255":{
+      "name":"GoWireless Gordonsville",
+      "address":"51 Market Street",
+      "city":"Gordonsville",
+      "state":"Virginia",
+      "zip":"22942",
+      "phone":"5408320414",
+      "latitude":"37.9783672",
+      "longitude":"-78.21029248"
+   },
+   "A00000252615":{
+      "name":"Your Wireless Palmyra",
+      "address":"68 Heritage Dr",
+      "city":"Palmyra",
+      "state":"Virginia",
+      "zip":"22963",
+      "phone":"4345895803",
+      "latitude":"37.903134",
+      "longitude":"-78.34167"
+   },
+   "A00000260415":{
+      "name":"Russell Cellular Charlottesvil",
+      "address":"540 Radford Ln",
+      "city":"Charlottesville",
+      "state":"Virginia",
+      "zip":"22903",
+      "phone":"4343330377",
+      "latitude":"38.051296",
+      "longitude":"-78.682814"
+   },
+   "A00000232080":{
+      "name":"VICTRA ORANGE MADISON RD",
+      "address":"551 MADISON RD",
+      "city":"ORANGE",
+      "state":"Virginia",
+      "zip":"22960",
+      "phone":"5403086283",
+      "latitude":"38.25673996",
+      "longitude":"-78.11543589"
+   },
+   "A00000254391":{
+      "name":"Your Wireless Louisa",
+      "address":"501 E Main St",
+      "city":"Louisa",
+      "state":"Virginia",
+      "zip":"23093",
+      "phone":"5406032058",
+      "latitude":"38.019925",
+      "longitude":"-77.992131"
+   },
+   "R00000191150":{
+      "name":"Harbour View",
+      "address":"5899 Harbour View Blvd",
+      "city":"Suffolk",
+      "state":"Virginia",
+      "zip":"23435",
+      "phone":"7574831064",
+      "latitude":"36.8758998",
+      "longitude":"-76.4392632"
+   },
+   "A00000254290":{
+      "name":"VICTRA SUFFOLK COLLEGE DR",
+      "address":"6255 COLLEGE DR A",
+      "city":"SUFFOLK",
+      "state":"Virginia",
+      "zip":"23435",
+      "phone":"7579425535",
+      "latitude":"36.87874032",
+      "longitude":"-76.42410993"
+   },
+   "A00000197882":{
+      "name":"GoWireless Chesapeake Chesapeake Sq",
+      "address":"4105 CHESAPEAKE SQUARE BLVD.",
+      "city":"CHESAPEAKE",
+      "state":"Virginia",
+      "zip":"23321",
+      "phone":"7574652334",
+      "latitude":"36.82636653",
+      "longitude":"-76.41070135"
+   },
+   "A00000253721":{
+      "name":"TCC Chesapeake Portsmouth Blvd",
+      "address":"4300 PORTSMOUTH BLVD",
+      "city":"CHESAPEAKE",
+      "state":"Virginia",
+      "zip":"23321",
+      "phone":"7574654600",
+      "latitude":"36.82260359",
+      "longitude":"-76.4183887"
+   },
+   "A00000257103":{
+      "name":"Wireless Zone Newport News Mercury Blvd",
+      "address":"5030 Mercury Blvd",
+      "city":"NEWPORT NEWS",
+      "state":"Virginia",
+      "zip":"23605",
+      "phone":"7578258000",
+      "latitude":"37.02038798",
+      "longitude":"-76.44311973"
+   },
+   "A00000256104":{
+      "name":"Wireless Zone Norfolk Hampton Blvd",
+      "address":"7721 Hampton Blvd",
+      "city":"NORFOLK",
+      "state":"Virginia",
+      "zip":"23505",
+      "phone":"7575886050",
+      "latitude":"36.9167407",
+      "longitude":"-76.30956829"
+   },
+   "A00000245361":{
+      "name":"Wireless Zone Smithfield",
+      "address":"1807 South Church St",
+      "city":"SMITHFIELD",
+      "state":"Virginia",
+      "zip":"23430",
+      "phone":"7573573012",
+      "latitude":"36.96473477",
+      "longitude":"-76.6062202"
+   },
+   "R00000244799":{
+      "name":"Hampton",
+      "address":"1812 W Mercury Blvd",
+      "city":"Hampton",
+      "state":"Virginia",
+      "zip":"23666",
+      "phone":"7578266899",
+      "latitude":"37.0418665",
+      "longitude":"-76.3904159"
+   },
+   "A00000245362":{
+      "name":"Wireless Zone Norfolk Colley Ave",
+      "address":"2019 Colley Ave",
+      "city":"NORFOLK",
+      "state":"Virginia",
+      "zip":"23517",
+      "phone":"7572287253",
+      "latitude":"36.87052404",
+      "longitude":"-76.29662683"
+   },
+   "A00000254373":{
+      "name":"Wireless Zone Newport News 12430 Warwick Blvd",
+      "address":"12430 Warwick Blvd",
+      "city":"NEWPORT NEWS",
+      "state":"Virginia",
+      "zip":"23606",
+      "phone":"7575957952",
+      "latitude":"37.07070013",
+      "longitude":"-76.4927886"
+   },
+   "A00000025551":{
+      "name":"Cellular Sales Norfolk",
+      "address":"300 Monticello Ave",
+      "city":"NORFOLK",
+      "state":"Virginia",
+      "zip":"23510",
+      "phone":"7576228280",
+      "latitude":"36.84935867",
+      "longitude":"-76.28952672"
+   },
+   "A00000254303":{
+      "name":"VICTRA NORFOLK E LITTLE CREEK",
+      "address":"725 E Little Creek Rd",
+      "city":"NORFOLK",
+      "state":"Virginia",
+      "zip":"23518",
+      "phone":"7573724649",
+      "latitude":"36.91570844",
+      "longitude":"-76.2529684"
+   },
+   "A00000256101":{
+      "name":"VICTRA SUFFOLK CENTERBROOKE LN",
+      "address":"1009 CENTERBROOKE LN",
+      "city":"SUFFOLK",
+      "state":"Virginia",
+      "zip":"23434",
+      "phone":"7579869486",
+      "latitude":"36.77002643",
+      "longitude":"-76.58589219"
+   },
+   "R00000000418":{
+      "name":"Newport News",
+      "address":"12227 Jefferson Ave",
+      "city":"Newport News",
+      "state":"Virginia",
+      "zip":"23602",
+      "phone":"7579301684",
+      "latitude":"37.110058",
+      "longitude":"-76.4983819"
+   },
+   "R00000246759":{
+      "name":"Suffolk",
+      "address":"1202 N Main St",
+      "city":"Suffolk",
+      "state":"Virginia",
+      "zip":"23434",
+      "phone":"7575390095",
+      "latitude":"36.7475445",
+      "longitude":"-76.5828316"
+   },
+   "A00000254371":{
+      "name":"Wireless Zone Yorktown 2703 GW Mem Hwy",
+      "address":"2703 George Washington Memorial Hwy",
+      "city":"YORKTOWN",
+      "state":"Virginia",
+      "zip":"23693",
+      "phone":"7578676025",
+      "latitude":"37.12191185",
+      "longitude":"-76.45754676"
+   },
+   "R00000000224":{
+      "name":"Military Highway",
+      "address":"1094 N Military Hwy",
+      "city":"Norfolk",
+      "state":"Virginia",
+      "zip":"23502",
+      "phone":"7574668384",
+      "latitude":"36.8590247",
+      "longitude":"-76.2091361"
+   },
+   "A00000238695":{
+      "name":"GoWireless Newport News",
+      "address":"12515 JEFFERSON AVE.",
+      "city":"NEWPORT NEWS",
+      "state":"Virginia",
+      "zip":"23602",
+      "phone":"7578980637",
+      "latitude":"37.12656509",
+      "longitude":"-76.51094506"
+   },
+   "A00000254210":{
+      "name":"Wireless Zone Poquoson",
+      "address":"456 Wythe Creek Road",
+      "city":"POQUOSON",
+      "state":"Virginia",
+      "zip":"23662",
+      "phone":"7576590039",
+      "latitude":"37.12512987",
+      "longitude":"-76.39160679"
+   },
+   "A00000253408":{
+      "name":"Wireless Zone Norfolk E Little Creek Rd",
+      "address":"4231 E Little Creek Rd",
+      "city":"NORFOLK",
+      "state":"Virginia",
+      "zip":"23518",
+      "phone":"7575886050",
+      "latitude":"36.91785377",
+      "longitude":"-76.19405053"
+   },
+   "A00000255526":{
+      "name":"Wireless Zone Newport News 14344 Warwick Blvd",
+      "address":"14344 Warwick Blvd",
+      "city":"NEWPORT NEWS",
+      "state":"Virginia",
+      "zip":"23602",
+      "phone":"7575957952",
+      "latitude":"37.12802279",
+      "longitude":"-76.53530194"
+   },
+   "A00000257568":{
+      "name":"Wireless Zone Norfolk Premium Outlets Blvd",
+      "address":"1541 Premium Outlets Blvd",
+      "city":"Norfolk",
+      "state":"Virginia",
+      "zip":"23502",
+      "phone":"7579043300",
+      "latitude":"36.878993",
+      "longitude":"-76.194206"
+   },
+   "A00000170883":{
+      "name":"GoWireless Chesapeake Eden Way",
+      "address":"836 EDEN WAY NORTH",
+      "city":"CHESAPEAKE",
+      "state":"Virginia",
+      "zip":"23320",
+      "phone":"7579389910",
+      "latitude":"36.77455795",
+      "longitude":"-76.23224926"
+   },
+   "A00000255704":{
+      "name":"Cellular Sales Chesapeake Battlefield",
+      "address":"1024 BATTLEFIELD BLVD N",
+      "city":"CHESAPEAKE",
+      "state":"Virginia",
+      "zip":"23320",
+      "phone":"7578196745",
+      "latitude":"36.75696108",
+      "longitude":"-76.24914884"
+   },
+   "A00000253897":{
+      "name":"Wireless Zone Chesapeake Cedar Rd",
+      "address":"1501 Cedar Rd 105",
+      "city":"CHESAPEAKE",
+      "state":"Virginia",
+      "zip":"23322",
+      "phone":"7575472000",
+      "latitude":"36.72469382",
+      "longitude":"-76.29568699"
+   },
+   "A00000245352":{
+      "name":"Wireless Zone Hardy",
+      "address":"65 WESTLAKE RD",
+      "city":"HARDY",
+      "state":"Virginia",
+      "zip":"24101",
+      "phone":"5402663082",
+      "latitude":"37.11869155",
+      "longitude":"-79.71814016"
+   },
+   "A00000220637":{
+      "name":"VICTRA BEDFORD",
+      "address":"1128 E LYNCHBURG SALEM TURNPIKE",
+      "city":"BEDFORD",
+      "state":"Virginia",
+      "zip":"24523",
+      "phone":"5407074177",
+      "latitude":"37.32359097",
+      "longitude":"-79.49606889"
+   },
+   "A00000246187":{
+      "name":"VICTRA LYNCHBURG TIMBERLAKE RD",
+      "address":"21039 TIMBERLAKE RD",
+      "city":"LYNCHBURG",
+      "state":"Virginia",
+      "zip":"24502",
+      "phone":"4344393461",
+      "latitude":"37.33430794",
+      "longitude":"-79.24258322"
+   },
+   "A00000256083":{
+      "name":"Cellular Sales Rocky Mount",
+      "address":"660 OLD FRANKLIN TURNPIKE",
+      "city":"ROCKY MOUNT",
+      "state":"Virginia",
+      "zip":"24151",
+      "phone":"5404890623",
+      "latitude":"37.01598986",
+      "longitude":"-79.86362325"
+   },
+   "A00000244249":{
+      "name":"Wireless Zone Rocky Mount",
+      "address":"400 OLD FRANKLIN TURNPIKE",
+      "city":"ROCKY MOUNT",
+      "state":"Virginia",
+      "zip":"24151",
+      "phone":"5403523950",
+      "latitude":"37.01397027",
+      "longitude":"-79.86692962"
+   },
+   "R00000185554":{
+      "name":"Wards Road",
+      "address":"3919 Wards Rd",
+      "city":"Lynchburg",
+      "state":"Virginia",
+      "zip":"24502",
+      "phone":"4342371729",
+      "latitude":"37.3501851",
+      "longitude":"-79.1846583"
+   },
+   "A00000246072":{
+      "name":"Cellular Sales Vinton",
+      "address":"901 HARDY RD",
+      "city":"VINTON",
+      "state":"Virginia",
+      "zip":"24179",
+      "phone":"5406852961",
+      "latitude":"37.27290291",
+      "longitude":"-79.8886959"
+   },
+   "A00000260422":{
+      "name":"Russell Cellular Chatham",
+      "address":"13701 Us Highway 29",
+      "city":"Chatham",
+      "state":"Virginia",
+      "zip":"24531",
+      "phone":"4342660700",
+      "latitude":"36.789244",
+      "longitude":"-79.394222"
+   },
+   "A00000245256":{
+      "name":"Victra Lynchburg Forest Brook Rd",
+      "address":"3211 Forest Brook Rd",
+      "city":"LYNCHBURG",
+      "state":"Virginia",
+      "zip":"24501",
+      "phone":"4344393462",
+      "latitude":"37.41067519",
+      "longitude":"-79.21248785"
+   },
+   "A00000235590":{
+      "name":"GoWireless Madison Heights S Amherst Hwy",
+      "address":"4227 SOUTH AMHERST HIGHWAY",
+      "city":"MADISON HEIGHTS",
+      "state":"Virginia",
+      "zip":"24572",
+      "phone":"4345283566",
+      "latitude":"37.46141197",
+      "longitude":"-79.11902901"
+   },
+   "A00000237849":{
+      "name":"GoWireless Amherst Ambriar Plaza",
+      "address":"175 AMBRIAR PLAZA",
+      "city":"AMHERST",
+      "state":"Virginia",
+      "zip":"24521",
+      "phone":"4343816045",
+      "latitude":"37.56469039",
+      "longitude":"-79.06403284"
+   },
+   "A00000260414":{
+      "name":"Russell Cellular Appomattox",
+      "address":"7815 Richmond Hwy",
+      "city":"Appomattox",
+      "state":"Virginia",
+      "zip":"24522",
+      "phone":"4342184020",
+      "latitude":"37.364201",
+      "longitude":"-78.846296"
+   },
+   "A00000257850":{
+      "name":"Cellular Sales Hurricane",
+      "address":"539 STATE ROUTE 34",
+      "city":"HURRICANE",
+      "state":"West Virginia",
+      "zip":"25526",
+      "phone":"3047570031",
+      "latitude":"38.45407243",
+      "longitude":"-81.93698703"
+   },
+   "A00000257889":{
+      "name":"Wireless Zone Cross Lanes",
+      "address":"50 NITRO MARKET PL",
+      "city":"CHARLESTON",
+      "state":"West Virginia",
+      "zip":"25313",
+      "phone":"3045426210",
+      "latitude":"38.41300897",
+      "longitude":"-81.80794617"
+   },
+   "T00000327970":{
+      "name":"VBG - Telesales - ACCENTURE OB",
+      "address":"2001 Union Carbide Dr",
+      "city":"S Charleston",
+      "state":"West Virginia",
+      "zip":"25303",
+      "phone":"None",
+      "latitude":"38.354228",
+      "longitude":"-81.697757"
+   },
+   "A00000257851":{
+      "name":"Cellular Sales South Charleston",
+      "address":"40 R H L BLVD",
+      "city":"SOUTH CHARLESTON",
+      "state":"West Virginia",
+      "zip":"25309",
+      "phone":"3047443906",
+      "latitude":"38.33717558",
+      "longitude":"-81.71272236"
+   },
+   "A00000255224":{
+      "name":"VICTRA CHARLESTON",
+      "address":"3000 CHARLESTON TOWN CENTER",
+      "city":"CHARLESTON",
+      "state":"West Virginia",
+      "zip":"25389",
+      "phone":"3042059515",
+      "latitude":"38.35329482",
+      "longitude":"-81.63792904"
+   },
+   "A00000244668":{
+      "name":"TCC Ripley",
+      "address":"124A MCGRAW STREET",
+      "city":"RIPLEY",
+      "state":"West Virginia",
+      "zip":"25271",
+      "phone":"3045142112",
+      "latitude":"38.82093713",
+      "longitude":"-81.72397851"
+   },
+   "A00000256412":{
+      "name":"Wireless Zone Charleston",
+      "address":"5760 MACCORKLE AVE SE",
+      "city":"CHARLESTON",
+      "state":"West Virginia",
+      "zip":"25304",
+      "phone":"3049260041",
+      "latitude":"38.31216844",
+      "longitude":"-81.56516463"
+   },
+   "A00000250894":{
+      "name":"VICTRA Barboursville Huntington Mall",
+      "address":"500 Mall Rd",
+      "city":"Barboursville",
+      "state":"West Virginia",
+      "zip":"25504",
+      "phone":"3049484356",
+      "latitude":"38.423273",
+      "longitude":"-82.26938"
+   },
+   "R00000251127":{
+      "name":"Vienna",
+      "address":"802 Grand Central Mall",
+      "city":"Vienna",
+      "state":"West Virginia",
+      "zip":"26105",
+      "phone":"3044855653",
+      "latitude":"39.3001448",
+      "longitude":"-81.5525919"
+   },
+   "R00000231631":{
+      "name":"Athens OH",
+      "address":"551 E State St",
+      "city":"Athens",
+      "state":"Ohio",
+      "zip":"45701",
+      "phone":"7405947735",
+      "latitude":"39.337069",
+      "longitude":"-82.0790288"
+   },
+   "A00000257852":{
+      "name":"Cellular Sales Logan",
+      "address":"123 PROSPERITY LN",
+      "city":"LOGAN",
+      "state":"West Virginia",
+      "zip":"25601",
+      "phone":"3047520222",
+      "latitude":"37.84871",
+      "longitude":"-81.99346"
+   },
+   "A00000256413":{
+      "name":"Wireless Zone Williamson",
+      "address":"200 E 2ND AVE",
+      "city":"WILLIAMSON",
+      "state":"West Virginia",
+      "zip":"25661",
+      "phone":"3042352246",
+      "latitude":"37.67150632",
+      "longitude":"-82.27715606"
+   },
+   "R00000194814":{
+      "name":"St Clairsville",
+      "address":"50641 Valley Plaza Dr",
+      "city":"Saint Clairsville",
+      "state":"Ohio",
+      "zip":"43950",
+      "phone":"7406953600",
+      "latitude":"40.0751698",
+      "longitude":"-80.8760616"
+   },
+   "R00000140904":{
+      "name":"Wheeling",
+      "address":"500 Cabela Dr",
+      "city":"Triadelphia",
+      "state":"West Virginia",
+      "zip":"26059",
+      "phone":"3045470833",
+      "latitude":"40.0540155",
+      "longitude":"-80.6021111"
+   },
+   "R00000000714":{
+      "name":"Washington Crown Center",
+      "address":"1500 W Chestnut St",
+      "city":"Washington",
+      "state":"Pennsylvania",
+      "zip":"15301",
+      "phone":"7242285933",
+      "latitude":"40.1591932",
+      "longitude":"-80.2766962"
+   },
+   "A00000243914":{
+      "name":"Cellular Sales Reidsville",
+      "address":"1642 FREEWAY DR",
+      "city":"REIDSVILLE",
+      "state":"North Carolina",
+      "zip":"27320",
+      "phone":"3363470607",
+      "latitude":"36.35113325",
+      "longitude":"-79.69264982"
+   },
+   "A00000200746":{
+      "name":"Russell Cellular Whitsett",
+      "address":"6307 Burlington Rd",
+      "city":"Whitsett",
+      "state":"North Carolina",
+      "zip":"27377",
+      "phone":"3364461100",
+      "latitude":"36.063249",
+      "longitude":"-79.609203"
+   },
+   "R00000251833":{
+      "name":"Battleground",
+      "address":"2512 Battleground Ave",
+      "city":"Greensboro",
+      "state":"North Carolina",
+      "zip":"27408",
+      "phone":"3365457160",
+      "latitude":"36.1059106",
+      "longitude":"-79.8257458"
+   },
+   "A00000051073":{
+      "name":"Cellular Sales Greensboro Westover Terr",
+      "address":"1601 C WESTOVER TERRACE",
+      "city":"GREENSBORO",
+      "state":"North Carolina",
+      "zip":"27408",
+      "phone":"3362820902",
+      "latitude":"36.09519348",
+      "longitude":"-79.81696083"
+   },
+   "R00000161060":{
+      "name":"Burlington NC",
+      "address":"1565 Glidewell Dr",
+      "city":"Burlington",
+      "state":"North Carolina",
+      "zip":"27215",
+      "phone":"3365850034",
+      "latitude":"36.0675049",
+      "longitude":"-79.5144765"
+   },
+   "A00000204129":{
+      "name":"Cellular Sales Greensboro New Garden Rd",
+      "address":"1600 NEW GARDEN RD",
+      "city":"GREENSBORO",
+      "state":"North Carolina",
+      "zip":"27410",
+      "phone":"3366637421",
+      "latitude":"36.11657396",
+      "longitude":"-79.87586313"
+   },
+   "A00000232130":{
+      "name":"Cellular Sales Burlington",
+      "address":"626 HUFFMAN MILL ROAD",
+      "city":"BURLINGTON",
+      "state":"North Carolina",
+      "zip":"27215",
+      "phone":"3365381141",
+      "latitude":"36.07334541",
+      "longitude":"-79.49106575"
+   },
+   "A00000220631":{
+      "name":"Cellular Sales Greensboro Elton Way",
+      "address":"4002 Elton Way",
+      "city":"Greensboro",
+      "state":"North Carolina",
+      "zip":"27406",
+      "phone":"3363731750",
+      "latitude":"36.00542929",
+      "longitude":"-79.79132563"
+   },
+   "R00000232888":{
+      "name":"Greensboro",
+      "address":"4207 W Wendover Ave",
+      "city":"Greensboro",
+      "state":"North Carolina",
+      "zip":"27407",
+      "phone":"3368516700",
+      "latitude":"36.0574585",
+      "longitude":"-79.8875289"
+   },
+   "A00000258639":{
+      "name":"Russell Cellular Oakridge",
+      "address":"8001 MARKETPLACE DR",
+      "city":"OAK RIDGE",
+      "state":"North Carolina",
+      "zip":"27310",
+      "phone":"None",
+      "latitude":"36.17201905",
+      "longitude":"-79.98819995"
+   },
+   "A00000236195":{
+      "name":"Cellular Sales Graham S Main St",
+      "address":"314 S MAIN ST",
+      "city":"GRAHAM",
+      "state":"North Carolina",
+      "zip":"27253",
+      "phone":"3363958459",
+      "latitude":"36.06503966",
+      "longitude":"-79.40023643"
+   },
+   "A00000238071":{
+      "name":"Cellular Sales Mayodan",
+      "address":"6701 NC HWY 135",
+      "city":"MAYODAN",
+      "state":"North Carolina",
+      "zip":"27027",
+      "phone":"3369494225",
+      "latitude":"36.41734713",
+      "longitude":"-79.93453"
+   },
+   "A00000221666":{
+      "name":"Cellular Sales Eden",
+      "address":"113 SOUTH VAN BUREN RD",
+      "city":"EDEN",
+      "state":"North Carolina",
+      "zip":"27288",
+      "phone":"3366239195",
+      "latitude":"36.50069037",
+      "longitude":"-79.74303701"
+   },
+   "A00000035041":{
+      "name":"Cellular Sales High Point Eastchester Dr",
+      "address":"3800 SUTTON WAY",
+      "city":"HIGH POINT",
+      "state":"North Carolina",
+      "zip":"27265",
+      "phone":"3368872555",
+      "latitude":"36.02655291",
+      "longitude":"-79.97137371"
+   },
+   "A00000204130":{
+      "name":"Cellular Sales Kernersville",
+      "address":"832 S Main St",
+      "city":"Kernersville",
+      "state":"North Carolina",
+      "zip":"27284",
+      "phone":"3369922211",
+      "latitude":"36.11173",
+      "longitude":"-80.087669"
+   },
+   "A00000234778":{
+      "name":"Cellular Sales Mebane",
+      "address":"3974 Wilson Rd",
+      "city":"Mebane",
+      "state":"North Carolina",
+      "zip":"27302",
+      "phone":"9195688643",
+      "latitude":"36.0733",
+      "longitude":"-79.2645"
+   },
+   "R00000251133":{
+      "name":"High Point",
+      "address":"2317 N Main St",
+      "city":"High Point",
+      "state":"North Carolina",
+      "zip":"27262",
+      "phone":"3368866024",
+      "latitude":"35.9859793",
+      "longitude":"-80.0255285"
+   },
+   "A00000249976":{
+      "name":"Victra Ahoskie",
+      "address":"1314B MEMORIAL DR E",
+      "city":"AHOSKIE",
+      "state":"North Carolina",
+      "zip":"27910",
+      "phone":"2525570345",
+      "latitude":"36.27473516",
+      "longitude":"-76.97573039"
+   },
+   "R00000000427":{
+      "name":"Rocky Mount",
+      "address":"767 Word Plz",
+      "city":"Rocky Mount",
+      "state":"North Carolina",
+      "zip":"27804",
+      "phone":"2524433632",
+      "latitude":"35.9672508",
+      "longitude":"-77.8168131"
+   },
+   "R00000001717":{
+      "name":"ECU",
+      "address":"305 Greenville Blvd SE",
+      "city":"Greenville",
+      "state":"North Carolina",
+      "zip":"27858",
+      "phone":"2523210121",
+      "latitude":"35.5806947",
+      "longitude":"-77.3781116"
+   },
+   "R00000001612":{
+      "name":"Wilson",
+      "address":"2871 Raleigh Road Pkwy W",
+      "city":"Wilson",
+      "state":"North Carolina",
+      "zip":"27896",
+      "phone":"2522371171",
+      "latitude":"35.7374623",
+      "longitude":"-77.9548966"
+   },
+   "R00000139304":{
+      "name":"Northcrest",
+      "address":"9821 Northlake Centre Pkwy",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28216",
+      "phone":"7049213022",
+      "latitude":"35.3492477",
+      "longitude":"-80.8576047"
+   },
+   "R00000257702":{
+      "name":"Charlotte Midtown",
+      "address":"209 S Kings Dr",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28204",
+      "phone":"7044993009",
+      "latitude":"35.21437",
+      "longitude":"-80.833293"
+   },
+   "R00000003181":{
+      "name":"UNCC",
+      "address":"110 McCullough Dr",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28262",
+      "phone":"7045489510",
+      "latitude":"35.2997835",
+      "longitude":"-80.7529879"
+   },
+   "R00000003316":{
+      "name":"Lake Norman",
+      "address":"9705 Sam Furr Rd",
+      "city":"Huntersville",
+      "state":"North Carolina",
+      "zip":"28078",
+      "phone":"7049872355",
+      "latitude":"35.4430146",
+      "longitude":"-80.8639254"
+   },
+   "A00000236772":{
+      "name":"VICTRA BELMONT W WILKINSON",
+      "address":"6501 WEST WILKINSON BLVD",
+      "city":"BELMONT",
+      "state":"North Carolina",
+      "zip":"28012",
+      "phone":"7044610030",
+      "latitude":"35.25287344",
+      "longitude":"-81.0423298"
+   },
+   "R00000101387":{
+      "name":"ParkTowne Village",
+      "address":"1630 E Woodlawn Rd",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28209",
+      "phone":"7045236744",
+      "latitude":"35.1720229",
+      "longitude":"-80.8482737"
+   },
+   "R00000003161":{
+      "name":"Concord NC",
+      "address":"8603 Concord Mills Blvd",
+      "city":"Concord",
+      "state":"North Carolina",
+      "zip":"28027",
+      "phone":"7049791697",
+      "latitude":"35.3737752",
+      "longitude":"-80.7267522"
+   },
+   "A00000327935":{
+      "name":"Cellular Sales Charlotte Steele Creek Rd",
+      "address":"9501 Steele Creek Rd",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28278",
+      "phone":"None",
+      "latitude":"35.161326",
+      "longitude":"-80.970289"
+   },
+   "R00000200294":{
+      "name":"South Park",
+      "address":"6530 Fairview Rd",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28210",
+      "phone":"7043664044",
+      "latitude":"35.1481799",
+      "longitude":"-80.8316088"
+   },
+   "A00000201329":{
+      "name":"Victra CHARLOTTE",
+      "address":"4044 Connection Point Blvd",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28212",
+      "phone":"7046315573",
+      "latitude":"35.1822",
+      "longitude":"-80.7515"
+   },
+   "A00000258793":{
+      "name":"Victra Charlotte Albemarle Rd",
+      "address":"9020 Albemarle Rd",
+      "city":"CHARLOTTE",
+      "state":"North Carolina",
+      "zip":"28227",
+      "phone":"9803210626",
+      "latitude":"35.21144287",
+      "longitude":"-80.69037771"
+   },
+   "A00000252397":{
+      "name":"Cellular Sales Harrisburg Hwy 49 S",
+      "address":"4144 HIGHWAY 49 SOUTH",
+      "city":"HARRISBURG",
+      "state":"North Carolina",
+      "zip":"28075",
+      "phone":"9802580526",
+      "latitude":"35.32259351",
+      "longitude":"-80.64595132"
+   },
+   "R00000001727":{
+      "name":"Gastonia",
+      "address":"3090 E Franklin Blvd",
+      "city":"Gastonia",
+      "state":"North Carolina",
+      "zip":"28056",
+      "phone":"7048618323",
+      "latitude":"35.2592717",
+      "longitude":"-81.1235843"
+   },
+   "A00000257641":{
+      "name":"Cellular Sales Concord Kannapolis P",
+      "address":"520 KANNAPOLIS PKWY",
+      "city":"CONCORD",
+      "state":"North Carolina",
+      "zip":"28027",
+      "phone":"7047830920",
+      "latitude":"35.42163749",
+      "longitude":"-80.67564032"
+   },
+   "R00000179255":{
+      "name":"Steele Creek",
+      "address":"12910 Walker Branch Rd",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28273",
+      "phone":"7045833005",
+      "latitude":"35.0992239",
+      "longitude":"-80.9875122"
+   },
+   "R00000003064":{
+      "name":"Arboretum",
+      "address":"8046 Providence Rd",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28277",
+      "phone":"7045403500",
+      "latitude":"35.0973564",
+      "longitude":"-80.778843"
+   },
+   "R00000153846":{
+      "name":"Matthews",
+      "address":"2218 Matthews Township Pkwy",
+      "city":"Matthews",
+      "state":"North Carolina",
+      "zip":"28105",
+      "phone":"7048414010",
+      "latitude":"35.1268158",
+      "longitude":"-80.7026441"
+   },
+   "A00000238432":{
+      "name":"VICTRA CLOVER HWY 274",
+      "address":"142 HWY 274",
+      "city":"CLOVER",
+      "state":"South Carolina",
+      "zip":"29710",
+      "phone":"8036754081",
+      "latitude":"35.12034098",
+      "longitude":"-81.0823309"
+   },
+   "A00000238073":{
+      "name":"Cellular Sales Charlotte Ballantyne Village",
+      "address":"14835 BALLANTYNE VILLAGE WAY",
+      "city":"CHARLOTTE",
+      "state":"North Carolina",
+      "zip":"28277",
+      "phone":"7045446708",
+      "latitude":"35.05300409",
+      "longitude":"-80.8521749"
+   },
+   "A00000015728":{
+      "name":"Cellular Sales Concord 1528 Concord Pkwy",
+      "address":"1528 CONCORD PARKWAY N",
+      "city":"CONCORD",
+      "state":"North Carolina",
+      "zip":"28025",
+      "phone":"7047888988",
+      "latitude":"35.44079779",
+      "longitude":"-80.60733069"
+   },
+   "A00000257565":{
+      "name":"Cellular Sales Charlotte Providence Farms Ln",
+      "address":"6311 Providence Farm Ln",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28226",
+      "phone":"9809498002",
+      "latitude":"35.055698",
+      "longitude":"-80.76775"
+   },
+   "A00000172143":{
+      "name":"VICTRA FORT MILL",
+      "address":"1135 STONECREST BLVD",
+      "city":"FORT MILL",
+      "state":"South Carolina",
+      "zip":"29708",
+      "phone":"8036703050",
+      "latitude":"35.04827909",
+      "longitude":"-80.99197002"
+   },
+   "R00000235199":{
+      "name":"Mooresville",
+      "address":"467 River Hwy",
+      "city":"Mooresville",
+      "state":"North Carolina",
+      "zip":"28117",
+      "phone":"7047997539",
+      "latitude":"35.5938819",
+      "longitude":"-80.8632406"
+   },
+   "A00000169383":{
+      "name":"VICTRA KANNAPOLIS",
+      "address":"2228 ROXIE ST.",
+      "city":"KANNAPOLIS",
+      "state":"North Carolina",
+      "zip":"28083",
+      "phone":"7047950202",
+      "latitude":"35.46447887",
+      "longitude":"-80.59407994"
+   },
+   "A00000238431":{
+      "name":"VICTRA INDIAN LAND 10092 Charlotte Hwy",
+      "address":"10092 CHARLOTTE HIGHWAY",
+      "city":"INDIAN LAND",
+      "state":"South Carolina",
+      "zip":"29707",
+      "phone":"8036703045",
+      "latitude":"35.01262979",
+      "longitude":"-80.85179161"
+   },
+   "A00000223619":{
+      "name":"Cellular Sales Hickory",
+      "address":"2905 NORTH CENTER STREET",
+      "city":"HICKORY",
+      "state":"North Carolina",
+      "zip":"28601",
+      "phone":"8288553800",
+      "latitude":"35.76996173",
+      "longitude":"-81.33039433"
+   },
+   "A00000248660":{
+      "name":"VICTRA GRANITE FALLS",
+      "address":"261 RIVERBEND DR.",
+      "city":"GRANITE FALLS",
+      "state":"North Carolina",
+      "zip":"28630",
+      "phone":"8285234172",
+      "latitude":"35.78502871",
+      "longitude":"-81.37867504"
+   },
+   "R00000000999":{
+      "name":"Hickory",
+      "address":"1855 US Highway 70 SE",
+      "city":"Hickory",
+      "state":"North Carolina",
+      "zip":"28602",
+      "phone":"8283223339",
+      "latitude":"35.7075055",
+      "longitude":"-81.3056542"
+   },
+   "A00000236775":{
+      "name":"Cellular Sales Conover",
+      "address":"509 10TH STREET NW",
+      "city":"CONOVER",
+      "state":"North Carolina",
+      "zip":"28613",
+      "phone":"7043250943",
+      "latitude":"35.71578076",
+      "longitude":"-81.22716853"
+   },
+   "A00000017308":{
+      "name":"Russell Cellular Taylorsville RS",
+      "address":"166 West Main Avenue",
+      "city":"Taylorsville",
+      "state":"North Carolina",
+      "zip":"28681",
+      "phone":"8283529699",
+      "latitude":"35.92216543",
+      "longitude":"-81.17840203"
+   },
+   "A00000040263":{
+      "name":"Russell Cellular Lenoir Blowing Rock Blvd",
+      "address":"845 BLOWING ROCK BLVD",
+      "city":"LENOIR",
+      "state":"North Carolina",
+      "zip":"28645",
+      "phone":"8287549112",
+      "latitude":"35.92658626",
+      "longitude":"-81.52667029"
+   },
+   "A00000220774":{
+      "name":"Russell Cellular Lenoir Morganton Blvd",
+      "address":"2025 MORGANTON BLVD.",
+      "city":"LENOIR",
+      "state":"North Carolina",
+      "zip":"28645",
+      "phone":"8287580015",
+      "latitude":"35.8963547",
+      "longitude":"-81.56116693"
+   },
+   "A00000250058":{
+      "name":"VICTRA MORGANTON HEIGHTS",
+      "address":"B-134 MORGANTON HEIGHTS BLVD.",
+      "city":"MORGANTON",
+      "state":"North Carolina",
+      "zip":"28655",
+      "phone":"9804744468",
+      "latitude":"35.7535",
+      "longitude":"-81.6966"
+   },
+   "A00000250981":{
+      "name":"VICTRA LINCOLNTON",
+      "address":"1428 EAST MAIN ST",
+      "city":"LINCOLNTON",
+      "state":"North Carolina",
+      "zip":"28092",
+      "phone":"7044695608",
+      "latitude":"35.4767025",
+      "longitude":"-81.23696943"
+   },
+   "A00000206225":{
+      "name":"VICTRA CAMDEN W DEKALB ST",
+      "address":"2201 WEST DEKALB STREET",
+      "city":"CAMDEN",
+      "state":"South Carolina",
+      "zip":"29020",
+      "phone":"8035723404",
+      "latitude":"34.24940644",
+      "longitude":"-80.64476958"
+   },
+   "R00000224212":{
+      "name":"Lancaster SC",
+      "address":"1107 Highway 9 Byp W",
+      "city":"Lancaster",
+      "state":"South Carolina",
+      "zip":"29720",
+      "phone":"8032832220",
+      "latitude":"34.733407",
+      "longitude":"-80.793739"
+   },
+   "R00000252827":{
+      "name":"Northeast Columbia",
+      "address":"10202 Two Notch Rd",
+      "city":"Columbia",
+      "state":"South Carolina",
+      "zip":"29229",
+      "phone":"8034192585",
+      "latitude":"34.11932",
+      "longitude":"-80.8779154"
+   },
+   "A00000231657":{
+      "name":"Cellular Sales Columbia Killian Rd",
+      "address":"331 KILLIAN ROAD",
+      "city":"COLUMBIA",
+      "state":"South Carolina",
+      "zip":"29203",
+      "phone":"8037541442",
+      "latitude":"34.13359625",
+      "longitude":"-80.96885221"
+   },
+   "R00000201429":{
+      "name":"North Myrtle Beach",
+      "address":"605 Highway 17 N",
+      "city":"North Myrtle Beach",
+      "state":"South Carolina",
+      "zip":"29582",
+      "phone":"8432800892",
+      "latitude":"33.8341194",
+      "longitude":"-78.6735175"
+   },
+   "A00000204134":{
+      "name":"Cellular Sales Shallotte",
+      "address":"4619 MAIN STREET.",
+      "city":"SHALLOTTE",
+      "state":"North Carolina",
+      "zip":"28470",
+      "phone":"9105006705",
+      "latitude":"33.97697709",
+      "longitude":"-78.37968615"
+   },
+   "R00000002548":{
+      "name":"Myrtle Beach",
+      "address":"551 Seaboard St",
+      "city":"Myrtle Beach",
+      "state":"South Carolina",
+      "zip":"29577",
+      "phone":"8434456101",
+      "latitude":"33.7058317",
+      "longitude":"-78.9107582"
+   },
+   "A00000024322":{
+      "name":"VICTRA CONWAY CHURCH ST",
+      "address":"2686-D CHURCH STREET",
+      "city":"CONWAY",
+      "state":"South Carolina",
+      "zip":"29526",
+      "phone":"8437333300",
+      "latitude":"33.85930952",
+      "longitude":"-79.08791904"
+   },
+   "A00000245478":{
+      "name":"Cellular Sales Myrtle Beach Loyala Rd",
+      "address":"102 LOYOLA DR",
+      "city":"MYRTLE BEACH",
+      "state":"South Carolina",
+      "zip":"29588",
+      "phone":"8439291336",
+      "latitude":"33.64027849",
+      "longitude":"-78.99057402"
+   },
+   "R00000253463":{
+      "name":"Decatur GA",
+      "address":"2570 Blackmon Dr",
+      "city":"Decatur",
+      "state":"Georgia",
+      "zip":"30033",
+      "phone":"4042677004",
+      "latitude":"33.7926717",
+      "longitude":"-84.2867968"
+   },
+   "R00000255641":{
+      "name":"Edgewood",
+      "address":"1220 Caroline St NE",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30307",
+      "phone":"4042677019",
+      "latitude":"33.7585919",
+      "longitude":"-84.3488629"
+   },
+   "A00000251367":{
+      "name":"GoWireless Lithonia Panola Centre",
+      "address":"3054 PANOLA ROAD",
+      "city":"LITHONIA",
+      "state":"Georgia",
+      "zip":"30038",
+      "phone":"6788220128",
+      "latitude":"33.69834451",
+      "longitude":"-84.17281804"
+   },
+   "R00000116220":{
+      "name":"Ponce De Leon",
+      "address":"650 Ponce De Leon Ave NE",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30308",
+      "phone":"4046858308",
+      "latitude":"33.77405",
+      "longitude":"-84.365772"
+   },
+   "R00000120309":{
+      "name":"Tucker",
+      "address":"3963 Lavista Rd",
+      "city":"Tucker",
+      "state":"Georgia",
+      "zip":"30084",
+      "phone":"7704148501",
+      "latitude":"33.8459154",
+      "longitude":"-84.2529399"
+   },
+   "A00000243841":{
+      "name":"GoWireless Atlanta Buford Hwy",
+      "address":"3927 BUFORD HIGHWAY NE",
+      "city":"ATLANTA",
+      "state":"Georgia",
+      "zip":"30345",
+      "phone":"4043209002",
+      "latitude":"33.85810673",
+      "longitude":"-84.31159932"
+   },
+   "A00000252936":{
+      "name":"GoWireless Tucker Lawrenceveille Hwy",
+      "address":"4373 LAWRENCEVILLE HIGHWAY",
+      "city":"TUCKER",
+      "state":"Georgia",
+      "zip":"30084",
+      "phone":"4047726626",
+      "latitude":"33.8569258",
+      "longitude":"-84.20733963"
+   },
+   "R00000255642":{
+      "name":"West Midtown Atlanta",
+      "address":"530 17th St NW",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30318",
+      "phone":"4042606429",
+      "latitude":"33.79153",
+      "longitude":"-84.406385"
+   },
+   "R00000169116":{
+      "name":"Buckhead",
+      "address":"3275 Peachtree Rd NE",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30305",
+      "phone":"4044429316",
+      "latitude":"33.8441463",
+      "longitude":"-84.3694275"
+   },
+   "R00000147393":{
+      "name":"Howell Mill",
+      "address":"1801 Howell Mill Rd NW",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30318",
+      "phone":"4043510712",
+      "latitude":"33.80448",
+      "longitude":"-84.4131989"
+   },
+   "A00000327787":{
+      "name":"Victra Atlanta",
+      "address":"5001 Peachtree Blvd",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30341",
+      "phone":"4708808984",
+      "latitude":"33.885779",
+      "longitude":"-84.315348"
+   },
+   "A00000258137":{
+      "name":"Victra Lithonia",
+      "address":"7230 STONECREST PKWY",
+      "city":"LITHONIA",
+      "state":"Georgia",
+      "zip":"30038",
+      "phone":"7064603134",
+      "latitude":"33.69743892",
+      "longitude":"-84.08983741"
+   },
+   "A00000257882":{
+      "name":"TCC Norcross",
+      "address":"5485 JIMMY CARTER BLVD",
+      "city":"NORCROSS",
+      "state":"Georgia",
+      "zip":"30093",
+      "phone":"7704478315",
+      "latitude":"33.9084343",
+      "longitude":"-84.20601903"
+   },
+   "A00000258010":{
+      "name":"TCC Morrow",
+      "address":"1947 MOUNT ZION RD",
+      "city":"MORROW",
+      "state":"Georgia",
+      "zip":"30260",
+      "phone":"6783647330",
+      "latitude":"33.56492398",
+      "longitude":"-84.32656804"
+   },
+   "A00000235647":{
+      "name":"GoWireless Stockbridge Hannover Center",
+      "address":"3625 HWY 138 SE",
+      "city":"STOCKBRIDGE",
+      "state":"Georgia",
+      "zip":"30281",
+      "phone":"6785258930",
+      "latitude":"33.55198191",
+      "longitude":"-84.27297915"
+   },
+   "A00000258228":{
+      "name":"T/A Ultra Mobile Atlanta",
+      "address":"3181 DONALD LEE HOLLOWELL PKWY NW",
+      "city":"ATLANTA",
+      "state":"Georgia",
+      "zip":"30318",
+      "phone":"4047947772",
+      "latitude":"33.78600531",
+      "longitude":"-84.49053799"
+   },
+   "A00000253446":{
+      "name":"Cellular Sales Snellville",
+      "address":"3496 CENTERVILLE HIGHWAY",
+      "city":"SNELLVILLE",
+      "state":"Georgia",
+      "zip":"30039",
+      "phone":"6783955184",
+      "latitude":"33.80427067",
+      "longitude":"-84.04285317"
+   },
+   "R00000000430":{
+      "name":"Perimeter Place",
+      "address":"123 Perimeter Ctr W",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30346",
+      "phone":"7703999993",
+      "latitude":"33.9277864",
+      "longitude":"-84.3438683"
+   },
+   "A00000176576":{
+      "name":"Cellular Sales Sandy Springs",
+      "address":"6000 ROSWELL ROAD NE",
+      "city":"SANDY SPRINGS",
+      "state":"Georgia",
+      "zip":"30328",
+      "phone":"4045492830",
+      "latitude":"33.91849721",
+      "longitude":"-84.37921502"
+   },
+   "A00000258135":{
+      "name":"Victra East Point",
+      "address":"3530 CAMP CREEK PKWY",
+      "city":"EAST POINT",
+      "state":"Georgia",
+      "zip":"30344",
+      "phone":"4049912916",
+      "latitude":"33.65462698",
+      "longitude":"-84.50477566"
+   },
+   "A00000258291":{
+      "name":"TCC Atlanta Cumberland Mall",
+      "address":"2860 Cumberland Mall SE",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30339",
+      "phone":"7706437311",
+      "latitude":"33.8786",
+      "longitude":"-84.4679"
+   },
+   "A00000253103":{
+      "name":"TCC Conyers",
+      "address":"1830 GA HIGHWAY 20 SE",
+      "city":"CONYERS",
+      "state":"Georgia",
+      "zip":"30013",
+      "phone":"7709226484",
+      "latitude":"33.6404",
+      "longitude":"-84.01420528"
+   },
+   "R00000160357":{
+      "name":"Smyrna GA",
+      "address":"2540 Cobb Pkwy SE",
+      "city":"Smyrna",
+      "state":"Georgia",
+      "zip":"30080",
+      "phone":"7709568550",
+      "latitude":"33.8907561",
+      "longitude":"-84.4768835"
+   },
+   "A00000244591":{
+      "name":"GoWireless Stockbridge Hudson Bridge Plaza",
+      "address":"1465 HUDSON BRIDGE ROAD",
+      "city":"STOCKBRIDGE",
+      "state":"Georgia",
+      "zip":"30281",
+      "phone":"6789513379",
+      "latitude":"33.50437787",
+      "longitude":"-84.23522598"
+   },
+   "R00000001949":{
+      "name":"Gwinnett",
+      "address":"3625 Satellite Blvd",
+      "city":"Duluth",
+      "state":"Georgia",
+      "zip":"30096",
+      "phone":"6789571470",
+      "latitude":"33.9587016",
+      "longitude":"-84.1360661"
+   },
+   "A00000244827":{
+      "name":"TCC Metter",
+      "address":"75 NE BROAD STREET",
+      "city":"METTER",
+      "state":"Georgia",
+      "zip":"30439",
+      "phone":"9126857777",
+      "latitude":"32.39800805",
+      "longitude":"-82.06023583"
+   },
+   "A00000236310":{
+      "name":"TCC Vidalia",
+      "address":"3107-C E 1ST STREET",
+      "city":"VIDALIA",
+      "state":"Georgia",
+      "zip":"30474",
+      "phone":"9125373416",
+      "latitude":"32.20474425",
+      "longitude":"-82.36213292"
+   },
+   "R00000182159":{
+      "name":"Vidalia",
+      "address":"1303 E 1st Street",
+      "city":"Vidalia",
+      "state":"Georgia",
+      "zip":"30474",
+      "phone":"9125376070",
+      "latitude":"32.2112619",
+      "longitude":"-82.3977084"
+   },
+   "A00000205084":{
+      "name":"Cellular Sales Swainsboro",
+      "address":"414 S MAIN STREET",
+      "city":"SWAINSBORO",
+      "state":"Georgia",
+      "zip":"30401",
+      "phone":"4782372126",
+      "latitude":"32.58897303",
+      "longitude":"-82.32722509"
+   },
+   "A00000245534":{
+      "name":"TCC Statesboro",
+      "address":"11 E KENNEDY STREET",
+      "city":"STATESBORO",
+      "state":"Georgia",
+      "zip":"30458",
+      "phone":"9122122084",
+      "latitude":"32.4341501",
+      "longitude":"-81.78313862"
+   }
+}

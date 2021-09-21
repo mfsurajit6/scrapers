@@ -1,16 +1,19 @@
 import random
 import requests
 from bs4 import BeautifulSoup
+
 from constant import USER_AGENT
+from urls import PIZZAHUT_URL
 
 
 class PizzaHut:
     """ Get PizzaHut outlet information form all over United States in dictionary format"""
+
     def __init__(self):
         self.stores = {}
         self.state_urls = {}
         self.outlet_urls = []
-        self.original_url = "https://locations.pizzahut.com/"
+        self.base_url = PIZZAHUT_URL
         self.headers = {
             'User-Agent': random.choice(USER_AGENT),
             "Upgrade-Insecure-Requests": "1",
@@ -21,19 +24,29 @@ class PizzaHut:
         }
 
     def get_stores(self):
+        """
+        Get all the outlet details
+        :return: dict, All Store Details
+        """
         self.get_states()
-        for s, l in self.state_urls.items():
-            state_url = self.original_url+"/"+l
+        for state, link in self.state_urls.items():
+            # url = f'{url}lat={lat}&long={long}'
+            state_url = f'{self.base_url}/{link}'
+            # state_url = self.base_url + "/" + link
             res = requests.get(state_url, headers=self.headers)
             soup = BeautifulSoup(res.content, 'html.parser')
             urls = soup.find_all("a", {"class": "Directory-listLink"})
-            for u in urls:
-                self.outlet_urls.append(u.get("href"))
+            for url in urls:
+                self.outlet_urls.append(url.get("href"))
         self.get_details()
         return self.stores
 
     def get_states(self):
-        res = requests.get(self.original_url, headers=self.headers)
+        """
+        Finds the states and corresponding URLS and put it in state_urls list
+        :return: None
+       """
+        res = requests.get(self.base_url, headers=self.headers)
         soup = BeautifulSoup(res.content, 'html.parser')
         state_data = soup.find("ul", {"class": "Directory-listLinks"})
         states = state_data.find_all("a", {"class": "Directory-listLink"})
@@ -43,9 +56,13 @@ class PizzaHut:
             self.state_urls[state] = state_url
 
     def get_details(self):
+        """
+        Find the outlet of evey states
+        :return: None
+        """
         store_id = 1
-        for u in self.outlet_urls:
-            url = self.original_url+"/"+u
+        for outleturl in self.outlet_urls:
+            url = self.base_url + "/" + outleturl
             res = requests.get(url, headers=self.headers)
             soup = BeautifulSoup(res.content, 'html.parser')
             outlets = soup.find_all("li", {"class": "Directory-listTeaser"})
@@ -66,5 +83,5 @@ class PizzaHut:
                 store_id += 1
 
 
-ph = PizzaHut()
-print(ph.get_stores())
+pizzahut = PizzaHut()
+print(pizzahut.get_stores())

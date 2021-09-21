@@ -1,0 +1,4622 @@
+{
+   "3961":{
+      "name":"9 Crawford Street GARDNER",
+      "address":"9 Crawford Street",
+      "city":"GARDNER",
+      "state":"Massachusetts",
+      "zip":"01440",
+      "phone":"9786326015",
+      "latitude":42.565029,
+      "longitude":-71.991266
+   },
+   "2612":{
+      "name":"374 Main Street Sturbridge",
+      "address":"374 Main Street",
+      "city":"Sturbridge",
+      "state":"Massachusetts",
+      "zip":"01566",
+      "phone":"5084253697",
+      "latitude":42.11225,
+      "longitude":-72.090988
+   },
+   "3102":{
+      "name":"1160 Main Street WORCESTER",
+      "address":"1160 Main Street",
+      "city":"WORCESTER",
+      "state":"Massachusetts",
+      "zip":"01603",
+      "phone":"5087917670",
+      "latitude":42.244584,
+      "longitude":-71.837257
+   },
+   "2677":{
+      "name":"711 West Boylston Street WORCESTER",
+      "address":"711 West Boylston Street",
+      "city":"WORCESTER",
+      "state":"Massachusetts",
+      "zip":"01606",
+      "phone":"5088528111",
+      "latitude":42.316433,
+      "longitude":-71.796292
+   },
+   "13016":{
+      "name":"830 Southbridge Street Auburn",
+      "address":"830 Southbridge Street",
+      "city":"Auburn",
+      "state":"Massachusetts",
+      "zip":"01501",
+      "phone":"5084414507",
+      "latitude":42.178846,
+      "longitude":-71.872041
+   },
+   "13398":{
+      "name":"163 Madison Street WORCESTER",
+      "address":"163 Madison Street",
+      "city":"WORCESTER",
+      "state":"Massachusetts",
+      "zip":"01610",
+      "phone":"5087527952",
+      "latitude":42.255031,
+      "longitude":-71.79948
+   },
+   "1815":{
+      "name":"188 Turnpike Street NORTH ANDOVER",
+      "address":"188 Turnpike Street",
+      "city":"NORTH ANDOVER",
+      "state":"Massachusetts",
+      "zip":"01845",
+      "phone":"9786854490",
+      "latitude":42.674305,
+      "longitude":-71.126958
+   },
+   "17680":{
+      "name":"187 Broadway LAWRENCE",
+      "address":"187 Broadway",
+      "city":"LAWRENCE",
+      "state":"Massachusetts",
+      "zip":"01840",
+      "phone":"9786880835",
+      "latitude":42.707336,
+      "longitude":-71.169616
+   },
+   "845":{
+      "name":"95 Pleasant Valley Street METHUEN",
+      "address":"95 Pleasant Valley Street",
+      "city":"METHUEN",
+      "state":"Massachusetts",
+      "zip":"01844",
+      "phone":"9786880714",
+      "latitude":42.741971,
+      "longitude":-71.15576
+   },
+   "4899":{
+      "name":"248 Haverhill St METHUEN",
+      "address":"248 Haverhill St",
+      "city":"METHUEN",
+      "state":"Massachusetts",
+      "zip":"01844",
+      "phone":"9786887846",
+      "latitude":42.705823,
+      "longitude":-71.204789
+   },
+   "24438":{
+      "name":"223 Lincoln Ave. Haverhill",
+      "address":"223 Lincoln Ave.",
+      "city":"Haverhill",
+      "state":"Massachusetts",
+      "zip":"01830",
+      "phone":"19783777834",
+      "latitude":42.763115,
+      "longitude":-71.040179
+   },
+   "2690":{
+      "name":"1965 Main Street Tewksbury",
+      "address":"1965 Main Street",
+      "city":"Tewksbury",
+      "state":"Massachusetts",
+      "zip":"01876",
+      "phone":"9788516578",
+      "latitude":42.590081,
+      "longitude":-71.204307
+   },
+   "8855":{
+      "name":"280 Lowell Street WILMINGTON",
+      "address":"280 Lowell Street",
+      "city":"WILMINGTON",
+      "state":"Massachusetts",
+      "zip":"01887",
+      "phone":"5086575703",
+      "latitude":42.539332,
+      "longitude":-71.140764
+   },
+   "9836":{
+      "name":"85 Main Street TEWKSBURY",
+      "address":"85 Main Street",
+      "city":"TEWKSBURY",
+      "state":"Massachusetts",
+      "zip":"01876",
+      "phone":"9786409898",
+      "latitude":42.626335,
+      "longitude":-71.269682
+   },
+   "6844":{
+      "name":"74 Plaistow Road HAVERHILL",
+      "address":"74 Plaistow Road",
+      "city":"HAVERHILL",
+      "state":"Massachusetts",
+      "zip":"01830",
+      "phone":"9785210060",
+      "latitude":42.813201,
+      "longitude":-71.102926
+   },
+   "3957":{
+      "name":"357 Main Street READING",
+      "address":"357 Main Street",
+      "city":"READING",
+      "state":"Massachusetts",
+      "zip":"01867",
+      "phone":"7819441014",
+      "latitude":42.51925,
+      "longitude":-71.10278
+   },
+   "3342":{
+      "name":"1200 Bridge Street LOWELL",
+      "address":"1200 Bridge Street",
+      "city":"LOWELL",
+      "state":"Massachusetts",
+      "zip":"01850",
+      "phone":"9784540252",
+      "latitude":42.664904,
+      "longitude":-71.30416
+   },
+   "1112":{
+      "name":"184 Endicott Street DANVERS",
+      "address":"184 Endicott Street",
+      "city":"DANVERS",
+      "state":"Massachusetts",
+      "zip":"01923",
+      "phone":"9787628404",
+      "latitude":42.548009,
+      "longitude":-70.942065
+   },
+   "452":{
+      "name":"392 Chelmsford Street LOWELL",
+      "address":"392 Chelmsford Street",
+      "city":"LOWELL",
+      "state":"Massachusetts",
+      "zip":"01851",
+      "phone":"9784583095",
+      "latitude":42.629904,
+      "longitude":-71.321258
+   },
+   "627":{
+      "name":"197 Main Street STONEHAM",
+      "address":"197 Main Street",
+      "city":"STONEHAM",
+      "state":"Massachusetts",
+      "zip":"02180",
+      "phone":"7814385029",
+      "latitude":42.488166,
+      "longitude":-71.100012
+   },
+   "5058":{
+      "name":"Route 128  N Service Area BEVERLY",
+      "address":"Route 128  N Service Area",
+      "city":"BEVERLY",
+      "state":"Massachusetts",
+      "zip":"01915",
+      "phone":"9789273714",
+      "latitude":42.574534,
+      "longitude":-70.875389
+   },
+   "669":{
+      "name":"498 Rantoul Street BEVERLY",
+      "address":"498 Rantoul Street",
+      "city":"BEVERLY",
+      "state":"Massachusetts",
+      "zip":"01915",
+      "phone":"9789215260",
+      "latitude":42.556898,
+      "longitude":-70.880357
+   },
+   "3326":{
+      "name":"77 Drum Hill Road CHELMSFORD",
+      "address":"77 Drum Hill Road",
+      "city":"CHELMSFORD",
+      "state":"Massachusetts",
+      "zip":"01824",
+      "phone":"9784524565",
+      "latitude":42.625124,
+      "longitude":-71.363366
+   },
+   "14987":{
+      "name":"720 Broadway SAUGUS",
+      "address":"720 Broadway",
+      "city":"SAUGUS",
+      "state":"Massachusetts",
+      "zip":"01906",
+      "phone":"7812334191",
+      "latitude":42.473957,
+      "longitude":-71.023936
+   },
+   "3564":{
+      "name":"259 Highland Drive SALEM",
+      "address":"259 Highland Drive",
+      "city":"SALEM",
+      "state":"Massachusetts",
+      "zip":"01970",
+      "phone":"978-744-9467",
+      "latitude":42.503213,
+      "longitude":-70.921763
+   },
+   "1997":{
+      "name":"133 Macy Street AMESBURY",
+      "address":"133 Macy Street",
+      "city":"AMESBURY",
+      "state":"Massachusetts",
+      "zip":"01913",
+      "phone":"9783883411",
+      "latitude":42.845474,
+      "longitude":-70.907143
+   },
+   "1421":{
+      "name":"155 Loudon Road CONCORD",
+      "address":"155 Loudon Road",
+      "city":"CONCORD",
+      "state":"New Hampshire",
+      "zip":"03301",
+      "phone":"6032250784",
+      "latitude":43.217021,
+      "longitude":-71.506171
+   },
+   "3617":{
+      "name":"250 North Main ROCHESTER",
+      "address":"250 North Main",
+      "city":"ROCHESTER",
+      "state":"New Hampshire",
+      "zip":"03867",
+      "phone":"6033328341",
+      "latitude":43.308964,
+      "longitude":-70.990551
+   },
+   "13144":{
+      "name":"15 Hall Street CONCORD",
+      "address":"15 Hall Street",
+      "city":"CONCORD",
+      "state":"New Hampshire",
+      "zip":"03301",
+      "phone":"6032235014",
+      "latitude":43.192993,
+      "longitude":-71.527846
+   },
+   "25975":{
+      "name":"491 Calef Hwy Barrington",
+      "address":"491 Calef Hwy",
+      "city":"Barrington",
+      "state":"New Hampshire",
+      "zip":"03825",
+      "phone":"603-905-9057",
+      "latitude":43.21356,
+      "longitude":-70.995143
+   },
+   "8199":{
+      "name":"25 Tilton Road TILTON",
+      "address":"25 Tilton Road",
+      "city":"TILTON",
+      "state":"New Hampshire",
+      "zip":"03276",
+      "phone":"6032868573",
+      "latitude":43.453621,
+      "longitude":-71.567174
+   },
+   "3499":{
+      "name":"Route 16 & Route 302 NORTH CONWAY",
+      "address":"Route 16 & Route 302",
+      "city":"NORTH CONWAY",
+      "state":"New Hampshire",
+      "zip":"03860",
+      "phone":"6033567434",
+      "latitude":44.016573,
+      "longitude":-71.113323
+   },
+   "3842":{
+      "name":"West Street",
+      "address":"West Street, Rt. 93, Exit 24",
+      "city":"ASHLAND",
+      "state":"New Hampshire",
+      "zip":"03217",
+      "phone":"6039687209",
+      "latitude":43.699823,
+      "longitude":-71.645227
+   },
+   "11211":{
+      "name":"1010 Union Street BANGOR",
+      "address":"1010 Union Street",
+      "city":"BANGOR",
+      "state":"Maine",
+      "zip":"04401",
+      "phone":"2079419961",
+      "latitude":44.8159,
+      "longitude":-68.8076
+   },
+   "14497":{
+      "name":"546 Wilson Street BREWER",
+      "address":"546 Wilson Street",
+      "city":"BREWER",
+      "state":"Maine",
+      "zip":"04412",
+      "phone":"2079919666",
+      "latitude":44.780647,
+      "longitude":-68.741797
+   },
+   "2470":{
+      "name":"1331 U.S. Ret. 302 BARRE",
+      "address":"1331 U.S. Ret. 302",
+      "city":"BARRE",
+      "state":"Vermont",
+      "zip":"05641",
+      "phone":"8024768608",
+      "latitude":44.227235,
+      "longitude":-72.553002
+   },
+   "1567":{
+      "name":"981 Shelburne Road S BURLINGTON",
+      "address":"981 Shelburne Road",
+      "city":"S BURLINGTON",
+      "state":"Vermont",
+      "zip":"05403",
+      "phone":"8028620202",
+      "latitude":44.442077,
+      "longitude":-73.210457
+   },
+   "12087":{
+      "name":"Roosevelt Highway Route 7 COLCHESTER",
+      "address":"Roosevelt Highway Route 7",
+      "city":"COLCHESTER",
+      "state":"Vermont",
+      "zip":"05446",
+      "phone":"8026556187",
+      "latitude":44.504141,
+      "longitude":-73.181192
+   },
+   "2565":{
+      "name":"257 Flanders Road NIANTIC",
+      "address":"257 Flanders Road",
+      "city":"NIANTIC",
+      "state":"Connecticut",
+      "zip":"06357",
+      "phone":"8607396636",
+      "latitude":41.358114,
+      "longitude":-72.210481
+   },
+   "1046":{
+      "name":"429 Colman Street NEW LONDON",
+      "address":"429 Colman Street",
+      "city":"NEW LONDON",
+      "state":"Connecticut",
+      "zip":"06320",
+      "phone":"8604472706",
+      "latitude":41.360961,
+      "longitude":-72.115694
+   },
+   "456":{
+      "name":"557 Long Hill Road GROTON",
+      "address":"557 Long Hill Road",
+      "city":"GROTON",
+      "state":"Connecticut",
+      "zip":"06340",
+      "phone":"8604452020",
+      "latitude":41.352613,
+      "longitude":-72.059821
+   },
+   "2500":{
+      "name":"607 Boston Post Road OLD SAYBROOK",
+      "address":"607 Boston Post Road",
+      "city":"OLD SAYBROOK",
+      "state":"Connecticut",
+      "zip":"06475",
+      "phone":"8603885255",
+      "latitude":41.296864,
+      "longitude":-72.378317
+   },
+   "510":{
+      "name":"21 Salem Turnpike NORWICH",
+      "address":"21 Salem Turnpike",
+      "city":"NORWICH",
+      "state":"Connecticut",
+      "zip":"06360",
+      "phone":"8608897040",
+      "latitude":41.513898,
+      "longitude":-72.10714
+   },
+   "2780":{
+      "name":"1 Park Avenue LYNDHURST",
+      "address":"1 Park Avenue",
+      "city":"LYNDHURST",
+      "state":"New Jersey",
+      "zip":"07071",
+      "phone":"2019356113",
+      "latitude":40.820729,
+      "longitude":-74.121531
+   },
+   "2579":{
+      "name":"205 Passaic Avenue KEARNY",
+      "address":"205 Passaic Avenue",
+      "city":"KEARNY",
+      "state":"New Jersey",
+      "zip":"07032",
+      "phone":"2019919790",
+      "latitude":40.762049,
+      "longitude":-74.159623
+   },
+   "2598":{
+      "name":"100 Franklin Avenue NUTLEY",
+      "address":"100 Franklin Avenue",
+      "city":"NUTLEY",
+      "state":"New Jersey",
+      "zip":"07110",
+      "phone":"9736677515",
+      "latitude":40.8111,
+      "longitude":-74.164348
+   },
+   "3153":{
+      "name":"255 Heller Parkway NEWARK",
+      "address":"255 Heller Parkway",
+      "city":"NEWARK",
+      "state":"New Jersey",
+      "zip":"07107",
+      "phone":"9734824105",
+      "latitude":40.779065,
+      "longitude":-74.175988
+   },
+   "1076":{
+      "name":"36 Route 17 South RUTHERFORD",
+      "address":"36 Route 17 South",
+      "city":"RUTHERFORD",
+      "state":"New Jersey",
+      "zip":"07070",
+      "phone":"2018961725",
+      "latitude":40.822281,
+      "longitude":-74.099894
+   },
+   "15221":{
+      "name":"751 Harrison Ave. HARRISON",
+      "address":"751 Harrison Ave.",
+      "city":"HARRISON",
+      "state":"New Jersey",
+      "zip":"07029",
+      "phone":"9734825767",
+      "latitude":40.74743,
+      "longitude":-74.147973
+   },
+   "2437":{
+      "name":"2 Clay Street Newark",
+      "address":"2 Clay Street",
+      "city":"Newark",
+      "state":"New Jersey",
+      "zip":"07104",
+      "phone":"9734825825",
+      "latitude":40.750239,
+      "longitude":-74.170617
+   },
+   "13850":{
+      "name":"675 Patterson Ave CARLSTADT",
+      "address":"675 Patterson Ave",
+      "city":"CARLSTADT",
+      "state":"New Jersey",
+      "zip":"07072",
+      "phone":"2018968550",
+      "latitude":40.841451,
+      "longitude":-74.101881
+   },
+   "26318":{
+      "name":"730 Broad Street Newark",
+      "address":"730 Broad Street",
+      "city":"Newark",
+      "state":"New Jersey",
+      "zip":"07102",
+      "phone":"9736420790",
+      "latitude":40.73426,
+      "longitude":-74.173454
+   },
+   "1522":{
+      "name":"22 Gregory Avenue PASSAIC",
+      "address":"22 Gregory Avenue",
+      "city":"PASSAIC",
+      "state":"New Jersey",
+      "zip":"07055",
+      "phone":"9734713039",
+      "latitude":40.854588,
+      "longitude":-74.121373
+   },
+   "2367":{
+      "name":"330 Central Avenue JERSEY CITY",
+      "address":"330 Central Avenue",
+      "city":"JERSEY CITY",
+      "state":"New Jersey",
+      "zip":"07307",
+      "phone":"2016539848",
+      "latitude":40.74619,
+      "longitude":-74.049094
+   },
+   "3094":{
+      "name":"195 Moonachie Road MOONACHIE",
+      "address":"195 Moonachie Road",
+      "city":"MOONACHIE",
+      "state":"New Jersey",
+      "zip":"07074",
+      "phone":"2014409700",
+      "latitude":40.835302,
+      "longitude":-74.052657
+   },
+   "2660":{
+      "name":"3501 Bergenline Avenue UNION CITY",
+      "address":"3501 Bergenline Avenue",
+      "city":"UNION CITY",
+      "state":"New Jersey",
+      "zip":"07087",
+      "phone":"2013259018",
+      "latitude":40.773913,
+      "longitude":-74.028114
+   },
+   "2916":{
+      "name":"645 Central Ave East Orange",
+      "address":"645 Central Ave",
+      "city":"East Orange",
+      "state":"New Jersey",
+      "zip":"07018",
+      "phone":"9736739735",
+      "latitude":40.762372,
+      "longitude":-74.226523
+   },
+   "21011":{
+      "name":"7605 Tonnelle Ave North Bergen",
+      "address":"7605 Tonnelle Ave",
+      "city":"North Bergen",
+      "state":"New Jersey",
+      "zip":"07047",
+      "phone":"2017139490",
+      "latitude":40.804364,
+      "longitude":-74.019096
+   },
+   "1553":{
+      "name":"6201 Bergenline Avenue WEST NEW YORK",
+      "address":"6201 Bergenline Avenue",
+      "city":"WEST NEW YORK",
+      "state":"New Jersey",
+      "zip":"07093",
+      "phone":"2017514353",
+      "latitude":40.791429,
+      "longitude":-74.013953
+   },
+   "11296":{
+      "name":"185 12th Street JERSEY CITY",
+      "address":"185 12th Street",
+      "city":"JERSEY CITY",
+      "state":"New Jersey",
+      "zip":"07310",
+      "phone":"2016562354",
+      "latitude":40.729927,
+      "longitude":-74.040944
+   },
+   "7249":{
+      "name":"30 Mall Dr W JERSEY CITY",
+      "address":"30 Mall Dr W",
+      "city":"JERSEY CITY",
+      "state":"New Jersey",
+      "zip":"07310",
+      "phone":"2016268910",
+      "latitude":40.727068,
+      "longitude":-74.038416
+   },
+   "21133":{
+      "name":"308 Elizabeth Ave NEWARK",
+      "address":"308 Elizabeth Ave",
+      "city":"NEWARK",
+      "state":"New Jersey",
+      "zip":"07112",
+      "phone":"9736212106",
+      "latitude":40.71267,
+      "longitude":-74.193697
+   },
+   "1004":{
+      "name":"490 U. S. Route 46 SOUTH HACKENSAC",
+      "address":"490 U. S. Route 46",
+      "city":"SOUTH HACKENSAC",
+      "state":"New Jersey",
+      "zip":"07606",
+      "phone":"2016419637",
+      "latitude":40.857422,
+      "longitude":-74.050358
+   },
+   "25526":{
+      "name":"39 Route 9 South Marlboro Township",
+      "address":"39 Route 9 South",
+      "city":"Marlboro Township",
+      "state":"New Jersey",
+      "zip":"07751",
+      "phone":"7328514345",
+      "latitude":40.356857,
+      "longitude":-74.30491
+   },
+   "650":{
+      "name":"992 Route 34 MATAWAN",
+      "address":"992 Route 34",
+      "city":"MATAWAN",
+      "state":"New Jersey",
+      "zip":"07747",
+      "phone":"7325669870",
+      "latitude":40.4047,
+      "longitude":-74.232523
+   },
+   "639":{
+      "name":"Route 516 & Bushnell Road OLD BRIDGE TWP",
+      "address":"Route 516 & Bushnell Road",
+      "city":"OLD BRIDGE TWP",
+      "state":"New Jersey",
+      "zip":"08857",
+      "phone":"7326799797",
+      "latitude":40.401624,
+      "longitude":-74.311599
+   },
+   "1742":{
+      "name":"1022 Route 18 EAST BRUNSWICK",
+      "address":"1022 Route 18",
+      "city":"EAST BRUNSWICK",
+      "state":"New Jersey",
+      "zip":"08816",
+      "phone":"7322389740",
+      "latitude":40.417437,
+      "longitude":-74.371595
+   },
+   "7334":{
+      "name":"940 US Highway 9 SOUTH AMBOY",
+      "address":"940 US Highway 9",
+      "city":"SOUTH AMBOY",
+      "state":"New Jersey",
+      "zip":"08879",
+      "phone":"7327219728",
+      "latitude":40.463515,
+      "longitude":-74.296464
+   },
+   "1770":{
+      "name":"734 Route 36 & Union Avenue HAZLET",
+      "address":"734 Route 36 & Union Avenue",
+      "city":"HAZLET",
+      "state":"New Jersey",
+      "zip":"07730",
+      "phone":"7322649609",
+      "latitude":40.437566,
+      "longitude":-74.163758
+   },
+   "7550":{
+      "name":"Mile Post 124 SOUTH AMBOY",
+      "address":"Mile Post 124",
+      "city":"SOUTH AMBOY",
+      "state":"New Jersey",
+      "zip":"08879",
+      "phone":"7325250308",
+      "latitude":40.466622,
+      "longitude":-74.289212
+   },
+   "474":{
+      "name":"Highway 9 & Schank Road FREEHOLD",
+      "address":"Highway 9 & Schank Road",
+      "city":"FREEHOLD",
+      "state":"New Jersey",
+      "zip":"07728",
+      "phone":"7324318785",
+      "latitude":40.240445,
+      "longitude":-74.277551
+   },
+   "1845":{
+      "name":"858 Highway 35 MIDDLETOWN",
+      "address":"858 Highway 35",
+      "city":"MIDDLETOWN",
+      "state":"New Jersey",
+      "zip":"07748",
+      "phone":"7326719716",
+      "latitude":40.392647,
+      "longitude":-74.101603
+   },
+   "11064":{
+      "name":"3267 Route 9 North FREEHOLD",
+      "address":"3267 Route 9 North",
+      "city":"FREEHOLD",
+      "state":"New Jersey",
+      "zip":"07728",
+      "phone":"7324318997",
+      "latitude":40.220163,
+      "longitude":-74.264759
+   },
+   "3497":{
+      "name":"273 State Hwy 18 S EAST BRUNSWICK",
+      "address":"273 State Hwy 18 S",
+      "city":"EAST BRUNSWICK",
+      "state":"New Jersey",
+      "zip":"08816",
+      "phone":"7322548901",
+      "latitude":40.459587,
+      "longitude":-74.402799
+   },
+   "26238":{
+      "name":"182 Smith ST Perth Amboy",
+      "address":"182 Smith ST",
+      "city":"Perth Amboy",
+      "state":"New Jersey",
+      "zip":"08861",
+      "phone":"(732) 442-0126",
+      "latitude":40.509573,
+      "longitude":-74.270458
+   },
+   "22512":{
+      "name":"245 Page Avenue Staten Island",
+      "address":"245 Page Avenue",
+      "city":"Staten Island",
+      "state":"New York",
+      "zip":"10307",
+      "phone":"7182272862",
+      "latitude":40.518446,
+      "longitude":-74.234247
+   },
+   "14564":{
+      "name":"147 New Brunswick Avenue Hopelawn ",
+      "address":"147 New Brunswick Avenue",
+      "city":"Hopelawn ",
+      "state":"New Jersey",
+      "zip":"08861",
+      "phone":"7327097515",
+      "latitude":40.523958,
+      "longitude":-74.296504
+   },
+   "13953":{
+      "name":"Mile Marker 78 North NJ Turnpike MILLTOWN",
+      "address":"Mile Marker 78 North NJ Turnpike",
+      "city":"MILLTOWN",
+      "state":"New Jersey",
+      "zip":"08850",
+      "phone":"7326980242",
+      "latitude":40.456319,
+      "longitude":-74.443207
+   },
+   "13691":{
+      "name":"139 State Route 35 Eatontown",
+      "address":"139 State Route 35",
+      "city":"Eatontown",
+      "state":"New Jersey",
+      "zip":"07724",
+      "phone":"7325421100",
+      "latitude":40.295117,
+      "longitude":-74.052951
+   },
+   "9175":{
+      "name":"Monmouth Mall Route 35 & 36 Eatontown",
+      "address":"Monmouth Mall Route 35 & 36",
+      "city":"Eatontown",
+      "state":"New Jersey",
+      "zip":"07724",
+      "phone":"7325427611",
+      "latitude":40.287782,
+      "longitude":-74.054159
+   },
+   "114":{
+      "name":"260 Plainfield Avenue EDISON",
+      "address":"260 Plainfield Avenue",
+      "city":"EDISON",
+      "state":"New Jersey",
+      "zip":"08817",
+      "phone":"7329792151",
+      "latitude":40.513299,
+      "longitude":-74.402987
+   },
+   "1237":{
+      "name":"963 Livingston Avenue North Brunswick",
+      "address":"963 Livingston Avenue",
+      "city":"North Brunswick",
+      "state":"New Jersey",
+      "zip":"08902",
+      "phone":"7328461280",
+      "latitude":40.469502,
+      "longitude":-74.470336
+   },
+   "3974":{
+      "name":"373 George Street NEW BRUNSWICK",
+      "address":"373 George Street",
+      "city":"NEW BRUNSWICK",
+      "state":"New Jersey",
+      "zip":"08901",
+      "phone":"9082462530",
+      "latitude":40.495441,
+      "longitude":-74.443573
+   },
+   "17950":{
+      "name":"4 Roosevelt Blvd MARMORA",
+      "address":"4 Roosevelt Blvd",
+      "city":"MARMORA",
+      "state":"New Jersey",
+      "zip":"08223",
+      "phone":"6099380482",
+      "latitude":39.265381,
+      "longitude":-74.649355
+   },
+   "485":{
+      "name":"601 Black Horse Pike PLEASANTVILLE",
+      "address":"601 Black Horse Pike",
+      "city":"PLEASANTVILLE",
+      "state":"New Jersey",
+      "zip":"08232",
+      "phone":"6093836752",
+      "latitude":39.392475,
+      "longitude":-74.535893
+   },
+   "7338":{
+      "name":"6047 Black Horse Pike EGG HARBOR TWP",
+      "address":"6047 Black Horse Pike",
+      "city":"EGG HARBOR TWP",
+      "state":"New Jersey",
+      "zip":"08234",
+      "phone":"6096466875",
+      "latitude":39.434895,
+      "longitude":-74.611384
+   },
+   "10556":{
+      "name":"1405 Route 47 South RIO GRANDE",
+      "address":"1405 Route 47 South",
+      "city":"RIO GRANDE",
+      "state":"New Jersey",
+      "zip":"08242",
+      "phone":"6098897594",
+      "latitude":39.012754,
+      "longitude":-74.87367
+   },
+   "4339":{
+      "name":"320 White Horse Pike ABSECON",
+      "address":"320 White Horse Pike",
+      "city":"ABSECON",
+      "state":"New Jersey",
+      "zip":"08201",
+      "phone":"6096412079",
+      "latitude":39.428209,
+      "longitude":-74.505105
+   },
+   "7428":{
+      "name":"Mile Marker41. 3 ABSECON",
+      "address":"Mile Marker41. 3",
+      "city":"ABSECON",
+      "state":"New Jersey",
+      "zip":"08201",
+      "phone":"6099716655",
+      "latitude":39.470944,
+      "longitude":-74.529025
+   },
+   "21576":{
+      "name":"415 S. 8th Street Galloway",
+      "address":"415 S. 8th Street",
+      "city":"Galloway",
+      "state":"New Jersey",
+      "zip":"08205",
+      "phone":"6093804172",
+      "latitude":39.463464,
+      "longitude":-74.495912
+   },
+   "25810":{
+      "name":"175 Dyckman St New York",
+      "address":"175 Dyckman St",
+      "city":"New York",
+      "state":"New York",
+      "zip":"10040",
+      "phone":"646-596-7757",
+      "latitude":40.86413,
+      "longitude":-73.926155
+   },
+   "16535":{
+      "name":"400 East Tremont Avenue BRONX",
+      "address":"400 East Tremont Avenue",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10457",
+      "phone":"7182947019",
+      "latitude":40.847438,
+      "longitude":-73.900815
+   },
+   "12205":{
+      "name":"1380 Jerome Avenue BRONX",
+      "address":"1380 Jerome Avenue",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10452",
+      "phone":"9174736449",
+      "latitude":40.83962,
+      "longitude":-73.917675
+   },
+   "1434":{
+      "name":"6007 Broadway Bronx",
+      "address":"6007 Broadway",
+      "city":"Bronx",
+      "state":"New York",
+      "zip":"10471",
+      "phone":"3473469792",
+      "latitude":40.890879,
+      "longitude":-73.897869
+   },
+   "23277":{
+      "name":"3440 Jerome Avenue Bronx",
+      "address":"3440 Jerome Avenue",
+      "city":"Bronx",
+      "state":"New York",
+      "zip":"10467",
+      "phone":"3472751292",
+      "latitude":40.881314,
+      "longitude":-73.881645
+   },
+   "21602":{
+      "name":"216 E 161st St BRONX",
+      "address":"216 E 161st St",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10451",
+      "phone":"9174719288",
+      "latitude":40.825027,
+      "longitude":-73.920953
+   },
+   "21484":{
+      "name":"961 E 174th St BRONX",
+      "address":"961 E 174th St",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10460",
+      "phone":"9174719425",
+      "latitude":40.837215,
+      "longitude":-73.88483
+   },
+   "16887":{
+      "name":"557 Grand Concourse BRONX",
+      "address":"557 Grand Concourse",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10451",
+      "phone":"7187086651",
+      "latitude":40.818969,
+      "longitude":-73.926943
+   },
+   "12261":{
+      "name":"977 Southern Blvd BRONX",
+      "address":"977 Southern Blvd",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10459",
+      "phone":"3477089039",
+      "latitude":40.822087,
+      "longitude":-73.89181
+   },
+   "12262":{
+      "name":"521 E 149th St BRONX",
+      "address":"521 E 149th St",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10455",
+      "phone":"3473446817",
+      "latitude":40.815098,
+      "longitude":-73.914334
+   },
+   "21211":{
+      "name":"1607 Westchester Ave BRONX",
+      "address":"1607 Westchester Ave",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10472",
+      "phone":"3472973524",
+      "latitude":40.829787,
+      "longitude":-73.874671
+   },
+   "1523":{
+      "name":"811 Palisade Ave FORT LEE",
+      "address":"811 Palisade Ave",
+      "city":"FORT LEE",
+      "state":"New Jersey",
+      "zip":"07024",
+      "phone":"2018869841",
+      "latitude":40.829985,
+      "longitude":-73.98004
+   },
+   "11581":{
+      "name":"60 Metropolitan Oval BRONX",
+      "address":"60 Metropolitan Oval",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10462",
+      "phone":"7189697025",
+      "latitude":40.837413,
+      "longitude":-73.860296
+   },
+   "853":{
+      "name":"4275 White Plains Road BRONX",
+      "address":"4275 White Plains Road",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10466",
+      "phone":"7185146941",
+      "latitude":40.895564,
+      "longitude":-73.856581
+   },
+   "847":{
+      "name":"3500 Boston Road BRONX",
+      "address":"3500 Boston Road",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10469",
+      "phone":"7185158738",
+      "latitude":40.87707,
+      "longitude":-73.84615
+   },
+   "10450":{
+      "name":"1851-59 Bruckner Boulevard BRONX",
+      "address":"1851-59 Bruckner Boulevard",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10472",
+      "phone":"7189316773",
+      "latitude":40.826068,
+      "longitude":-73.862483
+   },
+   "23934":{
+      "name":"200 East 125th St New York",
+      "address":"200 East 125th St",
+      "city":"New York",
+      "state":"New York",
+      "zip":"10035",
+      "phone":"9172617611",
+      "latitude":40.803333,
+      "longitude":-73.935555
+   },
+   "19450":{
+      "name":"53 S Broadway YONKERS",
+      "address":"53 S Broadway",
+      "city":"YONKERS",
+      "state":"New York",
+      "zip":"10701",
+      "phone":"9143274600",
+      "latitude":40.932136,
+      "longitude":-73.899276
+   },
+   "9829":{
+      "name":"154 East 116 Street NEW YORK",
+      "address":"154 East 116 Street",
+      "city":"NEW YORK",
+      "state":"New York",
+      "zip":"10029",
+      "phone":"2124269532",
+      "latitude":40.798858,
+      "longitude":-73.942517
+   },
+   "5040":{
+      "name":"1590 Hutchinson River Parkway BRONX",
+      "address":"1590 Hutchinson River Parkway",
+      "city":"BRONX",
+      "state":"New York",
+      "zip":"10461",
+      "phone":"7188247846",
+      "latitude":40.843139,
+      "longitude":-73.836498
+   },
+   "4797":{
+      "name":"8 Oakland Avenue WARWICK",
+      "address":"8 Oakland Avenue",
+      "city":"WARWICK",
+      "state":"New York",
+      "zip":"10990",
+      "phone":"8459861726",
+      "latitude":41.255627,
+      "longitude":-74.360594
+   },
+   "7152":{
+      "name":"Mile Marker 33 North SLOATSBURG",
+      "address":"Mile Marker 33 North",
+      "city":"SLOATSBURG",
+      "state":"New York",
+      "zip":"10974",
+      "phone":"9147532701",
+      "latitude":41.1504,
+      "longitude":-74.188195
+   },
+   "12267":{
+      "name":"314 Route 94 VERNON",
+      "address":"314 Route 94",
+      "city":"VERNON",
+      "state":"New Jersey",
+      "zip":"07462",
+      "phone":"9737648898",
+      "latitude":41.198359,
+      "longitude":-74.48245
+   },
+   "13480":{
+      "name":"300A Union Avenue HASKELL",
+      "address":"300A Union Avenue",
+      "city":"HASKELL",
+      "state":"New Jersey",
+      "zip":"07420",
+      "phone":"(973) 835-2489",
+      "latitude":41.017556,
+      "longitude":-74.300437
+   },
+   "25989":{
+      "name":"260 Route 59 Airmont",
+      "address":"260 Route 59",
+      "city":"Airmont",
+      "state":"New York",
+      "zip":"10901",
+      "phone":"845-547-2888.",
+      "latitude":41.111293,
+      "longitude":-74.106966
+   },
+   "24087":{
+      "name":"186 Ramapo Valley Rd Oakland",
+      "address":"186 Ramapo Valley Rd",
+      "city":"Oakland",
+      "state":"New Jersey",
+      "zip":"07436",
+      "phone":"2016440746",
+      "latitude":41.015495,
+      "longitude":-74.2515
+   },
+   "21672":{
+      "name":"3 Bryle Pl CHESTER",
+      "address":"3 Bryle Pl",
+      "city":"CHESTER",
+      "state":"New York",
+      "zip":"10918",
+      "phone":"8456105344",
+      "latitude":41.356383,
+      "longitude":-74.284022
+   },
+   "14020":{
+      "name":"259 Franklin Turnpike RAMSEY",
+      "address":"259 Franklin Turnpike",
+      "city":"RAMSEY",
+      "state":"New Jersey",
+      "zip":"07446",
+      "phone":"2013270745",
+      "latitude":41.066666,
+      "longitude":-74.135296
+   },
+   "2876":{
+      "name":"831 Route 17M MONROE",
+      "address":"831 Route 17M",
+      "city":"MONROE",
+      "state":"New York",
+      "zip":"10950",
+      "phone":"8457742569",
+      "latitude":41.335807,
+      "longitude":-74.192835
+   },
+   "24135":{
+      "name":"842 New Jersey 17 Ramsey",
+      "address":"842 New Jersey 17",
+      "city":"Ramsey",
+      "state":"New Jersey",
+      "zip":"07446",
+      "phone":"2019341113",
+      "latitude":41.063797,
+      "longitude":-74.12642
+   },
+   "2011":{
+      "name":"272 Route 23 FRANKLIN",
+      "address":"272 Route 23",
+      "city":"FRANKLIN",
+      "state":"New Jersey",
+      "zip":"07416",
+      "phone":"9738231222",
+      "latitude":41.119027,
+      "longitude":-74.58008
+   },
+   "3282":{
+      "name":"33 Matthew Street GOSHEN",
+      "address":"33 Matthew Street",
+      "city":"GOSHEN",
+      "state":"New York",
+      "zip":"10924",
+      "phone":"8452943157",
+      "latitude":41.396572,
+      "longitude":-74.335464
+   },
+   "1364":{
+      "name":"41 Franklin Turnpike WALDWICK",
+      "address":"41 Franklin Turnpike",
+      "city":"WALDWICK",
+      "state":"New Jersey",
+      "zip":"07463",
+      "phone":"2014458150",
+      "latitude":41.010206,
+      "longitude":-74.119398
+   },
+   "10481":{
+      "name":"160 Spring Valley Marktplace SPRING VALLEY",
+      "address":"160 Spring Valley Marktplace",
+      "city":"SPRING VALLEY",
+      "state":"New York",
+      "zip":"10977",
+      "phone":"8453528853",
+      "latitude":41.105609,
+      "longitude":-74.029464
+   },
+   "9526":{
+      "name":"1046 Hamburg Tpke WAYNE",
+      "address":"1046 Hamburg Tpke",
+      "city":"WAYNE",
+      "state":"New Jersey",
+      "zip":"07470",
+      "phone":"9736968025",
+      "latitude":40.960446,
+      "longitude":-74.236873
+   },
+   "7612":{
+      "name":"Mile Marker 173 MONTVALE",
+      "address":"Mile Marker 173",
+      "city":"MONTVALE",
+      "state":"New Jersey",
+      "zip":"07645",
+      "phone":"2013914158",
+      "latitude":41.047939,
+      "longitude":-74.066311
+   },
+   "517":{
+      "name":"55 Godwin Avenue MIDLAND PARK",
+      "address":"55 Godwin Avenue",
+      "city":"MIDLAND PARK",
+      "state":"New Jersey",
+      "zip":"07432",
+      "phone":"2016529841",
+      "latitude":40.984328,
+      "longitude":-74.137535
+   },
+   "2125":{
+      "name":"164 South Main Street NEW CITY",
+      "address":"164 South Main Street",
+      "city":"NEW CITY",
+      "state":"New York",
+      "zip":"10956",
+      "phone":"8454992833",
+      "latitude":41.141781,
+      "longitude":-73.990641
+   },
+   "550":{
+      "name":"162 Kinderkamack Road PARK RIDGE",
+      "address":"162 Kinderkamack Road",
+      "city":"PARK RIDGE",
+      "state":"New Jersey",
+      "zip":"07656",
+      "phone":"2013914225",
+      "latitude":41.035188,
+      "longitude":-74.032599
+   },
+   "1377":{
+      "name":"1229 Route 23 South WAYNE",
+      "address":"1229 Route 23 South",
+      "city":"WAYNE",
+      "state":"New Jersey",
+      "zip":"07470",
+      "phone":"9736945359",
+      "latitude":40.926128,
+      "longitude":-74.26896
+   },
+   "11850":{
+      "name":"5141 Sunrise Highway BOHEMIA",
+      "address":"5141 Sunrise Highway",
+      "city":"BOHEMIA",
+      "state":"New York",
+      "zip":"11716",
+      "phone":"6315677495",
+      "latitude":40.762493,
+      "longitude":-73.096349
+   },
+   "682":{
+      "name":"335 Montauk Highway BAY SHORE",
+      "address":"335 Montauk Highway",
+      "city":"BAY SHORE",
+      "state":"New York",
+      "zip":"11706",
+      "phone":"6316659269",
+      "latitude":40.725913,
+      "longitude":-73.238096
+   },
+   "815":{
+      "name":"121 West Suffolk Avenue CENTRAL ISLIP",
+      "address":"121 West Suffolk Avenue",
+      "city":"CENTRAL ISLIP",
+      "state":"New York",
+      "zip":"11722",
+      "phone":"6312341020",
+      "latitude":40.787905,
+      "longitude":-73.217664
+   },
+   "25941":{
+      "name":"1340 Motor Parkway Hauppague",
+      "address":"1340 Motor Parkway",
+      "city":"Hauppague",
+      "state":"New York",
+      "zip":"11749",
+      "phone":"6312322255",
+      "latitude":40.808416,
+      "longitude":-73.193032
+   },
+   "3965":{
+      "name":"32 Montauk Highway BLUE POINT",
+      "address":"32 Montauk Highway",
+      "city":"BLUE POINT",
+      "state":"New York",
+      "zip":"11715",
+      "phone":"6313636626",
+      "latitude":40.751766,
+      "longitude":-73.039818
+   },
+   "784":{
+      "name":"254 Portion Road LAKE RONKONKOMA",
+      "address":"254 Portion Road",
+      "city":"LAKE RONKONKOMA",
+      "state":"New York",
+      "zip":"11779",
+      "phone":"6315883588",
+      "latitude":40.826923,
+      "longitude":-73.103139
+   },
+   "14810":{
+      "name":"500 Waverly Avenue PATCHOGUE",
+      "address":"500 Waverly Avenue",
+      "city":"PATCHOGUE",
+      "state":"New York",
+      "zip":"11772",
+      "phone":"6312070050",
+      "latitude":40.781829,
+      "longitude":-73.03702
+   },
+   "626":{
+      "name":"1300 Deer Park Avenue NORTH BABYLON",
+      "address":"1300 Deer Park Avenue",
+      "city":"NORTH BABYLON",
+      "state":"New York",
+      "zip":"11703",
+      "phone":"6316674805",
+      "latitude":40.74074,
+      "longitude":-73.321481
+   },
+   "1090":{
+      "name":"246 Medford Ave PATCHOGUE",
+      "address":"246 Medford Ave",
+      "city":"PATCHOGUE",
+      "state":"New York",
+      "zip":"11772",
+      "phone":"6314758788",
+      "latitude":40.776195,
+      "longitude":-73.0088
+   },
+   "20327":{
+      "name":"942 W Jericho Tpke SMITHTOWN",
+      "address":"942 W Jericho Tpke",
+      "city":"SMITHTOWN",
+      "state":"New York",
+      "zip":"11787",
+      "phone":"6313437167",
+      "latitude":40.848402,
+      "longitude":-73.245569
+   },
+   "777":{
+      "name":"1880 Middle Country Road CENTEREACH",
+      "address":"1880 Middle Country Road",
+      "city":"CENTEREACH",
+      "state":"New York",
+      "zip":"11720",
+      "phone":"6317381462",
+      "latitude":40.858812,
+      "longitude":-73.078561
+   },
+   "2933":{
+      "name":"2250 North Ocean Avenue FARMINGVILLE",
+      "address":"2250 North Ocean Avenue",
+      "city":"FARMINGVILLE",
+      "state":"New York",
+      "zip":"11738",
+      "phone":"6317320127",
+      "latitude":40.827599,
+      "longitude":-73.022046
+   },
+   "2236":{
+      "name":"2488 Nesconset Highway STONY BROOK",
+      "address":"2488 Nesconset Highway",
+      "city":"STONY BROOK",
+      "state":"New York",
+      "zip":"11790",
+      "phone":"6317511107",
+      "latitude":40.877983,
+      "longitude":-73.116576
+   },
+   "308":{
+      "name":"628 West Montauk Highway WEST BABYLON",
+      "address":"628 West Montauk Highway",
+      "city":"WEST BABYLON",
+      "state":"New York",
+      "zip":"11704",
+      "phone":"6316203228",
+      "latitude":40.685788,
+      "longitude":-73.345292
+   },
+   "1023":{
+      "name":"6021 East Jericho Turnpike COMMACK",
+      "address":"6021 East Jericho Turnpike",
+      "city":"COMMACK",
+      "state":"New York",
+      "zip":"11725",
+      "phone":"6314992052",
+      "latitude":40.841554,
+      "longitude":-73.307954
+   },
+   "5891":{
+      "name":"1760 East Jericho Turnpike HUNTINGTON",
+      "address":"1760 East Jericho Turnpike",
+      "city":"HUNTINGTON",
+      "state":"New York",
+      "zip":"11743",
+      "phone":"6314621640",
+      "latitude":40.834415,
+      "longitude":-73.337113
+   },
+   "3604":{
+      "name":"700 Farmingdale Road LINDENHURST",
+      "address":"700 Farmingdale Road",
+      "city":"LINDENHURST",
+      "state":"New York",
+      "zip":"11757",
+      "phone":"6319575329",
+      "latitude":40.714185,
+      "longitude":-73.38196
+   },
+   "2040":{
+      "name":"283 Middle Country Road CORAM",
+      "address":"283 Middle Country Road",
+      "city":"CORAM",
+      "state":"New York",
+      "zip":"11727",
+      "phone":"6317322419",
+      "latitude":40.871883,
+      "longitude":-72.997723
+   },
+   "25940":{
+      "name":"1201 Sunrise Highway Copiague",
+      "address":"1201 Sunrise Highway",
+      "city":"Copiague",
+      "state":"New York",
+      "zip":"11762",
+      "phone":"6317890925",
+      "latitude":40.69204,
+      "longitude":-73.397514
+   },
+   "25333":{
+      "name":"1200 NY 109 Lindenhurst",
+      "address":"1200 NY 109",
+      "city":"Lindenhurst",
+      "state":"New York",
+      "zip":"11757",
+      "phone":"6312034165",
+      "latitude":40.717282,
+      "longitude":-73.405171
+   },
+   "2070":{
+      "name":"Fairview Plaza HUDSON",
+      "address":"Fairview Plaza",
+      "city":"HUDSON",
+      "state":"New York",
+      "zip":"12534",
+      "phone":"5188283884",
+      "latitude":42.254535,
+      "longitude":-73.766402
+   },
+   "5453":{
+      "name":"500 Pittsfield Rd Lenox",
+      "address":"500 Pittsfield Rd",
+      "city":"Lenox",
+      "state":"Massachusetts",
+      "zip":"01240",
+      "phone":"4133950862",
+      "latitude":42.404906,
+      "longitude":-73.264603
+   },
+   "4358":{
+      "name":"29 First Street Pittsfield",
+      "address":"29 First Street",
+      "city":"Pittsfield",
+      "state":"Massachusetts",
+      "zip":"01201",
+      "phone":"4134489940",
+      "latitude":42.448735,
+      "longitude":-73.251195
+   },
+   "1834":{
+      "name":"241 W. Bridge Street CATSKILL",
+      "address":"241 W. Bridge Street",
+      "city":"CATSKILL",
+      "state":"New York",
+      "zip":"12414",
+      "phone":"5189439357",
+      "latitude":42.214445,
+      "longitude":-73.880543
+   },
+   "13136":{
+      "name":"47 Sullivan Avenue LIBERTY",
+      "address":"47 Sullivan Avenue",
+      "city":"LIBERTY",
+      "state":"New York",
+      "zip":"12754",
+      "phone":"8452926004",
+      "latitude":41.783164,
+      "longitude":-74.72826
+   },
+   "14398":{
+      "name":"4349 State Route 42 MONTICELLO",
+      "address":"4349 State Route 42",
+      "city":"MONTICELLO",
+      "state":"New York",
+      "zip":"12701",
+      "phone":"8457916507",
+      "latitude":41.666115,
+      "longitude":-74.676132
+   },
+   "3059":{
+      "name":"520 Genesee St CHITTENANGO",
+      "address":"520 Genesee St",
+      "city":"CHITTENANGO",
+      "state":"New York",
+      "zip":"13037",
+      "phone":"3156877045",
+      "latitude":43.052966,
+      "longitude":-75.865552
+   },
+   "2042":{
+      "name":"104-106 Fayette Street MANLIUS",
+      "address":"104-106 Fayette Street",
+      "city":"MANLIUS",
+      "state":"New York",
+      "zip":"13104",
+      "phone":"3156822149",
+      "latitude":43.00188,
+      "longitude":-75.979539
+   },
+   "1884":{
+      "name":"212 Genesee St ONEIDA",
+      "address":"212 Genesee St",
+      "city":"ONEIDA",
+      "state":"New York",
+      "zip":"13421",
+      "phone":"3153635620",
+      "latitude":43.07905,
+      "longitude":-75.645662
+   },
+   "10622":{
+      "name":"401 Skytop Rd. SYRACUSE",
+      "address":"401 Skytop Rd.",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13244",
+      "phone":"3154431514",
+      "latitude":43.016671,
+      "longitude":-76.118903
+   },
+   "1948":{
+      "name":"6300 Thompson Road SYRACUSE",
+      "address":"6300 Thompson Road",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13206",
+      "phone":"3154378764",
+      "latitude":43.076078,
+      "longitude":-76.088546
+   },
+   "5352":{
+      "name":"3930 South Salina Street SYRACUSE",
+      "address":"3930 South Salina Street",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13205",
+      "phone":"3154698885",
+      "latitude":43.009672,
+      "longitude":-76.14268
+   },
+   "4968":{
+      "name":"1514 Erie Boulevard East SYRACUSE",
+      "address":"1514 Erie Boulevard East",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13210",
+      "phone":"3154752226",
+      "latitude":43.049018,
+      "longitude":-76.123765
+   },
+   "1844":{
+      "name":"700 S. Salina Street SYRACUSE",
+      "address":"700 S. Salina Street",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13202",
+      "phone":"3154797524",
+      "latitude":43.040332,
+      "longitude":-76.151032
+   },
+   "6631":{
+      "name":"State Hwy 80 & State Hwy 11a TULLY",
+      "address":"State Hwy 80 & State Hwy 11a",
+      "city":"TULLY",
+      "state":"New York",
+      "zip":"13159",
+      "phone":"3156965642",
+      "latitude":42.799697,
+      "longitude":-76.123989
+   },
+   "4442":{
+      "name":"623 Butternut Street SYRACUSE",
+      "address":"623 Butternut Street",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13208",
+      "phone":"3154710092",
+      "latitude":43.060553,
+      "longitude":-76.146418
+   },
+   "9495":{
+      "name":"955 W Genesee St SYRACUSE",
+      "address":"955 W Genesee St",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13204",
+      "phone":"3154726036",
+      "latitude":43.053252,
+      "longitude":-76.16996
+   },
+   "1641":{
+      "name":"4734 Onondaga Boulevard SYRACUSE",
+      "address":"4734 Onondaga Boulevard",
+      "city":"SYRACUSE",
+      "state":"New York",
+      "zip":"13219",
+      "phone":"3154768261",
+      "latitude":43.032635,
+      "longitude":-76.189952
+   },
+   "25707":{
+      "name":"1 Destiny USA Dr FC-03 Syracuse",
+      "address":"1 Destiny USA Dr FC-03",
+      "city":"Syracuse",
+      "state":"New York",
+      "zip":"13204",
+      "phone":"(585) 505-8848",
+      "latitude":43.069915,
+      "longitude":-76.172555
+   },
+   "396":{
+      "name":"3603 Brewerton Road NORTH SYRACUSE",
+      "address":"3603 Brewerton Road",
+      "city":"NORTH SYRACUSE",
+      "state":"New York",
+      "zip":"13212",
+      "phone":"3154549094",
+      "latitude":43.113959,
+      "longitude":-76.146114
+   },
+   "3451":{
+      "name":"104 Elwood Davis Rd. Liverpool",
+      "address":"104 Elwood Davis Rd.",
+      "city":"Liverpool, NY",
+      "state":"New York",
+      "zip":"13088",
+      "phone":"3154578197",
+      "latitude":43.093771,
+      "longitude":-76.172648
+   },
+   "1881":{
+      "name":"7843 Brewerton Rd CICERO",
+      "address":"7843 Brewerton Rd",
+      "city":"CICERO",
+      "state":"New York",
+      "zip":"13039",
+      "phone":"3154586362",
+      "latitude":43.148784,
+      "longitude":-76.126335
+   },
+   "7335":{
+      "name":"Nys Thruway M. P. 244 E WESTMORELAND",
+      "address":"Nys Thruway M. P. 244 E",
+      "city":"WESTMORELAND",
+      "state":"New York",
+      "zip":"13490",
+      "phone":"3158533670",
+      "latitude":43.125061,
+      "longitude":-75.415286
+   },
+   "2385":{
+      "name":"106 South Madison Street ROME",
+      "address":"106 South Madison Street",
+      "city":"ROME",
+      "state":"New York",
+      "zip":"13440",
+      "phone":"3153344702",
+      "latitude":43.213317,
+      "longitude":-75.464891
+   },
+   "1177":{
+      "name":"8515 Seneca Tpke NEW HARTFORD",
+      "address":"8515 Seneca Tpke",
+      "city":"NEW HARTFORD",
+      "state":"New York",
+      "zip":"13413",
+      "phone":"3157978531",
+      "latitude":43.080642,
+      "longitude":-75.318719
+   },
+   "1370":{
+      "name":"1700 Black River Boulevard ROME",
+      "address":"1700 Black River Boulevard",
+      "city":"ROME",
+      "state":"New York",
+      "zip":"13440",
+      "phone":"3153392660",
+      "latitude":43.23052,
+      "longitude":-75.438637
+   },
+   "1653":{
+      "name":"26 Oriskany Blvd WHITESBORO",
+      "address":"26 Oriskany Blvd",
+      "city":"WHITESBORO",
+      "state":"New York",
+      "zip":"13492",
+      "phone":"3157367998",
+      "latitude":43.116497,
+      "longitude":-75.289522
+   },
+   "1654":{
+      "name":"300 Herkimer Road UTICA",
+      "address":"300 Herkimer Road",
+      "city":"UTICA",
+      "state":"New York",
+      "zip":"13502",
+      "phone":"3157923656",
+      "latitude":43.114238,
+      "longitude":-75.205464
+   },
+   "5800":{
+      "name":"130 Prospect St Attica",
+      "address":"130 Prospect St",
+      "city":"Attica",
+      "state":"New York",
+      "zip":"14011",
+      "phone":"5855058782",
+      "latitude":42.871296,
+      "longitude":-78.276322
+   },
+   "2103":{
+      "name":"230 West Main Street BATAVIA",
+      "address":"230 West Main Street",
+      "city":"BATAVIA",
+      "state":"New York",
+      "zip":"14020",
+      "phone":"5853431160",
+      "latitude":43.001575,
+      "longitude":-78.194426
+   },
+   "839":{
+      "name":"5345 Transit Road WILLIAMSVILLE",
+      "address":"5345 Transit Road",
+      "city":"WILLIAMSVILLE",
+      "state":"New York",
+      "zip":"14221",
+      "phone":"7166885595",
+      "latitude":42.992005,
+      "longitude":-78.696342
+   },
+   "562":{
+      "name":"7110 Transit Road WILLIAMSVILLE",
+      "address":"7110 Transit Road",
+      "city":"WILLIAMSVILLE",
+      "state":"New York",
+      "zip":"14221",
+      "phone":"7168399307",
+      "latitude":42.961186,
+      "longitude":-78.697572
+   },
+   "9096":{
+      "name":"11212 Maple Ridge Road Medina",
+      "address":"11212 Maple Ridge Road",
+      "city":"Medina",
+      "state":"New York",
+      "zip":"14103",
+      "phone":"(585) 785-4724",
+      "latitude":43.206412,
+      "longitude":-78.398951
+   },
+   "766":{
+      "name":"5391 Transit Road DEPEW",
+      "address":"5391 Transit Road",
+      "city":"DEPEW",
+      "state":"New York",
+      "zip":"14043",
+      "phone":"7168155850",
+      "latitude":42.901949,
+      "longitude":-78.696732
+   },
+   "4560":{
+      "name":"1459 French Road DEPEW",
+      "address":"1459 French Road",
+      "city":"DEPEW",
+      "state":"New York",
+      "zip":"14043",
+      "phone":"7166681866",
+      "latitude":42.867747,
+      "longitude":-78.697407
+   },
+   "3277":{
+      "name":"619 Dick Road DEPEW",
+      "address":"619 Dick Road",
+      "city":"DEPEW",
+      "state":"New York",
+      "zip":"14043",
+      "phone":"7166839110",
+      "latitude":42.919209,
+      "longitude":-78.736739
+   },
+   "750":{
+      "name":"4199 Union Road CHEEKTOWAGA",
+      "address":"4199 Union Road",
+      "city":"CHEEKTOWAGA",
+      "state":"New York",
+      "zip":"14225",
+      "phone":"7166337390",
+      "latitude":42.928198,
+      "longitude":-78.753739
+   },
+   "874":{
+      "name":"2515 Millersport Highway. GETZVILLE",
+      "address":"2515 Millersport Highway.",
+      "city":"GETZVILLE",
+      "state":"New York",
+      "zip":"14068",
+      "phone":"7166899232",
+      "latitude":43.015705,
+      "longitude":-78.767546
+   },
+   "25717":{
+      "name":"1 Galleria Drive Space F216 Cheektowaga",
+      "address":"1 Galleria Drive Space F216",
+      "city":"Cheektowaga",
+      "state":"New York",
+      "zip":"14225",
+      "phone":"(585) 505-8773",
+      "latitude":42.913472,
+      "longitude":-78.763132
+   },
+   "11420":{
+      "name":"134 West Main Street Leroy",
+      "address":"134 West Main Street",
+      "city":"Leroy",
+      "state":"New York",
+      "zip":"14482",
+      "phone":"5857854724",
+      "latitude":42.978467,
+      "longitude":-78.005937
+   },
+   "14420":{
+      "name":"5720 Transit Road LOCKPORT",
+      "address":"5720 Transit Road",
+      "city":"LOCKPORT",
+      "state":"New York",
+      "zip":"14094",
+      "phone":"7164390249",
+      "latitude":43.147154,
+      "longitude":-78.69746
+   },
+   "28774":{
+      "name":"347 Monroe Ave Rochester",
+      "address":"347 Monroe Ave",
+      "city":"Rochester",
+      "state":"New York",
+      "zip":"14607",
+      "phone":"",
+      "latitude":43.148778,
+      "longitude":-77.598122
+   },
+   "1554":{
+      "name":"625 Ridge Road East ROCHESTER",
+      "address":"625 Ridge Road East",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14621",
+      "phone":"5854679030",
+      "latitude":43.195395,
+      "longitude":-77.601206
+   },
+   "23510":{
+      "name":"21 Humboldt Street Rochester",
+      "address":"21 Humboldt Street",
+      "city":"Rochester",
+      "state":"New York",
+      "zip":"14609",
+      "phone":"5855058894",
+      "latitude":43.154697,
+      "longitude":-77.56888
+   },
+   "1924":{
+      "name":"560 Lyell Avenue ROCHESTER",
+      "address":"560 Lyell Avenue",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14606",
+      "phone":"5852543080",
+      "latitude":43.164745,
+      "longitude":-77.646767
+   },
+   "1810":{
+      "name":"1780 Mt. Hope Avenue ROCHESTER",
+      "address":"1780 Mt. Hope Avenue",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14620",
+      "phone":"5854610186",
+      "latitude":43.115223,
+      "longitude":-77.621983
+   },
+   "9781":{
+      "name":"1300 Chili Avenue ROCHESTER",
+      "address":"1300 Chili Avenue",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14624",
+      "phone":"5855279613",
+      "latitude":43.138033,
+      "longitude":-77.670658
+   },
+   "29031":{
+      "name":"4 Spencerport Road",
+      "address":"4 Spencerport Road, Gates, NY",
+      "city":"Gates",
+      "state":"New York",
+      "zip":"14606",
+      "phone":"",
+      "latitude":43.165836,
+      "longitude":-77.692351
+   },
+   "26003":{
+      "name":"3491 Mt Read Blvd Rochester",
+      "address":"3491 Mt Read Blvd",
+      "city":"Rochester",
+      "state":"New York",
+      "zip":"14616",
+      "phone":"(585) 505-8870",
+      "latitude":43.22158,
+      "longitude":-77.65978
+   },
+   "10654":{
+      "name":"2580 Ridgeway Avenue ROCHESTER",
+      "address":"2580 Ridgeway Avenue",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14626",
+      "phone":"5852272969",
+      "latitude":43.18765,
+      "longitude":-77.700385
+   },
+   "8396":{
+      "name":"424 Greece Ridge Center Drive Rochester",
+      "address":"424 Greece Ridge Center Drive",
+      "city":"Rochester",
+      "state":"New York",
+      "zip":"14626",
+      "phone":"5856431748",
+      "latitude":43.206589,
+      "longitude":-77.691011
+   },
+   "1801":{
+      "name":"130 Pixley Road ROCHESTER",
+      "address":"130 Pixley Road",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14624",
+      "phone":"5852470507",
+      "latitude":43.146585,
+      "longitude":-77.708767
+   },
+   "1774":{
+      "name":"1100 Jefferson Rd ROCHESTER",
+      "address":"1100 Jefferson Rd",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14623",
+      "phone":"5854245552",
+      "latitude":43.087761,
+      "longitude":-77.608416
+   },
+   "2384":{
+      "name":"1645 Penfield Rd ROCHESTER",
+      "address":"1645 Penfield Rd",
+      "city":"ROCHESTER",
+      "state":"New York",
+      "zip":"14625",
+      "phone":"5853815850",
+      "latitude":43.133108,
+      "longitude":-77.492901
+   },
+   "2184":{
+      "name":"4355 Dewey Avenue GREECE",
+      "address":"4355 Dewey Avenue",
+      "city":"GREECE",
+      "state":"New York",
+      "zip":"14616",
+      "phone":"5856217490",
+      "latitude":43.251247,
+      "longitude":-77.647304
+   },
+   "26022":{
+      "name":"45 Greece Center Drive Greece",
+      "address":"45 Greece Center Drive",
+      "city":"Greece",
+      "state":"New York",
+      "zip":"14612",
+      "phone":"",
+      "latitude":43.251608,
+      "longitude":-77.694103
+   },
+   "1642":{
+      "name":"875 Fairport Road EAST ROCHESTER",
+      "address":"875 Fairport Road",
+      "city":"EAST ROCHESTER",
+      "state":"New York",
+      "zip":"14445",
+      "phone":"5855865663",
+      "latitude":43.102062,
+      "longitude":-77.48158
+   },
+   "16635":{
+      "name":"940 Hard Road WEBSTER",
+      "address":"940 Hard Road",
+      "city":"WEBSTER",
+      "state":"New York",
+      "zip":"14580",
+      "phone":"5856712730",
+      "latitude":43.210413,
+      "longitude":-77.460472
+   },
+   "1798":{
+      "name":"670 Eastview Mall Victor",
+      "address":"670 Eastview Mall",
+      "city":"Victor",
+      "state":"New York",
+      "zip":"14564",
+      "phone":"5857369130",
+      "latitude":43.028866,
+      "longitude":-77.445819
+   },
+   "9462":{
+      "name":"600 Rowley Road VICTOR",
+      "address":"600 Rowley Road",
+      "city":"VICTOR",
+      "state":"New York",
+      "zip":"14564",
+      "phone":"5859247073",
+      "latitude":43.00864,
+      "longitude":-77.443574
+   },
+   "16823":{
+      "name":"6375 Brockport-Spencerport Rd BROCKPORT",
+      "address":"6375 Brockport-Spencerport Rd",
+      "city":"BROCKPORT",
+      "state":"New York",
+      "zip":"14420",
+      "phone":"5856374840",
+      "latitude":43.198045,
+      "longitude":-77.937153
+   },
+   "1887":{
+      "name":"Beaver Valley Mall MONACA",
+      "address":"Beaver Valley Mall",
+      "city":"MONACA",
+      "state":"Pennsylvania",
+      "zip":"15061",
+      "phone":"7246300300",
+      "latitude":40.671218,
+      "longitude":-80.313142
+   },
+   "2878":{
+      "name":"15933 State Road 170 EAST LIVERPOOL",
+      "address":"15933 State Road 170",
+      "city":"EAST LIVERPOOL",
+      "state":"Ohio",
+      "zip":"43920",
+      "phone":"3303852192",
+      "latitude":40.67048,
+      "longitude":-80.585434
+   },
+   "2525":{
+      "name":"720 Shenango Road BEAVER FALLS",
+      "address":"720 Shenango Road",
+      "city":"BEAVER FALLS",
+      "state":"Pennsylvania",
+      "zip":"15010",
+      "phone":"7248462111",
+      "latitude":40.773713,
+      "longitude":-80.374703
+   },
+   "23922":{
+      "name":"2624 North Brodhead Rd Aliquippa",
+      "address":"2624 North Brodhead Rd",
+      "city":"Aliquippa",
+      "state":"Pennsylvania",
+      "zip":"15001",
+      "phone":"7242522357",
+      "latitude":40.60255,
+      "longitude":-80.278206
+   },
+   "2645":{
+      "name":"1690 Beaver Road Baden",
+      "address":"1690 Beaver Road",
+      "city":"Baden",
+      "state":"Pennsylvania",
+      "zip":"15005",
+      "phone":"7248691174",
+      "latitude":40.656348,
+      "longitude":-80.237239
+   },
+   "11346":{
+      "name":"5940 University Blvd CORAOPOLIS",
+      "address":"5940 University Blvd",
+      "city":"CORAOPOLIS",
+      "state":"Pennsylvania",
+      "zip":"15108",
+      "phone":"4122645190",
+      "latitude":40.521768,
+      "longitude":-80.218119
+   },
+   "543":{
+      "name":"105 Ohio River Boulevard SEWICKLEY",
+      "address":"105 Ohio River Boulevard",
+      "city":"SEWICKLEY",
+      "state":"Pennsylvania",
+      "zip":"15143",
+      "phone":"4122598187",
+      "latitude":40.54249,
+      "longitude":-80.192112
+   },
+   "7101":{
+      "name":"627 Lawrence Ave ELLWOOD CITY",
+      "address":"627 Lawrence Ave",
+      "city":"ELLWOOD CITY",
+      "state":"Pennsylvania",
+      "zip":"16117",
+      "phone":"7247582266",
+      "latitude":40.858461,
+      "longitude":-80.28971
+   },
+   "4285":{
+      "name":"20204 Route 19 At Route 228 CRANBERRY TOWNS",
+      "address":"20204 Route 19 At Route 228",
+      "city":"CRANBERRY TOWNS",
+      "state":"Pennsylvania",
+      "zip":"16066",
+      "phone":"7247762211",
+      "latitude":40.68565,
+      "longitude":-80.101086
+   },
+   "2869":{
+      "name":"155 Perry Hwy HARMONY",
+      "address":"155 Perry Hwy",
+      "city":"HARMONY",
+      "state":"Pennsylvania",
+      "zip":"16037",
+      "phone":"7244526900",
+      "latitude":40.804859,
+      "longitude":-80.13552
+   },
+   "11672":{
+      "name":"415 Home Drive PITTSBURGH",
+      "address":"415 Home Drive",
+      "city":"PITTSBURGH",
+      "state":"Pennsylvania",
+      "zip":"15275",
+      "phone":"4127885714",
+      "latitude":40.450387,
+      "longitude":-80.182201
+   },
+   "24593":{
+      "name":"4124 Freedom Way Weirton",
+      "address":"4124 Freedom Way",
+      "city":"Weirton",
+      "state":"West Virginia",
+      "zip":"26062",
+      "phone":"6813283955",
+      "latitude":40.390882,
+      "longitude":-80.595343
+   },
+   "2919":{
+      "name":"1100 Village Plaza COLUMBIANA",
+      "address":"1100 Village Plaza",
+      "city":"COLUMBIANA",
+      "state":"Ohio",
+      "zip":"44408",
+      "phone":"3304820182",
+      "latitude":40.900413,
+      "longitude":-80.697339
+   },
+   "17292":{
+      "name":"920 Ohio River Blvd. AVALON",
+      "address":"920 Ohio River Blvd.",
+      "city":"AVALON",
+      "state":"Pennsylvania",
+      "zip":"15202",
+      "phone":"4127619505",
+      "latitude":40.49505,
+      "longitude":-80.066053
+   },
+   "2886":{
+      "name":"2000-2006 University Dr DUNBAR",
+      "address":"2000-2006 University Dr",
+      "city":"DUNBAR",
+      "state":"Pennsylvania",
+      "zip":"15431",
+      "phone":"7246286601",
+      "latitude":39.95739,
+      "longitude":-79.649313
+   },
+   "1360":{
+      "name":"431 West Main Street UNIONTOWN",
+      "address":"431 West Main Street",
+      "city":"UNIONTOWN",
+      "state":"Pennsylvania",
+      "zip":"15401",
+      "phone":"7244392190",
+      "latitude":39.907565,
+      "longitude":-79.741635
+   },
+   "8143":{
+      "name":"4167 Glades Pike SOMERSET",
+      "address":"4167 Glades Pike",
+      "city":"SOMERSET",
+      "state":"Pennsylvania",
+      "zip":"15501",
+      "phone":"8144431239",
+      "latitude":40.010206,
+      "longitude":-79.109432
+   },
+   "16950":{
+      "name":"PA Turnpike west. Milepost 77.6 HUNKER",
+      "address":"PA Turnpike west. Milepost 77.6",
+      "city":"HUNKER",
+      "state":"Pennsylvania",
+      "zip":"15639",
+      "phone":"7249259780",
+      "latitude":40.206179,
+      "longitude":-79.566188
+   },
+   "28203":{
+      "name":"920 South St. Mary's Street St. Mary's",
+      "address":"920 South St. Mary's Street",
+      "city":"St. Mary's",
+      "state":"Pennsylvania",
+      "zip":"15857",
+      "phone":"8143354479",
+      "latitude":41.407393,
+      "longitude":-78.560842
+   },
+   "5184":{
+      "name":"763 Allegheny Blvd. Franklin",
+      "address":"763 Allegheny Blvd.",
+      "city":"Franklin",
+      "state":"Pennsylvania",
+      "zip":"16323",
+      "phone":"8144327651",
+      "latitude":41.406103,
+      "longitude":-79.799907
+   },
+   "6053":{
+      "name":"213 South Franklin Street TITUSVILLE",
+      "address":"213 South Franklin Street",
+      "city":"TITUSVILLE",
+      "state":"Pennsylvania",
+      "zip":"16354",
+      "phone":"8148279608",
+      "latitude":41.625723,
+      "longitude":-79.673487
+   },
+   "22836":{
+      "name":"22585 Route 68 Clarion",
+      "address":"22585 Route 68",
+      "city":"Clarion",
+      "state":"Pennsylvania",
+      "zip":"16214",
+      "phone":"8143936975",
+      "latitude":41.192307,
+      "longitude":-79.39478
+   },
+   "5251":{
+      "name":"5753 State Route 8 Harrisville",
+      "address":"5753 State Route 8",
+      "city":"Harrisville",
+      "state":"Pennsylvania",
+      "zip":"16038",
+      "phone":"8147869785",
+      "latitude":41.203226,
+      "longitude":-79.973742
+   },
+   "1683":{
+      "name":"562 High Street LOCK HAVEN",
+      "address":"562 High Street",
+      "city":"LOCK HAVEN",
+      "state":"Pennsylvania",
+      "zip":"17745",
+      "phone":"5707483732",
+      "latitude":41.1292,
+      "longitude":-77.466172
+   },
+   "25800":{
+      "name":"569 E. Main Street Middleburg",
+      "address":"569 E. Main Street",
+      "city":"Middleburg",
+      "state":"Pennsylvania",
+      "zip":"17842",
+      "phone":"5707657368",
+      "latitude":40.789936,
+      "longitude":-77.034908
+   },
+   "25158":{
+      "name":"3163 Woodward Ave Avis",
+      "address":"3163 Woodward Ave",
+      "city":"Avis",
+      "state":"Pennsylvania",
+      "zip":"17721",
+      "phone":"570-873-3411",
+      "latitude":41.180728,
+      "longitude":-77.326065
+   },
+   "23133":{
+      "name":"801 Baltimore St Hanover",
+      "address":"801 Baltimore St",
+      "city":"Hanover",
+      "state":"Pennsylvania",
+      "zip":"17331",
+      "phone":"7178941237",
+      "latitude":39.78783,
+      "longitude":-76.96972
+   },
+   "1016":{
+      "name":"1160 Carlisle St Hanover",
+      "address":"1160 Carlisle St",
+      "city":"Hanover",
+      "state":"Pennsylvania",
+      "zip":"17331",
+      "phone":"717-894-1240",
+      "latitude":39.82267,
+      "longitude":-76.997512
+   },
+   "17183":{
+      "name":"6090 York Rd New Oxford",
+      "address":"6090 York Rd",
+      "city":"New Oxford",
+      "state":"Pennsylvania",
+      "zip":"17350",
+      "phone":"7176244600",
+      "latitude":39.870807,
+      "longitude":-77.029319
+   },
+   "13371":{
+      "name":"2211 Brodbeck Road HAMPSTEAD",
+      "address":"2211 Brodbeck Road",
+      "city":"HAMPSTEAD",
+      "state":"Maryland",
+      "zip":"21074",
+      "phone":"4102398135",
+      "latitude":39.63715,
+      "longitude":-76.86707
+   },
+   "9864":{
+      "name":"1275-I York Road Gettysburg",
+      "address":"1275-I York Road",
+      "city":"Gettysburg",
+      "state":"Pennsylvania",
+      "zip":"17325",
+      "phone":"7173370899",
+      "latitude":39.843064,
+      "longitude":-77.202422
+   },
+   "13565":{
+      "name":"454 WMC Drive WESTMINSTER",
+      "address":"454 WMC Drive",
+      "city":"WESTMINSTER",
+      "state":"Maryland",
+      "zip":"21158",
+      "phone":"4108409975",
+      "latitude":39.586833,
+      "longitude":-77.012232
+   },
+   "2575":{
+      "name":"Crossroads Shopping Center WESTMINSTER",
+      "address":"Crossroads Shopping Center",
+      "city":"WESTMINSTER",
+      "state":"Maryland",
+      "zip":"21157",
+      "phone":"410-871-2203",
+      "latitude":39.562768,
+      "longitude":-76.972438
+   },
+   "5547":{
+      "name":"2199 White St York",
+      "address":"2199 White St",
+      "city":"York",
+      "state":"Pennsylvania",
+      "zip":"17404",
+      "phone":"717-894-1244",
+      "latitude":39.963517,
+      "longitude":-76.767976
+   },
+   "22718":{
+      "name":"498 Renaissance Dr New Freedom",
+      "address":"498 Renaissance Dr",
+      "city":"New Freedom",
+      "state":"Pennsylvania",
+      "zip":"17349",
+      "phone":"7178941246",
+      "latitude":39.771027,
+      "longitude":-76.66109
+   },
+   "2365":{
+      "name":"490 Loucks Rd York",
+      "address":"490 Loucks Rd",
+      "city":"York",
+      "state":"Pennsylvania",
+      "zip":"17404",
+      "phone":"7178941245",
+      "latitude":39.982077,
+      "longitude":-76.744455
+   },
+   "1559":{
+      "name":"2400 Mt Rose Ave York",
+      "address":"2400 Mt Rose Ave",
+      "city":"York",
+      "state":"Pennsylvania",
+      "zip":"17402",
+      "phone":"717-894-1242",
+      "latitude":39.957685,
+      "longitude":-76.682143
+   },
+   "27289":{
+      "name":"3100 Cape Horn Rd Red Lion",
+      "address":"3100 Cape Horn Rd",
+      "city":"Red Lion",
+      "state":"Pennsylvania",
+      "zip":"17356",
+      "phone":"717-771-1880",
+      "latitude":39.918151,
+      "longitude":-76.631926
+   },
+   "26259":{
+      "name":"3345 Concord Rd York",
+      "address":"3345 Concord Rd",
+      "city":"York",
+      "state":"Pennsylvania",
+      "zip":"17402",
+      "phone":"7177711380",
+      "latitude":39.98355,
+      "longitude":-76.66517
+   },
+   "2330":{
+      "name":"8768 State Route 61 COAL TOWNSHIP",
+      "address":"8768 State Route 61",
+      "city":"COAL TOWNSHIP",
+      "state":"Pennsylvania",
+      "zip":"17866",
+      "phone":"5706482610",
+      "latitude":40.78903,
+      "longitude":-76.527424
+   },
+   "18141":{
+      "name":"10 Molleystown Rd Pine Grove",
+      "address":"10 Molleystown Rd",
+      "city":"Pine Grove",
+      "state":"Pennsylvania",
+      "zip":"17963",
+      "phone":"5703454739",
+      "latitude":40.590977,
+      "longitude":-76.407909
+   },
+   "21675":{
+      "name":"319 S. Market St. Elysburg Elysburg",
+      "address":"319 S. Market St. Elysburg",
+      "city":"Elysburg",
+      "state":"Pennsylvania",
+      "zip":"17824",
+      "phone":"5702212235",
+      "latitude":40.859819,
+      "longitude":-76.547138
+   },
+   "1134":{
+      "name":"2211 W Market St Pottsville",
+      "address":"2211 W Market St",
+      "city":"Pottsville",
+      "state":"Pennsylvania",
+      "zip":"17901",
+      "phone":"5708678383",
+      "latitude":40.674565,
+      "longitude":-76.226068
+   },
+   "22002":{
+      "name":"8 Fisher Ave Jonestown",
+      "address":"8 Fisher Ave",
+      "city":"Jonestown",
+      "state":"Pennsylvania",
+      "zip":"17038",
+      "phone":"7178615789",
+      "latitude":40.451015,
+      "longitude":-76.513227
+   },
+   "16520":{
+      "name":"4622 State Route 209 Elizabethville",
+      "address":"4622 State Route 209",
+      "city":"Elizabethville",
+      "state":"Pennsylvania",
+      "zip":"17023",
+      "phone":"7173621532",
+      "latitude":40.557709,
+      "longitude":-76.792098
+   },
+   "2266":{
+      "name":"195 Pottsville St Pottsville",
+      "address":"195 Pottsville St",
+      "city":"Pottsville",
+      "state":"Pennsylvania",
+      "zip":"17901",
+      "phone":"570-867-8382",
+      "latitude":40.637722,
+      "longitude":-76.184797
+   },
+   "9698":{
+      "name":"60 North 4th Street Sunbury",
+      "address":"60 North 4th Street",
+      "city":"Sunbury",
+      "state":"Pennsylvania",
+      "zip":"17801",
+      "phone":"5702869620",
+      "latitude":40.86192,
+      "longitude":-76.789527
+   },
+   "6070":{
+      "name":"331 South Main Street SHENANDOAH",
+      "address":"331 South Main Street",
+      "city":"SHENANDOAH",
+      "state":"Pennsylvania",
+      "zip":"17976",
+      "phone":"5704621115",
+      "latitude":40.817392,
+      "longitude":-76.200073
+   },
+   "1840":{
+      "name":"2991 N. Susquehanna Trail SHAMOKIN DAM",
+      "address":"2991 N. Susquehanna Trail",
+      "city":"SHAMOKIN DAM",
+      "state":"Pennsylvania",
+      "zip":"17876",
+      "phone":"5707437617",
+      "latitude":40.846521,
+      "longitude":-76.822688
+   },
+   "1734":{
+      "name":"287 Northumberland St DANVILLE",
+      "address":"287 Northumberland St",
+      "city":"DANVILLE",
+      "state":"Pennsylvania",
+      "zip":"17821",
+      "phone":"5702751106",
+      "latitude":40.965506,
+      "longitude":-76.62051
+   },
+   "19486":{
+      "name":"2173 Route 848 New Milford",
+      "address":"2173 Route 848",
+      "city":"New Milford",
+      "state":"Pennsylvania",
+      "zip":"18834",
+      "phone":"5704655464",
+      "latitude":41.82343,
+      "longitude":-75.67869
+   },
+   "6165":{
+      "name":"Route #6 Carbondale",
+      "address":"Route #6",
+      "city":"Carbondale",
+      "state":"Pennsylvania",
+      "zip":"18407",
+      "phone":"5702828730",
+      "latitude":41.570165,
+      "longitude":-75.507182
+   },
+   "1359":{
+      "name":"Scranton-Carbondale Highway Eynon",
+      "address":"Scranton-Carbondale Highway",
+      "city":"Eynon",
+      "state":"Pennsylvania",
+      "zip":"18403",
+      "phone":"5708761116",
+      "latitude":41.503715,
+      "longitude":-75.580056
+   },
+   "1779":{
+      "name":"1028 Northern Blvd Clarks Summit",
+      "address":"1028 Northern Blvd",
+      "city":"Clarks Summit",
+      "state":"Pennsylvania",
+      "zip":"18411",
+      "phone":"5705863699",
+      "latitude":41.484717,
+      "longitude":-75.692342
+   },
+   "453":{
+      "name":"524 Scranton-Carbondale Hwy SCRANTON",
+      "address":"524 Scranton-Carbondale Hwy",
+      "city":"SCRANTON",
+      "state":"Pennsylvania",
+      "zip":"18519",
+      "phone":"5703460911",
+      "latitude":41.463984,
+      "longitude":-75.650992
+   },
+   "13787":{
+      "name":"1060 Route 11 HALSTEAD",
+      "address":"1060 Route 11",
+      "city":"HALSTEAD",
+      "state":"Pennsylvania",
+      "zip":"18822",
+      "phone":"5708792623",
+      "latitude":41.967691,
+      "longitude":-75.74017
+   },
+   "13902":{
+      "name":"1813 North Keyser Avenue Scranton",
+      "address":"1813 North Keyser Avenue",
+      "city":"Scranton",
+      "state":"Pennsylvania",
+      "zip":"18508",
+      "phone":"5704960540",
+      "latitude":41.4457,
+      "longitude":-75.667558
+   },
+   "2618":{
+      "name":"1624 Cottman Avenue PHILADELPHIA",
+      "address":"1624 Cottman Avenue",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19111",
+      "phone":"2157224946",
+      "latitude":40.054455,
+      "longitude":-75.072092
+   },
+   "2212":{
+      "name":"5921 Rising Sun Avenue PHILADELPHIA",
+      "address":"5921 Rising Sun Avenue",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19120",
+      "phone":"2673433711",
+      "latitude":40.044164,
+      "longitude":-75.101688
+   },
+   "1657":{
+      "name":"5822 Roosevelt BLvd PHILADELPHIA",
+      "address":"5822 Roosevelt BLvd",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19149",
+      "phone":"2153562682",
+      "latitude":40.0328,
+      "longitude":-75.083433
+   },
+   "1613":{
+      "name":"6100 Frankford Avenue PHILADELPHIA",
+      "address":"6100 Frankford Avenue",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19135",
+      "phone":"2152887448",
+      "latitude":40.027476,
+      "longitude":-75.064378
+   },
+   "983":{
+      "name":"2550 Welsh Road PHILADELPHIA",
+      "address":"2550 Welsh Road",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19152",
+      "phone":"2156774125",
+      "latitude":40.072308,
+      "longitude":-75.033516
+   },
+   "6333":{
+      "name":"101 E Olney Ave PHILADELPHIA",
+      "address":"101 E Olney Ave",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19120",
+      "phone":"2155499110",
+      "latitude":40.0365,
+      "longitude":-75.120593
+   },
+   "431":{
+      "name":"9220 Frankford Avenue PHILADELPHIA",
+      "address":"9220 Frankford Avenue",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19114",
+      "phone":"2153387918",
+      "latitude":40.055963,
+      "longitude":-75.003637
+   },
+   "10826":{
+      "name":"4700-08 North Broad Street PHILADELPHIA",
+      "address":"4700-08 North Broad Street",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19141",
+      "phone":"2158393935",
+      "latitude":40.024819,
+      "longitude":-75.148169
+   },
+   "2664":{
+      "name":"100 West Erie Avenue PHILADELPHIA",
+      "address":"100 West Erie Avenue",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19140",
+      "phone":"2154253321",
+      "latitude":40.007179,
+      "longitude":-75.127733
+   },
+   "2182":{
+      "name":"2400 Castor Avenue PHILADELPHIA",
+      "address":"2400 Castor Avenue",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19134",
+      "phone":"2157442746",
+      "latitude":39.993869,
+      "longitude":-75.094302
+   },
+   "3284":{
+      "name":"900 Easton Road ROSLYN",
+      "address":"900 Easton Road",
+      "city":"ROSLYN",
+      "state":"Pennsylvania",
+      "zip":"19001",
+      "phone":"6102775160",
+      "latitude":40.117381,
+      "longitude":-75.137625
+   },
+   "2573":{
+      "name":"171 West Chelton Avenue PHILADELPHIA",
+      "address":"171 West Chelton Avenue",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19144",
+      "phone":"2154380664",
+      "latitude":40.03196,
+      "longitude":-75.179001
+   },
+   "11140":{
+      "name":"1071 Route 73 PENNSAUKEN",
+      "address":"1071 Route 73",
+      "city":"PENNSAUKEN",
+      "state":"New Jersey",
+      "zip":"08110",
+      "phone":"8563179837",
+      "latitude":39.989826,
+      "longitude":-75.025429
+   },
+   "20769":{
+      "name":"701 W Lehigh Ave Philadelphia",
+      "address":"701 W Lehigh Ave",
+      "city":"Philadelphia",
+      "state":"Pennsylvania",
+      "zip":"19133",
+      "phone":"2152261015",
+      "latitude":39.993171,
+      "longitude":-75.144315
+   },
+   "1574":{
+      "name":"106 York Road WILLOW GROVE",
+      "address":"106 York Road",
+      "city":"WILLOW GROVE",
+      "state":"Pennsylvania",
+      "zip":"19090",
+      "phone":"6102775160",
+      "latitude":40.143301,
+      "longitude":-75.115722
+   },
+   "10740":{
+      "name":"90 Franklin Mills Boulevard PHILADELPHIA",
+      "address":"90 Franklin Mills Boulevard",
+      "city":"PHILADELPHIA",
+      "state":"Pennsylvania",
+      "zip":"19154",
+      "phone":"2156128330",
+      "latitude":40.087984,
+      "longitude":-74.967231
+   },
+   "25295":{
+      "name":"2802 U.S. 130 Cinnaminson",
+      "address":"2802 U.S. 130",
+      "city":"Cinnaminson",
+      "state":"New Jersey",
+      "zip":"08077",
+      "phone":"8567355582",
+      "latitude":40.00756,
+      "longitude":-74.97089
+   },
+   "575":{
+      "name":"4801 North Crescent Boulevard PENNSAUKEN",
+      "address":"4801 North Crescent Boulevard",
+      "city":"PENNSAUKEN",
+      "state":"New Jersey",
+      "zip":"08110",
+      "phone":"8563244620",
+      "latitude":39.953666,
+      "longitude":-75.061997
+   },
+   "421":{
+      "name":"1035 Bustleton Pike FEASTERVILLE TREVOSE",
+      "address":"1035 Bustleton Pike",
+      "city":"FEASTERVILLE TREVOSE",
+      "state":"Pennsylvania",
+      "zip":"19053",
+      "phone":"2153575670",
+      "latitude":40.151939,
+      "longitude":-75.001991
+   },
+   "9425":{
+      "name":"1721 Street Road BENSALEM",
+      "address":"1721 Street Road",
+      "city":"BENSALEM",
+      "state":"Pennsylvania",
+      "zip":"19020",
+      "phone":"6102775160",
+      "latitude":40.093645,
+      "longitude":-74.941935
+   },
+   "6089":{
+      "name":"Intersection Of Rts. #18 & 113 Georgetown",
+      "address":"Intersection Of Rts. #18 & 113",
+      "city":"Georgetown",
+      "state":"Delaware",
+      "zip":"19947",
+      "phone":"3028561593",
+      "latitude":38.698483,
+      "longitude":-75.399902
+   },
+   "14460":{
+      "name":"943 N. Dupont Boulevard Milford",
+      "address":"943 N. Dupont Boulevard",
+      "city":"Milford",
+      "state":"Delaware",
+      "zip":"19963",
+      "phone":"3024242272",
+      "latitude":38.930159,
+      "longitude":-75.432044
+   },
+   "2841":{
+      "name":"24456 Sussex Highway seaford",
+      "address":"24456 Sussex Highway",
+      "city":"seaford",
+      "state":"Delaware",
+      "zip":"19973",
+      "phone":"3026280494",
+      "latitude":38.646813,
+      "longitude":-75.593962
+   },
+   "19987":{
+      "name":"30123 Commerce Dr Milsboro",
+      "address":"30123 Commerce Dr",
+      "city":"Milsboro",
+      "state":"Delaware",
+      "zip":"19966",
+      "phone":"3026630571",
+      "latitude":38.574117,
+      "longitude":-75.286485
+   },
+   "26312":{
+      "name":"10912 County Seat Hwy Laurel",
+      "address":"10912 County Seat Hwy",
+      "city":"Laurel",
+      "state":"Delaware",
+      "zip":"19956",
+      "phone":"3028778112",
+      "latitude":38.57138,
+      "longitude":-75.56054
+   },
+   "9129":{
+      "name":"7106 Minstrel Way COLUMBIA",
+      "address":"7106 Minstrel Way",
+      "city":"COLUMBIA",
+      "state":"Maryland",
+      "zip":"21045",
+      "phone":"4109956540",
+      "latitude":39.17781,
+      "longitude":-76.84368
+   },
+   "633":{
+      "name":"14801 Baltimore Avenue LAUREL",
+      "address":"14801 Baltimore Avenue",
+      "city":"LAUREL",
+      "state":"Maryland",
+      "zip":"20707",
+      "phone":"3014982233",
+      "latitude":39.093028,
+      "longitude":-76.855351
+   },
+   "12589":{
+      "name":"8775 WASHINGTON BLVD JESSUP",
+      "address":"8775 WASHINGTON BLVD",
+      "city":"JESSUP",
+      "state":"Maryland",
+      "zip":"20794",
+      "phone":"4107242004",
+      "latitude":39.144312,
+      "longitude":-76.809495
+   },
+   "6387":{
+      "name":"15703 Columbia Pike Burtonsville",
+      "address":"15703 Columbia Pike",
+      "city":"Burtonsville",
+      "state":"Maryland",
+      "zip":"20866",
+      "phone":"3014769528",
+      "latitude":39.113452,
+      "longitude":-76.932232
+   },
+   "11387":{
+      "name":"3359 Corridir Marketplace LAUREL",
+      "address":"3359 Corridir Marketplace",
+      "city":"LAUREL",
+      "state":"Maryland",
+      "zip":"20724",
+      "phone":"3017253359",
+      "latitude":39.097529,
+      "longitude":-76.806762
+   },
+   "10478":{
+      "name":"7940 Washington Boulevard JESSUP",
+      "address":"7940 Washington Boulevard",
+      "city":"JESSUP",
+      "state":"Maryland",
+      "zip":"20794",
+      "phone":"4107993489",
+      "latitude":39.171622,
+      "longitude":-76.787465
+   },
+   "26253":{
+      "name":"8835 Centre Park Drive Suite 100 Columbia",
+      "address":"8835 Centre Park Drive Suite 100",
+      "city":"Columbia",
+      "state":"Maryland",
+      "zip":"21045",
+      "phone":"4433195171",
+      "latitude":39.228147,
+      "longitude":-76.814623
+   },
+   "7343":{
+      "name":"Ft. Meade BK FT MEADE",
+      "address":"Ft. Meade BK",
+      "city":"FT MEADE",
+      "state":"Maryland",
+      "zip":"20755",
+      "phone":"4106746128",
+      "latitude":39.106102,
+      "longitude":-76.73421
+   },
+   "13586":{
+      "name":"7000 Arundel Mills Circle HANOVER",
+      "address":"7000 Arundel Mills CircleSuite FC05",
+      "city":"HANOVER",
+      "state":"Maryland",
+      "zip":"21076",
+      "phone":"4434453852",
+      "latitude":39.157115,
+      "longitude":-76.725654
+   },
+   "384":{
+      "name":"10625 Baltimore Avenue BELTSVILLE",
+      "address":"10625 Baltimore Avenue",
+      "city":"BELTSVILLE",
+      "state":"Maryland",
+      "zip":"20705",
+      "phone":"3019375497",
+      "latitude":39.02974,
+      "longitude":-76.914554
+   },
+   "11011":{
+      "name":"9195 Baltimore National Pike ELLICOTT CITY",
+      "address":"9195 Baltimore National Pike",
+      "city":"ELLICOTT CITY",
+      "state":"Maryland",
+      "zip":"21042",
+      "phone":"4104809844",
+      "latitude":39.276707,
+      "longitude":-76.829286
+   },
+   "6452":{
+      "name":"7500 Connelly Drive HANOVER",
+      "address":"7500 Connelly DriveBWI Commerce Park",
+      "city":"HANOVER",
+      "state":"Maryland",
+      "zip":"21076",
+      "phone":"4107606383",
+      "latitude":39.160228,
+      "longitude":-76.680891
+   },
+   "3581":{
+      "name":"8801 Greenbelt Rd Greenbelt",
+      "address":"8801 Greenbelt Rd",
+      "city":"Greenbelt",
+      "state":"Maryland",
+      "zip":"20771",
+      "phone":"3015521555",
+      "latitude":38.990628,
+      "longitude":-76.855069
+   },
+   "5882":{
+      "name":"3870 International Dr Silver Spring",
+      "address":"3870 International Dr",
+      "city":"Silver Spring",
+      "state":"Maryland",
+      "zip":"20906",
+      "phone":"3015983613",
+      "latitude":39.102522,
+      "longitude":-77.076017
+   },
+   "20161":{
+      "name":"500 Progress Dr LINTHICUM",
+      "address":"500 Progress Dr",
+      "city":"LINTHICUM",
+      "state":"Maryland",
+      "zip":"21090",
+      "phone":"4106369690",
+      "latitude":39.216731,
+      "longitude":-76.675734
+   },
+   "4657":{
+      "name":"2208 University Blvd E ADELPHI",
+      "address":"2208 University Blvd E",
+      "city":"ADELPHI",
+      "state":"Maryland",
+      "zip":"20783",
+      "phone":"3014397418",
+      "latitude":38.984181,
+      "longitude":-76.975352
+   },
+   "8311":{
+      "name":"6980 Laurel Bowie Road BOWIE",
+      "address":"6980 Laurel Bowie Road",
+      "city":"BOWIE",
+      "state":"Maryland",
+      "zip":"20715",
+      "phone":"3018056759",
+      "latitude":38.985056,
+      "longitude":-76.757782
+   },
+   "10846":{
+      "name":"8903 Annapolis Rd LANHAM SEABROOK",
+      "address":"8903 Annapolis Rd",
+      "city":"LANHAM SEABROOK",
+      "state":"Maryland",
+      "zip":"20706",
+      "phone":"3019181994",
+      "latitude":38.960486,
+      "longitude":-76.863668
+   },
+   "8849":{
+      "name":"7988 Crain Highway GLEN BURNIE",
+      "address":"7988 Crain Highway",
+      "city":"GLEN BURNIE",
+      "state":"Maryland",
+      "zip":"21061",
+      "phone":"4109697643",
+      "latitude":39.131482,
+      "longitude":-76.639166
+   },
+   "13701":{
+      "name":"2619 Brandermill Boulevard GAMBRILLS",
+      "address":"2619 Brandermill Boulevard",
+      "city":"GAMBRILLS",
+      "state":"Maryland",
+      "zip":"21054",
+      "phone":"4104518847",
+      "latitude":39.037869,
+      "longitude":-76.678311
+   },
+   "732":{
+      "name":"1952 West Street Annapolis",
+      "address":"1952 West Street",
+      "city":"Annapolis",
+      "state":"Maryland",
+      "zip":"21401",
+      "phone":"4105731474",
+      "latitude":38.98111,
+      "longitude":-76.528263
+   },
+   "9986":{
+      "name":"2217 F. Defense Highway CROFTON",
+      "address":"2217 F. Defense Highway",
+      "city":"CROFTON",
+      "state":"Maryland",
+      "zip":"21114",
+      "phone":"4104511319",
+      "latitude":38.991486,
+      "longitude":-76.701277
+   },
+   "12380":{
+      "name":"14 Mountain Road GLEN BURNIE",
+      "address":"14 Mountain Road",
+      "city":"GLEN BURNIE",
+      "state":"Maryland",
+      "zip":"21060",
+      "phone":"4107603421",
+      "latitude":39.136277,
+      "longitude":-76.597236
+   },
+   "3239":{
+      "name":"8531 Fort Smallwood Road RIVIERA BEACH",
+      "address":"8531 Fort Smallwood Road",
+      "city":"RIVIERA BEACH",
+      "state":"Maryland",
+      "zip":"21122",
+      "phone":"4102557325",
+      "latitude":39.155552,
+      "longitude":-76.516913
+   },
+   "353":{
+      "name":"7314 Ritchie Highway GLEN BURNIE",
+      "address":"7314 Ritchie Highway",
+      "city":"GLEN BURNIE",
+      "state":"Maryland",
+      "zip":"21061",
+      "phone":"4107608501",
+      "latitude":39.170956,
+      "longitude":-76.62091
+   },
+   "4860":{
+      "name":"70 Kent Town Market Chester",
+      "address":"70 Kent Town Market",
+      "city":"Chester",
+      "state":"Maryland",
+      "zip":"21619",
+      "phone":"4106433111",
+      "latitude":38.974918,
+      "longitude":-76.280245
+   },
+   "1950":{
+      "name":"1437 West Patapsco Avenue Baltimore",
+      "address":"1437 West Patapsco Avenue",
+      "city":"Baltimore",
+      "state":"Maryland",
+      "zip":"21230",
+      "phone":"4105896620",
+      "latitude":39.248656,
+      "longitude":-76.639255
+   },
+   "201":{
+      "name":"10885 Lee Highway Fairfax",
+      "address":"10885 Lee Highway",
+      "city":"Fairfax",
+      "state":"Virginia",
+      "zip":"22030",
+      "phone":"3017212569",
+      "latitude":38.853708,
+      "longitude":-77.319297
+   },
+   "8261":{
+      "name":"13040 Fair Lakes Center FAIRFAX",
+      "address":"13040 Fair Lakes Center",
+      "city":"FAIRFAX",
+      "state":"Virginia",
+      "zip":"22033",
+      "phone":"7038020354",
+      "latitude":38.857804,
+      "longitude":-77.39374
+   },
+   "13639":{
+      "name":"5906 Old Centreville Road CENTREVILLE",
+      "address":"5906 Old Centreville Road",
+      "city":"CENTREVILLE",
+      "state":"Virginia",
+      "zip":"20121",
+      "phone":"7039880823",
+      "latitude":38.835196,
+      "longitude":-77.431525
+   },
+   "13111":{
+      "name":"4406 Chantilly Shopping Center Dr CHANTILLY",
+      "address":"4406 Chantilly Shopping Center Dr",
+      "city":"CHANTILLY",
+      "state":"Virginia",
+      "zip":"20151",
+      "phone":"7033781653",
+      "latitude":38.8871,
+      "longitude":-77.44619
+   },
+   "11135":{
+      "name":"2270 Hunters Woods Plaza RESTON",
+      "address":"2270 Hunters Woods Plaza",
+      "city":"RESTON",
+      "state":"Virginia",
+      "zip":"20191",
+      "phone":"7038606741",
+      "latitude":38.937404,
+      "longitude":-77.362645
+   },
+   "10620":{
+      "name":"McLearen Square OAK HILL",
+      "address":"McLearen Square",
+      "city":"OAK HILL",
+      "state":"Virginia",
+      "zip":"20171",
+      "phone":"7037078008",
+      "latitude":38.922748,
+      "longitude":-77.41689
+   },
+   "11814":{
+      "name":"7064 Columbia Pike ANNANDALE",
+      "address":"7064 Columbia Pike",
+      "city":"ANNANDALE",
+      "state":"Virginia",
+      "zip":"22003",
+      "phone":"7036422133",
+      "latitude":38.833435,
+      "longitude":-77.189689
+   },
+   "3549":{
+      "name":"8889 Centerville Road MANASSAS",
+      "address":"8889 Centerville Road",
+      "city":"MANASSAS",
+      "state":"Virginia",
+      "zip":"20110",
+      "phone":"7033355671",
+      "latitude":38.762051,
+      "longitude":-77.459577
+   },
+   "422":{
+      "name":"5701 Backlick Road SPRINGFIELD",
+      "address":"5701 Backlick Road",
+      "city":"SPRINGFIELD",
+      "state":"Virginia",
+      "zip":"22151",
+      "phone":"7032569627",
+      "latitude":38.796475,
+      "longitude":-77.185236
+   },
+   "11058":{
+      "name":"598 Elden Street HERNDON",
+      "address":"598 Elden Street",
+      "city":"HERNDON",
+      "state":"Virginia",
+      "zip":"20170",
+      "phone":"7034352347",
+      "latitude":38.969136,
+      "longitude":-77.379522
+   },
+   "1044":{
+      "name":"8330 Sudley Road MANASSAS",
+      "address":"8330 Sudley Road",
+      "city":"MANASSAS",
+      "state":"Virginia",
+      "zip":"20109",
+      "phone":"7033689797",
+      "latitude":38.774298,
+      "longitude":-77.502621
+   },
+   "10825":{
+      "name":"10034 Dumfries Road MANASSAS",
+      "address":"10034 Dumfries Road",
+      "city":"MANASSAS",
+      "state":"Virginia",
+      "zip":"20110",
+      "phone":"7033650102",
+      "latitude":38.740348,
+      "longitude":-77.472427
+   },
+   "25172":{
+      "name":"10820 Balls Ford Road Manassas",
+      "address":"10820 Balls Ford Road",
+      "city":"Manassas",
+      "state":"Virginia",
+      "zip":"20109",
+      "phone":"",
+      "latitude":38.798565,
+      "longitude":-77.51958
+   },
+   "12041":{
+      "name":"45609 Falke Plaza DULLES",
+      "address":"45609 Falke Plaza",
+      "city":"DULLES",
+      "state":"Virginia",
+      "zip":"20166",
+      "phone":"7037877765",
+      "latitude":38.979375,
+      "longitude":-77.422961
+   },
+   "12126":{
+      "name":"8232 Gunston Corner Ln LORTON",
+      "address":"8232 Gunston Corner Ln",
+      "city":"LORTON",
+      "state":"Virginia",
+      "zip":"22079",
+      "phone":"7034950113",
+      "latitude":38.705546,
+      "longitude":-77.228849
+   },
+   "5463":{
+      "name":"2211 Tacketts Mill Dr LAKE RIDGE",
+      "address":"2211 Tacketts Mill Dr",
+      "city":"LAKE RIDGE",
+      "state":"Virginia",
+      "zip":"22192",
+      "phone":"7039107002",
+      "latitude":38.675599,
+      "longitude":-77.27842
+   },
+   "11525":{
+      "name":"5890 Kingstowne Center ALEXANDRIA",
+      "address":"5890 Kingstowne Center",
+      "city":"ALEXANDRIA",
+      "state":"Virginia",
+      "zip":"22315",
+      "phone":"7039247164",
+      "latitude":38.771685,
+      "longitude":-77.136153
+   },
+   "9929":{
+      "name":"9895 Pennsylvania Avenue MANASSAS",
+      "address":"9895 Pennsylvania Avenue",
+      "city":"MANASSAS",
+      "state":"Virginia",
+      "zip":"20110",
+      "phone":"7033920017",
+      "latitude":38.739784,
+      "longitude":-77.523606
+   },
+   "19325":{
+      "name":"8651 John J Kingman Rd Bldg 2321 FORT BELVOIR",
+      "address":"8651 John J Kingman Rd Bldg 2321",
+      "city":"FORT BELVOIR",
+      "state":"Virginia",
+      "zip":"22060",
+      "phone":"7038065654",
+      "latitude":38.722283,
+      "longitude":-77.149502
+   },
+   "5656":{
+      "name":"3627 Columbia Pike ARLINGTON",
+      "address":"3627 Columbia Pike",
+      "city":"ARLINGTON",
+      "state":"Virginia",
+      "zip":"22204",
+      "phone":"7035539455",
+      "latitude":38.860771,
+      "longitude":-77.094829
+   },
+   "6064":{
+      "name":"1025 Seminole Trail Charlottesville",
+      "address":"1025 Seminole Trail",
+      "city":"Charlottesville",
+      "state":"Virginia",
+      "zip":"22901",
+      "phone":"434-973-0360",
+      "latitude":38.064868,
+      "longitude":-78.488261
+   },
+   "11447":{
+      "name":"1181 5th St SW Charlottesville",
+      "address":"1181 5th St SW",
+      "city":"Charlottesville",
+      "state":"Virginia",
+      "zip":"22902",
+      "phone":"4349637827",
+      "latitude":38.011087,
+      "longitude":-78.504963
+   },
+   "27506":{
+      "name":"43 Stoneridge Drive Ruckersville",
+      "address":"43 Stoneridge Drive",
+      "city":"Ruckersville",
+      "state":"Virginia",
+      "zip":"22968",
+      "phone":"(434) 939-9652",
+      "latitude":38.232611,
+      "longitude":-78.370624
+   },
+   "7478":{
+      "name":"11518 James Madison Hwy Gordonsville",
+      "address":"11518 James Madison Hwy",
+      "city":"Gordonsville",
+      "state":"Virginia",
+      "zip":"22942",
+      "phone":"4345896854",
+      "latitude":37.973771,
+      "longitude":-78.21755
+   },
+   "9731":{
+      "name":"15 Orange Village Shopping Ctr Orange",
+      "address":"15 Orange Village Shopping Ctr",
+      "city":"Orange",
+      "state":"Virginia",
+      "zip":"22960",
+      "phone":"5406721084",
+      "latitude":38.256379,
+      "longitude":-78.115063
+   },
+   "11175":{
+      "name":"2925 Bridge Road SUFFOLK",
+      "address":"2925 Bridge Road",
+      "city":"SUFFOLK",
+      "state":"Virginia",
+      "zip":"23435",
+      "phone":"7574830317",
+      "latitude":36.867317,
+      "longitude":-76.490312
+   },
+   "1073":{
+      "name":"3140 Western Branch Boulevard CHESAPEAKE",
+      "address":"3140 Western Branch Boulevard",
+      "city":"CHESAPEAKE",
+      "state":"Virginia",
+      "zip":"23321",
+      "phone":"7576864702",
+      "latitude":36.863109,
+      "longitude":-76.402531
+   },
+   "18066":{
+      "name":"2100 Starmount Pkwy CHESAPEAKE",
+      "address":"2100 Starmount Pkwy",
+      "city":"CHESAPEAKE",
+      "state":"Virginia",
+      "zip":"23321",
+      "phone":"7574883745",
+      "latitude":36.817571,
+      "longitude":-76.440991
+   },
+   "1138":{
+      "name":"3405 West Mercury Boulevard HAMPTON",
+      "address":"3405 West Mercury Boulevard",
+      "city":"HAMPTON",
+      "state":"Virginia",
+      "zip":"23666",
+      "phone":"7578252222",
+      "latitude":37.030712,
+      "longitude":-76.421611
+   },
+   "6179":{
+      "name":"1228 Smithfield Plaza SMITHFIELD",
+      "address":"1228 Smithfield Plaza",
+      "city":"SMITHFIELD",
+      "state":"Virginia",
+      "zip":"23430",
+      "phone":"7573569339",
+      "latitude":36.95671,
+      "longitude":-76.603123
+   },
+   "13599":{
+      "name":"1560 Mall Drive NORFOLK",
+      "address":"1560 Mall Drive",
+      "city":"NORFOLK",
+      "state":"Virginia",
+      "zip":"23511",
+      "phone":"7574166285",
+      "latitude":36.942,
+      "longitude":-76.31
+   },
+   "1270":{
+      "name":"600 Airline Boulevard PORTSMOUTH",
+      "address":"600 Airline Boulevard",
+      "city":"PORTSMOUTH",
+      "state":"Virginia",
+      "zip":"23707",
+      "phone":"7573997692",
+      "latitude":36.833775,
+      "longitude":-76.340114
+   },
+   "1531":{
+      "name":"3526 Airline Blvd. Portsmouth",
+      "address":"3526 Airline Blvd.",
+      "city":"Portsmouth",
+      "state":"Virginia",
+      "zip":"23701",
+      "phone":"7574889112",
+      "latitude":36.805134,
+      "longitude":-76.383262
+   },
+   "1003":{
+      "name":"10721 Jefferson Avenue NEWPORT NEWS",
+      "address":"10721 Jefferson Avenue",
+      "city":"NEWPORT NEWS",
+      "state":"Virginia",
+      "zip":"23601",
+      "phone":"7575964033",
+      "latitude":37.050456,
+      "longitude":-76.460888
+   },
+   "5423":{
+      "name":"2208 Cunningham Drive HAMPTON",
+      "address":"2208 Cunningham Drive",
+      "city":"HAMPTON",
+      "state":"Virginia",
+      "zip":"23666",
+      "phone":"7578260309",
+      "latitude":37.047004,
+      "longitude":-76.391952
+   },
+   "1624":{
+      "name":"4210 George Washington Hwy Portsmouth",
+      "address":"4210 George Washington Hwy",
+      "city":"Portsmouth",
+      "state":"Virginia",
+      "zip":"23702",
+      "phone":"7573931118",
+      "latitude":36.804537,
+      "longitude":-76.322336
+   },
+   "1407":{
+      "name":"1000 Tidewater Drive NORFOLK",
+      "address":"1000 Tidewater Drive",
+      "city":"NORFOLK",
+      "state":"Virginia",
+      "zip":"23504",
+      "phone":"7576254685",
+      "latitude":36.854785,
+      "longitude":-76.274014
+   },
+   "3464":{
+      "name":"830 J. Clyde Morris Boulevard NEWPORT NEWS",
+      "address":"830 J. Clyde Morris Boulevard",
+      "city":"NEWPORT NEWS",
+      "state":"Virginia",
+      "zip":"23601",
+      "phone":"7575940417",
+      "latitude":37.083867,
+      "longitude":-76.4586
+   },
+   "17471":{
+      "name":"740 E Little Creek Rd NORFOLK",
+      "address":"740 E Little Creek Rd",
+      "city":"NORFOLK",
+      "state":"Virginia",
+      "zip":"23518",
+      "phone":"7575872548",
+      "latitude":36.916028,
+      "longitude":-76.252154
+   },
+   "17087":{
+      "name":"2817 Godwin Blvd. SUFFOLK",
+      "address":"2817 Godwin Blvd.",
+      "city":"SUFFOLK",
+      "state":"Virginia",
+      "zip":"23434",
+      "phone":"7579230518",
+      "latitude":36.777459,
+      "longitude":-76.583744
+   },
+   "4251":{
+      "name":"197 W. Ocean View Avenue NORFOLK",
+      "address":"197 W. Ocean View Avenue",
+      "city":"NORFOLK",
+      "state":"Virginia",
+      "zip":"23503",
+      "phone":"7575882917",
+      "latitude":36.95521,
+      "longitude":-76.253019
+   },
+   "19317":{
+      "name":"61 Tuskegee Airman Blvd. LANGLEY AFB",
+      "address":"61 Tuskegee Airman Blvd.",
+      "city":"LANGLEY AFB",
+      "state":"Virginia",
+      "zip":"23665",
+      "phone":"7577665572",
+      "latitude":37.071284,
+      "longitude":-76.360648
+   },
+   "4973":{
+      "name":"221 Fox Hill Road HAMPTON",
+      "address":"221 Fox Hill Road",
+      "city":"HAMPTON",
+      "state":"Virginia",
+      "zip":"23669",
+      "phone":"7578511747",
+      "latitude":37.057215,
+      "longitude":-76.326792
+   },
+   "4289":{
+      "name":"1461 N. Main St. SUFFOLK",
+      "address":"1461 N. Main St.",
+      "city":"SUFFOLK",
+      "state":"Virginia",
+      "zip":"23434",
+      "phone":"7575393126",
+      "latitude":36.748084,
+      "longitude":-76.583699
+   },
+   "9918":{
+      "name":"130 Ottis Street NEWPORT NEWS",
+      "address":"130 Ottis Street",
+      "city":"NEWPORT NEWS",
+      "state":"Virginia",
+      "zip":"23602",
+      "phone":"7578776795",
+      "latitude":37.113597,
+      "longitude":-76.47124
+   },
+   "10391":{
+      "name":"1602 Forest Road Bedford",
+      "address":"1602 Forest Road",
+      "city":"Bedford",
+      "state":"Virginia",
+      "zip":"24523",
+      "phone":"5405868927",
+      "latitude":37.347582,
+      "longitude":-79.505205
+   },
+   "10451":{
+      "name":"21006 Timberlake Road LYNCHBURG",
+      "address":"21006 Timberlake Road",
+      "city":"LYNCHBURG",
+      "state":"Virginia",
+      "zip":"24502",
+      "phone":"4342396297",
+      "latitude":37.334754,
+      "longitude":-79.241295
+   },
+   "6410":{
+      "name":"18059 Forest Road FOREST",
+      "address":"18059 Forest Road",
+      "city":"FOREST",
+      "state":"Virginia",
+      "zip":"24551",
+      "phone":"4343856494",
+      "latitude":37.377828,
+      "longitude":-79.247998
+   },
+   "614":{
+      "name":"2424 Memorial Avenue LYNCHBURG",
+      "address":"2424 Memorial Avenue",
+      "city":"LYNCHBURG",
+      "state":"Virginia",
+      "zip":"24501",
+      "phone":"4348455171",
+      "latitude":37.402429,
+      "longitude":-79.16734
+   },
+   "6144":{
+      "name":"3810 Campbell Avenue LYNCHBURG",
+      "address":"3810 Campbell Avenue",
+      "city":"LYNCHBURG",
+      "state":"Virginia",
+      "zip":"24501",
+      "phone":"4348462331",
+      "latitude":37.38082,
+      "longitude":-79.1342
+   },
+   "4804":{
+      "name":"4140 Teays Valley Rd HURRICANE",
+      "address":"4140 Teays Valley Rd",
+      "city":"HURRICANE",
+      "state":"West Virginia",
+      "zip":"25526",
+      "phone":"3047576225",
+      "latitude":38.451875,
+      "longitude":-81.939181
+   },
+   "12507":{
+      "name":"#20 Nitro Boulevard CROSS LANES",
+      "address":"#20 Nitro Boulevard",
+      "city":"CROSS LANES",
+      "state":"West Virginia",
+      "zip":"25313",
+      "phone":"3047766534",
+      "latitude":38.412744,
+      "longitude":-81.80588
+   },
+   "23236":{
+      "name":"6302 Sissonville Drive Charleston",
+      "address":"6302 Sissonville Drive",
+      "city":"Charleston",
+      "state":"West Virginia",
+      "zip":"25312",
+      "phone":"3049840016",
+      "latitude":38.475537,
+      "longitude":-81.671031
+   },
+   "26467":{
+      "name":"6708 MacCorckle Ave St. Albans",
+      "address":"6708 MacCorckle Ave",
+      "city":"St. Albans",
+      "state":"West Virginia",
+      "zip":"25177",
+      "phone":"",
+      "latitude":38.374516,
+      "longitude":-81.776881
+   },
+   "6300":{
+      "name":"2 Riverwalk Plaza S CHARLESTON",
+      "address":"2 Riverwalk Plaza",
+      "city":"S CHARLESTON",
+      "state":"West Virginia",
+      "zip":"25303",
+      "phone":"3047443428",
+      "latitude":38.364468,
+      "longitude":-81.70872
+   },
+   "12192":{
+      "name":"107 RHL Boulevard CHARLESTON",
+      "address":"107 RHL Boulevard",
+      "city":"CHARLESTON",
+      "state":"West Virginia",
+      "zip":"25309",
+      "phone":"3047469709",
+      "latitude":38.328807,
+      "longitude":-81.713641
+   },
+   "11122":{
+      "name":"2151 Cedar Lakes Road RIPLEY",
+      "address":"2151 Cedar Lakes Road",
+      "city":"RIPLEY",
+      "state":"West Virginia",
+      "zip":"25271",
+      "phone":"3043721022",
+      "latitude":38.760564,
+      "longitude":-81.69163
+   },
+   "23220":{
+      "name":"1502 Greenbrier St Charleston",
+      "address":"1502 Greenbrier St",
+      "city":"Charleston",
+      "state":"West Virginia",
+      "zip":"25311",
+      "phone":"3043443807",
+      "latitude":38.36642,
+      "longitude":-81.581318
+   },
+   "16041":{
+      "name":"2155 Frame Rd ELKVIEW",
+      "address":"2155 Frame Rd",
+      "city":"ELKVIEW",
+      "state":"West Virginia",
+      "zip":"25071",
+      "phone":"3049652233",
+      "latitude":38.454662,
+      "longitude":-81.494452
+   },
+   "12544":{
+      "name":"8375 Court Avenue HAMLIN",
+      "address":"8375 Court Avenue",
+      "city":"HAMLIN",
+      "state":"West Virginia",
+      "zip":"25523",
+      "phone":"3048242901",
+      "latitude":38.281979,
+      "longitude":-82.090908
+   },
+   "11595":{
+      "name":"100 Airport Rd CHAPMANVILLE",
+      "address":"100 Airport Rd",
+      "city":"CHAPMANVILLE",
+      "state":"West Virginia",
+      "zip":"25508",
+      "phone":"3048554336",
+      "latitude":37.958981,
+      "longitude":-82.019895
+   },
+   "14484":{
+      "name":"111 Nick Savas Avenue LOGAN",
+      "address":"111 Nick Savas Avenue",
+      "city":"LOGAN",
+      "state":"West Virginia",
+      "zip":"25601",
+      "phone":"3048312015",
+      "latitude":37.856948,
+      "longitude":-82.045396
+   },
+   "9564":{
+      "name":"115 Louisa Plaza LOUISA",
+      "address":"115 Louisa Plaza",
+      "city":"LOUISA",
+      "state":"Kentucky",
+      "zip":"41230",
+      "phone":"6066389354",
+      "latitude":38.113101,
+      "longitude":-82.611072
+   },
+   "165":{
+      "name":"1201 Summit Ave Ste B GREENSBORO",
+      "address":"1201 Summit Ave Ste B",
+      "city":"GREENSBORO",
+      "state":"North Carolina",
+      "zip":"27405",
+      "phone":"3362738004",
+      "latitude":36.090733,
+      "longitude":-79.773102
+   },
+   "7347":{
+      "name":"1101 NC Highway 61 S WHITSETT",
+      "address":"1101 NC Highway 61 S",
+      "city":"WHITSETT",
+      "state":"North Carolina",
+      "zip":"27377",
+      "phone":"3364496060",
+      "latitude":36.063415,
+      "longitude":-79.563917
+   },
+   "17658":{
+      "name":"5210 US 29 Business REIDSVILLE",
+      "address":"5210 US 29 Business",
+      "city":"REIDSVILLE",
+      "state":"North Carolina",
+      "zip":"27320",
+      "phone":"3363486875",
+      "latitude":36.380676,
+      "longitude":-79.662456
+   },
+   "27011":{
+      "name":"1610 spring garden st Greensboro",
+      "address":"1610 spring garden st",
+      "city":"Greensboro",
+      "state":"North Carolina",
+      "zip":"27403",
+      "phone":"336-271-0549",
+      "latitude":36.064692,
+      "longitude":-79.81644
+   },
+   "5181":{
+      "name":"2240 Martin Luther King Drive GREENSBORO",
+      "address":"2240 Martin Luther King Drive",
+      "city":"GREENSBORO",
+      "state":"North Carolina",
+      "zip":"27406",
+      "phone":"3363709507",
+      "latitude":36.04147,
+      "longitude":-79.773134
+   },
+   "17562":{
+      "name":"1323 Tiki Ln BURLINGTON",
+      "address":"1323 Tiki Ln",
+      "city":"BURLINGTON",
+      "state":"North Carolina",
+      "zip":"27215",
+      "phone":"3365844693",
+      "latitude":36.067822,
+      "longitude":-79.513759
+   },
+   "913":{
+      "name":"3003 West Gate City Blvd. GREENSBORO",
+      "address":"3003 West Gate City Blvd.",
+      "city":"GREENSBORO",
+      "state":"North Carolina",
+      "zip":"27403",
+      "phone":"3362927782",
+      "latitude":36.048765,
+      "longitude":-79.835131
+   },
+   "829":{
+      "name":"4708 W. Market Street GREENSBORO",
+      "address":"4708 W. Market Street",
+      "city":"GREENSBORO",
+      "state":"North Carolina",
+      "zip":"27407",
+      "phone":"3362927523",
+      "latitude":36.06979,
+      "longitude":-79.869798
+   },
+   "15488":{
+      "name":"4209 W Wendover Ave GREENSBORO",
+      "address":"4209 W Wendover Ave",
+      "city":"GREENSBORO",
+      "state":"North Carolina",
+      "zip":"27407",
+      "phone":"3366321548",
+      "latitude":36.057237,
+      "longitude":-79.888226
+   },
+   "7310":{
+      "name":"3700 South Holden Road GREENSBORO",
+      "address":"3700 South Holden Road",
+      "city":"GREENSBORO",
+      "state":"North Carolina",
+      "zip":"27406",
+      "phone":"3363160328",
+      "latitude":36.009707,
+      "longitude":-79.838507
+   },
+   "537":{
+      "name":"1807 North Church Street BURLINGTON",
+      "address":"1807 North Church Street",
+      "city":"BURLINGTON",
+      "state":"North Carolina",
+      "zip":"27217",
+      "phone":"3362299414",
+      "latitude":36.09544,
+      "longitude":-79.407967
+   },
+   "17172":{
+      "name":"5805 Samet Dr HIGH POINT",
+      "address":"5805 Samet Dr",
+      "city":"HIGH POINT",
+      "state":"North Carolina",
+      "zip":"27265",
+      "phone":"3368850693",
+      "latitude":36.032114,
+      "longitude":-79.959928
+   },
+   "2475":{
+      "name":"221 W Kings Hwy EDEN",
+      "address":"221 W Kings Hwy",
+      "city":"EDEN",
+      "state":"North Carolina",
+      "zip":"27288",
+      "phone":"3366275700",
+      "latitude":36.493101,
+      "longitude":-79.743383
+   },
+   "16242":{
+      "name":"6703 North Carolina 135 MAYODAN",
+      "address":"6703 North Carolina 135",
+      "city":"MAYODAN",
+      "state":"North Carolina",
+      "zip":"27027",
+      "phone":"3364270649",
+      "latitude":36.417821,
+      "longitude":-79.935551
+   },
+   "5612":{
+      "name":"1101 East Memorial Drive AHOSKIE",
+      "address":"1101 East Memorial Drive",
+      "city":"AHOSKIE",
+      "state":"North Carolina",
+      "zip":"27910",
+      "phone":"2523324107",
+      "latitude":36.276247,
+      "longitude":-76.977462
+   },
+   "10479":{
+      "name":"107 Us Highway 13 Byp WINDSOR",
+      "address":"107 Us Highway 13 Byp",
+      "city":"WINDSOR",
+      "state":"North Carolina",
+      "zip":"27983",
+      "phone":"2527945410",
+      "latitude":36.009281,
+      "longitude":-76.954856
+   },
+   "6096":{
+      "name":"4100 Brookshire Boulevard Charlotte",
+      "address":"4100 Brookshire Boulevard",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28216",
+      "phone":"7043982613",
+      "latitude":35.266351,
+      "longitude":-80.881387
+   },
+   "3154":{
+      "name":"2601 Beatties Ford Road Charlotte",
+      "address":"2601 Beatties Ford Road",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28216",
+      "phone":"7043913221",
+      "latitude":35.269853,
+      "longitude":-80.854808
+   },
+   "7319":{
+      "name":"3421 Wilkinson Boulevard Charlotte",
+      "address":"3421 Wilkinson Boulevard",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28208",
+      "phone":"7043920089",
+      "latitude":35.224461,
+      "longitude":-80.89797
+   },
+   "7011":{
+      "name":"3709 N. Tryon Street Charlotte",
+      "address":"3709 N. Tryon Street",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28206",
+      "phone":"7043720616",
+      "latitude":35.254844,
+      "longitude":-80.801369
+   },
+   "9520":{
+      "name":"310 East Trade Street CHARLOTTE",
+      "address":"310 East Trade Street",
+      "city":"CHARLOTTE",
+      "state":"North Carolina",
+      "zip":"28202",
+      "phone":"7043343312",
+      "latitude":35.224802,
+      "longitude":-80.840536
+   },
+   "16357":{
+      "name":"Concourse E CHARLOTTE",
+      "address":"Concourse E",
+      "city":"CHARLOTTE",
+      "state":"North Carolina",
+      "zip":"28208",
+      "phone":"7043594729",
+      "latitude":35.223981,
+      "longitude":-80.940462
+   },
+   "8633":{
+      "name":"5501 JOSH BIRMINGHAM PKWY CHARLOTTE",
+      "address":"5501 JOSH BIRMINGHAM PKWY",
+      "city":"CHARLOTTE",
+      "state":"North Carolina",
+      "zip":"28208",
+      "phone":"7043599089",
+      "latitude":35.220433,
+      "longitude":-80.943838
+   },
+   "16004":{
+      "name":"1525 East 4th Street CHARLOTTE",
+      "address":"1525 East 4th Street",
+      "city":"CHARLOTTE",
+      "state":"North Carolina",
+      "zip":"28204",
+      "phone":"7043344489",
+      "latitude":35.213523,
+      "longitude":-80.827836
+   },
+   "7229":{
+      "name":"8431 North Tryon Street Charlotte",
+      "address":"8431 North Tryon Street",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28262",
+      "phone":"7045949943",
+      "latitude":35.303818,
+      "longitude":-80.751803
+   },
+   "7484":{
+      "name":"16800 Caldwell Creek Drive HUNTERSVILLE",
+      "address":"16800 Caldwell Creek Drive",
+      "city":"HUNTERSVILLE",
+      "state":"North Carolina",
+      "zip":"28078",
+      "phone":"7048967895",
+      "latitude":35.442865,
+      "longitude":-80.86631
+   },
+   "23057":{
+      "name":"250 E. Woodlawn Rd. Charlotte",
+      "address":"250 E. Woodlawn Rd.",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28217",
+      "phone":"9802071758",
+      "latitude":35.177726,
+      "longitude":-80.880044
+   },
+   "17073":{
+      "name":"8581 Concord Mills Boulevard CONCORD",
+      "address":"8581 Concord Mills Boulevard",
+      "city":"CONCORD",
+      "state":"North Carolina",
+      "zip":"28027",
+      "phone":"7049791115",
+      "latitude":35.373371,
+      "longitude":-80.725094
+   },
+   "12706":{
+      "name":"8111 Concord Mills Mall CONCORD",
+      "address":"8111 Concord Mills Mall",
+      "city":"CONCORD",
+      "state":"North Carolina",
+      "zip":"28027",
+      "phone":"7049795215",
+      "latitude":35.370171,
+      "longitude":-80.722789
+   },
+   "1575":{
+      "name":"5200 Central Avenue CHARLOTTE",
+      "address":"5200 Central Avenue",
+      "city":"CHARLOTTE",
+      "state":"North Carolina",
+      "zip":"28212",
+      "phone":"7045687860",
+      "latitude":35.209659,
+      "longitude":-80.757263
+   },
+   "8883":{
+      "name":"7615 Nations Ford Road Charlotte",
+      "address":"7615 Nations Ford Road",
+      "city":"Charlotte",
+      "state":"North Carolina",
+      "zip":"28217",
+      "phone":"7045251141",
+      "latitude":35.14961,
+      "longitude":-80.89698
+   },
+   "16584":{
+      "name":"7158 NC Hwy 73 DENVER",
+      "address":"7158 NC Hwy 73",
+      "city":"DENVER",
+      "state":"North Carolina",
+      "zip":"28037",
+      "phone":"7048275151",
+      "latitude":35.449368,
+      "longitude":-81.003691
+   },
+   "8817":{
+      "name":"200 Market Street CRAMERTON",
+      "address":"200 Market Street",
+      "city":"CRAMERTON",
+      "state":"North Carolina",
+      "zip":"28032",
+      "phone":"7048247600",
+      "latitude":35.250571,
+      "longitude":-81.079512
+   },
+   "8980":{
+      "name":"501 Highway 27 South STANLEY",
+      "address":"501 Highway 27 South",
+      "city":"STANLEY",
+      "state":"North Carolina",
+      "zip":"28164",
+      "phone":"7042639050",
+      "latitude":35.353534,
+      "longitude":-81.089634
+   },
+   "2371":{
+      "name":"4709 Sharon Road CHARLOTTE",
+      "address":"4709 Sharon Road",
+      "city":"CHARLOTTE",
+      "state":"North Carolina",
+      "zip":"28210",
+      "phone":"7043653183",
+      "latitude":35.14807,
+      "longitude":-80.830549
+   },
+   "5834":{
+      "name":"7026 Albemarle Road CHARLOTTE",
+      "address":"7026 Albemarle Road",
+      "city":"CHARLOTTE",
+      "state":"North Carolina",
+      "zip":"28227",
+      "phone":"7045322936",
+      "latitude":35.203043,
+      "longitude":-80.722641
+   },
+   "13175":{
+      "name":"2543 Springs Road NE HICKORY",
+      "address":"2543 Springs Road NE",
+      "city":"HICKORY",
+      "state":"North Carolina",
+      "zip":"28601",
+      "phone":"8284410772",
+      "latitude":35.753656,
+      "longitude":-81.283128
+   },
+   "16345":{
+      "name":"1237 North NC 16 Highway CONOVER",
+      "address":"1237 North NC 16 Highway",
+      "city":"CONOVER",
+      "state":"North Carolina",
+      "zip":"28613",
+      "phone":"8284643583",
+      "latitude":35.725989,
+      "longitude":-81.207638
+   },
+   "5662":{
+      "name":"3478 Miller Bridge Road ICARD",
+      "address":"3478 Miller Bridge Road",
+      "city":"ICARD",
+      "state":"North Carolina",
+      "zip":"28666",
+      "phone":"8283975277",
+      "latitude":35.718368,
+      "longitude":-81.467977
+   },
+   "5308":{
+      "name":"520 Southwest Blvd NEWTON",
+      "address":"520 Southwest Blvd",
+      "city":"NEWTON",
+      "state":"North Carolina",
+      "zip":"28658",
+      "phone":"8284641761",
+      "latitude":35.657996,
+      "longitude":-81.229442
+   },
+   "13133":{
+      "name":"3005 Centennial Boulevard CLAREMONT",
+      "address":"3005 Centennial Boulevard",
+      "city":"CLAREMONT",
+      "state":"North Carolina",
+      "zip":"28610",
+      "phone":"8284591558",
+      "latitude":35.720669,
+      "longitude":-81.15588
+   },
+   "12048":{
+      "name":"2790 Hickory Boulevard HUDSON",
+      "address":"2790 Hickory Boulevard",
+      "city":"HUDSON",
+      "state":"North Carolina",
+      "zip":"28638",
+      "phone":"8287260054",
+      "latitude":35.858347,
+      "longitude":-81.485475
+   },
+   "2647":{
+      "name":"102 Blowing Rock Blvd. LENOIR",
+      "address":"102 Blowing Rock Blvd.",
+      "city":"LENOIR",
+      "state":"North Carolina",
+      "zip":"28645",
+      "phone":"8287542558",
+      "latitude":35.914969,
+      "longitude":-81.524475
+   },
+   "1573":{
+      "name":"736 S. Sterling Street MORGANTON",
+      "address":"736 S. Sterling Street",
+      "city":"MORGANTON",
+      "state":"North Carolina",
+      "zip":"28655",
+      "phone":"8284377672",
+      "latitude":35.739208,
+      "longitude":-81.680183
+   },
+   "7174":{
+      "name":"6085 S NC 16 Highway DENVER",
+      "address":"6085 S NC 16 Highway",
+      "city":"DENVER",
+      "state":"North Carolina",
+      "zip":"28037",
+      "phone":"7044831381",
+      "latitude":35.557726,
+      "longitude":-81.063663
+   },
+   "28202":{
+      "name":"672 Hwy 1 Lugoff",
+      "address":"672 Hwy 1",
+      "city":"Lugoff",
+      "state":"South Carolina",
+      "zip":"29078",
+      "phone":"",
+      "latitude":34.236509,
+      "longitude":-80.664555
+   },
+   "27005":{
+      "name":"265 US Hwy 321 Winnsboro",
+      "address":"265 US Hwy 321",
+      "city":"Winnsboro",
+      "state":"South Carolina",
+      "zip":"29180",
+      "phone":"803-815-0403",
+      "latitude":34.368297,
+      "longitude":-81.100179
+   },
+   "13059":{
+      "name":"210 East Dekalb Street CAMDEN",
+      "address":"210 East Dekalb Street",
+      "city":"CAMDEN",
+      "state":"South Carolina",
+      "zip":"29020",
+      "phone":"8032720338",
+      "latitude":34.247132,
+      "longitude":-80.600036
+   },
+   "9806":{
+      "name":"1568 Highway 17 LITTLE RIVER",
+      "address":"1568 Highway 17",
+      "city":"LITTLE RIVER",
+      "state":"South Carolina",
+      "zip":"29566",
+      "phone":"8432805077",
+      "latitude":33.875621,
+      "longitude":-78.615326
+   },
+   "4082":{
+      "name":"9650 N. King Highway MYRTLE BEACH",
+      "address":"9650 N. King Highway",
+      "city":"MYRTLE BEACH",
+      "state":"South Carolina",
+      "zip":"29572",
+      "phone":"8434499280",
+      "latitude":33.778119,
+      "longitude":-78.792243
+   },
+   "8902":{
+      "name":"1171 Seaboard Street MYRTLE BEACH",
+      "address":"1171 Seaboard Street",
+      "city":"MYRTLE BEACH",
+      "state":"South Carolina",
+      "zip":"29577",
+      "phone":"8434451686",
+      "latitude":33.715861,
+      "longitude":-78.890805
+   },
+   "4807":{
+      "name":"4610 Main Street SHALLOTTE",
+      "address":"4610 Main Street",
+      "city":"SHALLOTTE",
+      "state":"North Carolina",
+      "zip":"28470",
+      "phone":"9107549989",
+      "latitude":33.977981,
+      "longitude":-78.379134
+   },
+   "1215":{
+      "name":"501 South King's Highway MYRTLE BEACH",
+      "address":"501 South King's Highway",
+      "city":"MYRTLE BEACH",
+      "state":"South Carolina",
+      "zip":"29577",
+      "phone":"8436265873",
+      "latitude":33.681957,
+      "longitude":-78.894771
+   },
+   "16184":{
+      "name":"2391 Coastal Grand Circle MYRTLE BEACH",
+      "address":"2391 Coastal Grand Circle",
+      "city":"MYRTLE BEACH",
+      "state":"South Carolina",
+      "zip":"29577",
+      "phone":"8436263251",
+      "latitude":33.701107,
+      "longitude":-78.928066
+   },
+   "6818":{
+      "name":"2330 Highway 501 E CONWAY",
+      "address":"2330 Highway 501 E",
+      "city":"CONWAY",
+      "state":"South Carolina",
+      "zip":"29526",
+      "phone":"8433472545",
+      "latitude":33.790011,
+      "longitude":-78.997386
+   },
+   "9892":{
+      "name":"801 US Highway 701 Byp TABOR CITY",
+      "address":"801 US Highway 701 Byp",
+      "city":"TABOR CITY",
+      "state":"North Carolina",
+      "zip":"28463",
+      "phone":"9106532200",
+      "latitude":34.154613,
+      "longitude":-78.85985
+   },
+   "3276":{
+      "name":"3542 Memorial Drive DECATUR",
+      "address":"3542 Memorial Drive",
+      "city":"DECATUR",
+      "state":"Georgia",
+      "zip":"30032",
+      "phone":"4042886325",
+      "latitude":33.75492,
+      "longitude":-84.26859
+   },
+   "846":{
+      "name":"2682 Candler Road DECATUR",
+      "address":"2682 Candler Road",
+      "city":"DECATUR",
+      "state":"Georgia",
+      "zip":"30034",
+      "phone":"4042410944",
+      "latitude":33.711028,
+      "longitude":-84.271273
+   },
+   "2544":{
+      "name":"4622 Memorial Drive DECATUR",
+      "address":"4622 Memorial Drive",
+      "city":"DECATUR",
+      "state":"Georgia",
+      "zip":"30032",
+      "phone":"4042977523",
+      "latitude":33.78018,
+      "longitude":-84.239365
+   },
+   "17090":{
+      "name":"3928 Flat Shoals Parkway DECATUR",
+      "address":"3928 Flat Shoals Parkway",
+      "city":"DECATUR",
+      "state":"Georgia",
+      "zip":"30034",
+      "phone":"4047481270",
+      "latitude":33.69412,
+      "longitude":-84.261347
+   },
+   "13272":{
+      "name":"571 DeKalb Industrial Way DECATUR",
+      "address":"571 DeKalb Industrial Way",
+      "city":"DECATUR",
+      "state":"Georgia",
+      "zip":"30030",
+      "phone":"4043433792",
+      "latitude":33.79254,
+      "longitude":-84.27559
+   },
+   "16171":{
+      "name":"1130 Moreland Ave. SE ATLANTA",
+      "address":"1130 Moreland Ave. SE",
+      "city":"ATLANTA",
+      "state":"Georgia",
+      "zip":"30316",
+      "phone":"4704284849",
+      "latitude":33.7235,
+      "longitude":-84.3492
+   },
+   "2377":{
+      "name":"6038 Memorial Drive STONE MOUNTAIN",
+      "address":"6038 Memorial Drive",
+      "city":"STONE MOUNTAIN",
+      "state":"Georgia",
+      "zip":"30083",
+      "phone":"7706767933",
+      "latitude":33.8033,
+      "longitude":-84.19288
+   },
+   "4487":{
+      "name":"2807 Panola Road LITHONIA",
+      "address":"2807 Panola Road",
+      "city":"LITHONIA",
+      "state":"Georgia",
+      "zip":"30058",
+      "phone":"4705450417",
+      "latitude":33.705554,
+      "longitude":-84.16935
+   },
+   "4283":{
+      "name":"386 North Ave NE ATLANTA",
+      "address":"386 North Ave NE",
+      "city":"ATLANTA",
+      "state":"Georgia",
+      "zip":"30308",
+      "phone":"6787053749",
+      "latitude":33.771365,
+      "longitude":-84.374549
+   },
+   "247":{
+      "name":"2304 North Druid Hills Road ATLANTA",
+      "address":"2304 North Druid Hills Road",
+      "city":"ATLANTA",
+      "state":"Georgia",
+      "zip":"30329",
+      "phone":"4049966425",
+      "latitude":33.827632,
+      "longitude":-84.329595
+   },
+   "634":{
+      "name":"199 SW Northside Dr ATLANTA",
+      "address":"199 SW Northside Dr",
+      "city":"ATLANTA",
+      "state":"Georgia",
+      "zip":"30313",
+      "phone":"4046002313",
+      "latitude":33.74932,
+      "longitude":-84.4048
+   },
+   "3155":{
+      "name":"4094 Lawrenceville Highway TUCKER",
+      "address":"4094 Lawrenceville Highway",
+      "city":"TUCKER",
+      "state":"Georgia",
+      "zip":"30084",
+      "phone":"7705581214",
+      "latitude":33.85096,
+      "longitude":-84.21448
+   },
+   "13368":{
+      "name":"81 Fairview Road ELLENWOOD",
+      "address":"81 Fairview Road",
+      "city":"ELLENWOOD",
+      "state":"Georgia",
+      "zip":"30294",
+      "phone":"7705072929",
+      "latitude":33.620234,
+      "longitude":-84.236052
+   },
+   "16858":{
+      "name":"3983 Buford Hwy NE Atlanta",
+      "address":"3983 Buford Hwy NE",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30345",
+      "phone":"4044925986",
+      "latitude":33.85935,
+      "longitude":-84.309903
+   },
+   "3843":{
+      "name":"1122 Northside Dr Nw Atlanta",
+      "address":"1122 Northside Dr Nw",
+      "city":"Atlanta",
+      "state":"Georgia",
+      "zip":"30318",
+      "phone":"4044925987",
+      "latitude":33.78555,
+      "longitude":-84.407381
+   },
+   "28283":{
+      "name":"2773 Evans Mill Rd Lithonia",
+      "address":"2773 Evans Mill Rd",
+      "city":"Lithonia",
+      "state":"Georgia",
+      "zip":"30058",
+      "phone":"770-246-2279",
+      "latitude":33.704115,
+      "longitude":-84.115581
+   },
+   "3641":{
+      "name":"2701 Stewart Avenue S. W. ATLANTA",
+      "address":"2701 Stewart Avenue S. W.",
+      "city":"ATLANTA",
+      "state":"Georgia",
+      "zip":"30315",
+      "phone":"4047617215",
+      "latitude":33.681702,
+      "longitude":-84.407953
+   },
+   "4003":{
+      "name":"5141 Jonesboro Road LAKE CITY",
+      "address":"5141 Jonesboro Road",
+      "city":"LAKE CITY",
+      "state":"Georgia",
+      "zip":"30260",
+      "phone":"4048352945",
+      "latitude":33.615289,
+      "longitude":-84.350291
+   },
+   "987":{
+      "name":"5267 Highway 78 STONE MOUNTAIN",
+      "address":"5267 Highway 78",
+      "city":"STONE MOUNTAIN",
+      "state":"Georgia",
+      "zip":"30087",
+      "phone":"7704699366",
+      "latitude":33.82353,
+      "longitude":-84.11303
+   },
+   "4834":{
+      "name":"247 Forest Parkway FOREST PARK",
+      "address":"247 Forest Parkway",
+      "city":"FOREST PARK",
+      "state":"Georgia",
+      "zip":"30297",
+      "phone":"4708234380",
+      "latitude":33.619714,
+      "longitude":-84.382019
+   },
+   "11515":{
+      "name":"1065 South Lewis Street METTER",
+      "address":"1065 South Lewis Street",
+      "city":"METTER",
+      "state":"Georgia",
+      "zip":"30439",
+      "phone":"9126852395",
+      "latitude":32.38055,
+      "longitude":-82.061118
+   },
+   "8040":{
+      "name":"2303 East First Street VIDALIA",
+      "address":"2303 East First Street",
+      "city":"VIDALIA",
+      "state":"Georgia",
+      "zip":"30474",
+      "phone":"9125374947",
+      "latitude":32.207371,
+      "longitude":-82.380879
+   },
+   "25882":{
+      "name":"106 N Duval St Claxton",
+      "address":"106 N Duval St",
+      "city":"Claxton",
+      "state":"Georgia",
+      "zip":"30417",
+      "phone":"912-732-1008",
+      "latitude":32.162771,
+      "longitude":-81.903527
+   }
+}

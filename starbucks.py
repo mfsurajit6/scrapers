@@ -1,13 +1,15 @@
 import random
 import requests
+
 from constant import ZIP_LAT_LANG, USER_AGENT
+from urls import STARBUCKS_URL
 
 
 class StarBucks:
     """ Get StarBucks outlet information form random locations of United States  in dictionary format"""
     def __init__(self):
-        self.data = {}
-        self.original_url = "https://www.starbucks.com/bff/locations?"
+        self.stores = {}
+        self.base_url = STARBUCKS_URL
         self.headers = {
             "x-requested-with": "XMLHttpRequest",
             'User-Agent': random.choice(USER_AGENT),
@@ -19,34 +21,44 @@ class StarBucks:
         }
 
     def get_stores(self):
+        """
+        Get all the outlet details
+        :return: dict, All Outlet Details
+        """
         for i in range(len(ZIP_LAT_LANG)):
-            url = self.original_url
             lat = ZIP_LAT_LANG[i][1]
             long = ZIP_LAT_LANG[i][2]
-            url += "lat="+str(lat)+"&lag="+str(long)
-            stores = self.get_data(url)
-            if stores != "Failed":
-                for s in stores:
-                    if s not in self.data:
-                        self.data[s] = stores[s]
+            stores_from_location = self.get_data(lat, long)
+            if stores_from_location != "Failed":
+                for s in stores_from_location:
+                    if s not in self.stores:
+                        self.stores[s] = stores_from_location[s]
             else:
                 print("Server is blocking...")
                 return None
-        return self.data
+        return self.stores
 
-    def get_data(self, url):
-        res = requests.get(url, headers=self.headers)
-        # print(res.text)
+    def get_data(self, lat, long):
+        """
+        Get Outlet Details of specific location
+        :param lat: float, Latitude of the location
+        :param long: float, Longitude of the location
+        :return: dict, Stores of the specified location
+        """
+        url = self.base_url
+        url = f'{url}lat={lat}&lag={long}'
+        # url += "lat=" + str(lat) + "&lag=" + str(long)
         try:
-            data = res.json()
-        except ValueError:
+            res = requests.get(url, headers=self.headers)
+            json_data = res.json()
+        except Exception:
             return 'Failed'
 
-        stores = data.get('stores')
+        local_stores = json_data.get('stores')
         stores_data = {}
 
-        for i in range(len(stores)):
-            s = stores[i]
+        for i in range(len(local_stores)):
+            s = local_stores[i]
             store = {}
             store_id = s.get('id')
             store['name'] = s.get('name')
@@ -65,5 +77,5 @@ class StarBucks:
         return stores_data
 
 
-v = StarBucks()
-print(v.get_stores())
+starbucks = StarBucks()
+print(starbucks.get_stores())

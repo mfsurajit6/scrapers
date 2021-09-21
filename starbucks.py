@@ -6,6 +6,7 @@ from constant import ZIP_LAT_LANG, USER_AGENT
 class StarBucks:
     """ Get StarBucks outlet information form random locations of United States  in dictionary format"""
     def __init__(self):
+        self.data = {}
         self.original_url = "https://www.starbucks.com/bff/locations?"
         self.headers = {
             "x-requested-with": "XMLHttpRequest",
@@ -16,7 +17,6 @@ class StarBucks:
             "Accept-Language": "en-US,en;q=0.5",
             "Accept-Encoding": "gzip, deflate"
         }
-        self.data = {}
 
     def get_stores(self):
         for i in range(len(ZIP_LAT_LANG)):

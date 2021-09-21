@@ -43,7 +43,7 @@ class PizzaHut:
             self.state_urls[state] = state_url
 
     def get_details(self):
-        id = 1
+        store_id = 1
         for u in self.outlet_urls:
             url = self.original_url+"/"+u
             res = requests.get(url, headers=self.headers)
@@ -51,19 +51,19 @@ class PizzaHut:
             outlets = soup.find_all("li", {"class": "Directory-listTeaser"})
             for outlet in outlets:
                 store = {}
-                store['name'] = outlet.find("span", {"class": "LocationName-geo"}).text
                 store_address = outlet.find("span", {"class": "c-address-street-1"}).text
                 store_address_1 = outlet.find("span", {"class": "c-address-street-2"})
                 if store_address_1 is not None:
                     store_address += store_address_1.text
+                store_phone = outlet.find("a", {"class": "c-phone-number-link c-phone-main-number-link"})
+                store['name'] = outlet.find("span", {"class": "LocationName-geo"}).text
                 store['address'] = store_address
                 store['city'] = outlet.find("span", {"class": "c-address-city"}).text
                 store['state'] = outlet.find("abbr", {"class": "c-address-state"}).text
                 store['zip'] = outlet.find("span", {"class": "c-address-postal-code"}).text
-                store_phone = outlet.find("a", {"class": "c-phone-number-link c-phone-main-number-link"})
                 store['phone'] = store_phone.text if store_phone is not None else ''
-                self.stores[id] = store
-                id += 1
+                self.stores[store_id] = store
+                store_id += 1
 
 
 ph = PizzaHut()

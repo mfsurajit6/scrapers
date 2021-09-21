@@ -6,11 +6,12 @@ from constant import ZIP_LAT_LANG, USER_AGENT
 
 
 class Verizon:
+    """ Get Verizon outlet information form random locations of United States  in dictionary format"""
     def __init__(self):
         # "https://www.verizon.com/stores/searchresultsdata?lat=38.9071923&long=-77.0368707"
         self.original_url = "https://www.verizon.com/stores/searchresultsdata?"
         self.headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/56.0.2924.76 Safari/537.36',
+            'User-Agent': random.choice(USER_AGENT),
             "Upgrade-Insecure-Requests": "1",
             "DNT": "1",
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",

@@ -1,0 +1,1034 @@
+{
+   "1":{
+      "name":"1200 N. Muldoon Road",
+      "address":"1200 N. Muldoon Road",
+      "city":"Anchorage",
+      "state":"AK",
+      "zip":"99504",
+      "phone":""
+   },
+   "2":{
+      "name":"150 West 100th Ave",
+      "address":"150 West 100th AveSuite A",
+      "city":"Anchorage",
+      "state":"AK",
+      "zip":"99515",
+      "phone":""
+   },
+   "3":{
+      "name":"1921 W Dimond Blvd",
+      "address":"1921 W Dimond BlvdSte 112",
+      "city":"Anchorage",
+      "state":"AK",
+      "zip":"99515",
+      "phone":"(907) 644-2974"
+   },
+   "4":{
+      "name":"2220 Abbott Rd",
+      "address":"2220 Abbott Rd",
+      "city":"Anchorage",
+      "state":"AK",
+      "zip":"99507",
+      "phone":"(907) 868-0201"
+   },
+   "5":{
+      "name":"341 Boniface Pkwy",
+      "address":"341 Boniface PkwyUnit G",
+      "city":"Anchorage",
+      "state":"AK",
+      "zip":"99504",
+      "phone":"(907) 337-2276"
+   },
+   "6":{
+      "name":"3727 Spenard Highway",
+      "address":"3727 Spenard Highway",
+      "city":"Anchorage",
+      "state":"AK",
+      "zip":"99517",
+      "phone":"(907) 743-9978"
+   },
+   "7":{
+      "name":"11740 Old Glenn Hwy",
+      "address":"11740 Old Glenn Hwy",
+      "city":"Eagle River",
+      "state":"AK",
+      "zip":"99577",
+      "phone":"(907) 694-1086"
+   },
+   "8":{
+      "name":"89 College Rd",
+      "address":"89 College Rd",
+      "city":"Fairbanks",
+      "state":"AK",
+      "zip":"99701",
+      "phone":"(907) 451-1788"
+   },
+   "9":{
+      "name":"257 N Santa Claus Ln",
+      "address":"257 N Santa Claus Ln",
+      "city":"North Pole",
+      "state":"AK",
+      "zip":"99705",
+      "phone":"(907) 488-4239"
+   },
+   "10":{
+      "name":"44332 Sterling Hwy",
+      "address":"44332 Sterling Hwy",
+      "city":"Soldotna",
+      "state":"AK",
+      "zip":"99669",
+      "phone":"(907) 420-0645"
+   },
+   "11":{
+      "name":"1801 East Parks Highway",
+      "address":"1801 East Parks Highway",
+      "city":"Wasilla",
+      "state":"AK",
+      "zip":"99654",
+      "phone":""
+   },
+   "12":{
+      "name":"851 E Parks Hwy",
+      "address":"851 E Parks Hwy",
+      "city":"Wasilla",
+      "state":"AK",
+      "zip":"99654",
+      "phone":"(907) 373-6600"
+   },
+   "13":{
+      "name":"250 South Colonial Drive",
+      "address":"250 South Colonial Drive",
+      "city":"Alabaster",
+      "state":"AL",
+      "zip":"35007",
+      "phone":""
+   },
+   "14":{
+      "name":"634 1st St NE",
+      "address":"634 1st St NESte 200",
+      "city":"Alabaster",
+      "state":"AL",
+      "zip":"35007",
+      "phone":"(205) 663-5137"
+   },
+   "15":{
+      "name":"6815 Hwy 431 South",
+      "address":"6815 Hwy 431 South",
+      "city":"Albertville",
+      "state":"AL",
+      "zip":"35950",
+      "phone":"(256) 878-7373"
+   },
+   "16":{
+      "name":"4581 Hwy 280",
+      "address":"4581 Hwy 280",
+      "city":"Alexander City",
+      "state":"AL",
+      "zip":"35010",
+      "phone":"(256) 675-8004"
+   },
+   "17":{
+      "name":"1203 Dr Martin Luther King Jr Exp",
+      "address":"1203 Dr Martin Luther King Jr Exp",
+      "city":"Andalusia",
+      "state":"AL",
+      "zip":"36420",
+      "phone":"(334) 222-4106"
+   },
+   "18":{
+      "name":"2109 Quintard Avenue",
+      "address":"2109 Quintard Avenue",
+      "city":"Anniston",
+      "state":"AL",
+      "zip":"36201",
+      "phone":"(256) 237-3251"
+   },
+   "19":{
+      "name":"322 Blue Mountain Rd.",
+      "address":"322 Blue Mountain Rd.",
+      "city":"Anniston",
+      "state":"AL",
+      "zip":"36201",
+      "phone":"(256) 237-3251"
+   },
+   "20":{
+      "name":"229 French Farms Blvd",
+      "address":"229 French Farms BlvdSte A",
+      "city":"Athens",
+      "state":"AL",
+      "zip":"35611",
+      "phone":"(256) 233-1223"
+   },
+   "21":{
+      "name":"1515 S Main St",
+      "address":"1515 S Main St",
+      "city":"Atmore",
+      "state":"AL",
+      "zip":"36502",
+      "phone":"(251) 368-5646"
+   },
+   "22":{
+      "name":"1923 S. College St.",
+      "address":"1923 S. College St.",
+      "city":"Auburn",
+      "state":"AL",
+      "zip":"36832",
+      "phone":"(334) 321-1060"
+   },
+   "23":{
+      "name":"604 McMeans Ave",
+      "address":"604 McMeans Ave",
+      "city":"Bay Minette",
+      "state":"AL",
+      "zip":"36507",
+      "phone":"(251) 937-6714"
+   },
+   "24":{
+      "name":"14031 S Wintzell Ave",
+      "address":"14031 S Wintzell Ave",
+      "city":"Bayou La Batre",
+      "state":"AL",
+      "zip":"36509",
+      "phone":"(251) 824-3177"
+   },
+   "25":{
+      "name":"4889 Promenade Parkway",
+      "address":"4889 Promenade Parkway",
+      "city":"Bessemer",
+      "state":"AL",
+      "zip":"35022",
+      "phone":""
+   },
+   "26":{
+      "name":"829 8th Street N.",
+      "address":"829 8th Street N.",
+      "city":"Bessemer",
+      "state":"AL",
+      "zip":"35020",
+      "phone":"(205) 426-1204"
+   },
+   "27":{
+      "name":"2016 5th Ave S.",
+      "address":"2016 5th Ave S.",
+      "city":"Birmingham",
+      "state":"AL",
+      "zip":"35233",
+      "phone":"(205) 323-1221"
+   },
+   "28":{
+      "name":"2145 Bessemer Rd.",
+      "address":"2145 Bessemer Rd.",
+      "city":"Birmingham",
+      "state":"AL",
+      "zip":"35210",
+      "phone":"(205) 781-6001"
+   },
+   "29":{
+      "name":"2346 Center Point Pkwy",
+      "address":"2346 Center Point Pkwy",
+      "city":"Birmingham",
+      "state":"AL",
+      "zip":"35215",
+      "phone":"(205) 856-5447"
+   },
+   "30":{
+      "name":"437 Green Springs Hwy",
+      "address":"437 Green Springs HwySuite 121",
+      "city":"Birmingham",
+      "state":"AL",
+      "zip":"35209",
+      "phone":"(205) 942-6535"
+   },
+   "31":{
+      "name":"4500 Montevallo Rd",
+      "address":"4500 Montevallo RdSpace No. A101",
+      "city":"Birmingham",
+      "state":"AL",
+      "zip":"35210",
+      "phone":"(205) 591-5200"
+   },
+   "32":{
+      "name":"9170 Parkway E",
+      "address":"9170 Parkway E",
+      "city":"Birmingham",
+      "state":"AL",
+      "zip":"35206",
+      "phone":"(205) 836-4816"
+   },
+   "33":{
+      "name":"10631 Highway 5",
+      "address":"10631 Highway 5Rt. 2 Box 6 Aaa Hwy. 5",
+      "city":"Brent",
+      "state":"AL",
+      "zip":"35034",
+      "phone":"(205) 926-6162"
+   },
+   "34":{
+      "name":"590 South Blvd.",
+      "address":"590 South Blvd.",
+      "city":"Brewton",
+      "state":"AL",
+      "zip":"36426",
+      "phone":"(251) 867-7777"
+   },
+   "35":{
+      "name":"136 Marketplace Circle",
+      "address":"136 Marketplace CircleSuite C",
+      "city":"Calera",
+      "state":"AL",
+      "zip":"35040",
+      "phone":"(205) 668-4517"
+   },
+   "36":{
+      "name":"1558 W Main St",
+      "address":"1558 W Main St",
+      "city":"Centre",
+      "state":"AL",
+      "zip":"35960",
+      "phone":"(256) 927-9222"
+   },
+   "37":{
+      "name":"411 Chelsea Crossroads",
+      "address":"411 Chelsea Crossroads",
+      "city":"Chelsea",
+      "state":"AL",
+      "zip":"35043",
+      "phone":"(205) 678-5665"
+   },
+   "38":{
+      "name":"710 2nd Ave NW",
+      "address":"710 2nd Ave NW",
+      "city":"Cullman",
+      "state":"AL",
+      "zip":"35055",
+      "phone":"(256) 737-4064"
+   },
+   "39":{
+      "name":"609 N Daleville Ave",
+      "address":"609 N Daleville Ave",
+      "city":"Daleville",
+      "state":"AL",
+      "zip":"36322",
+      "phone":"(334) 709-3051"
+   },
+   "40":{
+      "name":"1241 Point Mallard Pkwy.",
+      "address":"1241 Point Mallard Pkwy.Bldg A-4",
+      "city":"Decatur",
+      "state":"AL",
+      "zip":"35601",
+      "phone":""
+   },
+   "41":{
+      "name":"2941 Point Mallard Pkwy. SE",
+      "address":"2941 Point Mallard Pkwy. SESuite I",
+      "city":"Decatur",
+      "state":"AL",
+      "zip":"35603",
+      "phone":"(256) 560-2953"
+   },
+   "42":{
+      "name":"926 Beltline Rd SW",
+      "address":"926 Beltline Rd SW",
+      "city":"Decatur",
+      "state":"AL",
+      "zip":"35601",
+      "phone":"(256) 353-3353"
+   },
+   "43":{
+      "name":"1912 SE Ross Clark Cir",
+      "address":"1912 SE Ross Clark Cir",
+      "city":"Dothan",
+      "state":"AL",
+      "zip":"36301",
+      "phone":"(334) 792-9884"
+   },
+   "44":{
+      "name":"4412 Montgomery Highway",
+      "address":"4412 Montgomery Highway",
+      "city":"Dothan",
+      "state":"AL",
+      "zip":"36303",
+      "phone":"(334) 794-4373"
+   },
+   "45":{
+      "name":"4601 Montgomery Hwy",
+      "address":"4601 Montgomery Hwy",
+      "city":"Dothan",
+      "state":"AL",
+      "zip":"36303",
+      "phone":""
+   },
+   "46":{
+      "name":"977 Alabama 203",
+      "address":"977 Alabama 203",
+      "city":"Elba",
+      "state":"AL",
+      "zip":"36323",
+      "phone":"(334) 554-3015"
+   },
+   "47":{
+      "name":"1010 Ft Rucker",
+      "address":"1010 Ft Rucker",
+      "city":"Enterprise",
+      "state":"AL",
+      "zip":"36330",
+      "phone":"(334) 489-0238"
+   },
+   "48":{
+      "name":"1110 S Eufaula Ave",
+      "address":"1110 S Eufaula Ave",
+      "city":"Eufaula",
+      "state":"AL",
+      "zip":"36027",
+      "phone":"(334) 687-7027"
+   },
+   "49":{
+      "name":"21465 Hwy. 31",
+      "address":"21465 Hwy. 31",
+      "city":"Flomaton",
+      "state":"AL",
+      "zip":"36441",
+      "phone":"(251) 296-0040"
+   },
+   "50":{
+      "name":"859 Cox Creek Parkway",
+      "address":"859 Cox Creek Parkway#2",
+      "city":"Florence",
+      "state":"AL",
+      "zip":"35630",
+      "phone":"(256) 767-5300"
+   },
+   "51":{
+      "name":"1350 S. McKenzie Rd.",
+      "address":"1350 S. McKenzie Rd.",
+      "city":"Foley",
+      "state":"AL",
+      "zip":"36535",
+      "phone":"(251) 943-8561"
+   },
+   "52":{
+      "name":"203 Greenhill Blvd.",
+      "address":"203 Greenhill Blvd.",
+      "city":"Fort Payne",
+      "state":"AL",
+      "zip":"35967",
+      "phone":"(256) 845-3800"
+   },
+   "53":{
+      "name":"3489 Lowery Parkway",
+      "address":"3489 Lowery Parkway",
+      "city":"Fultondale",
+      "state":"AL",
+      "zip":"35068",
+      "phone":""
+   },
+   "54":{
+      "name":"510 E Meighan Blvd",
+      "address":"510 E Meighan Blvd# 7",
+      "city":"Gadsden",
+      "state":"AL",
+      "zip":"35903",
+      "phone":"(256) 543-2100"
+   },
+   "55":{
+      "name":"1000 W Maple Ave",
+      "address":"1000 W Maple Ave",
+      "city":"Geneva",
+      "state":"AL",
+      "zip":"36340",
+      "phone":"(334) 684-2431"
+   },
+   "56":{
+      "name":"41263C Al Hwy. 75",
+      "address":"41263C Al Hwy. 75",
+      "city":"Geraldine",
+      "state":"AL",
+      "zip":"35974",
+      "phone":"(256) 659-2424"
+   },
+   "57":{
+      "name":"915 Fort Dale Rd",
+      "address":"915 Fort Dale Rd",
+      "city":"Greenville",
+      "state":"AL",
+      "zip":"36037",
+      "phone":"(334) 382-6697"
+   },
+   "58":{
+      "name":"3820 Gulf Shores Pkwy.",
+      "address":"3820 Gulf Shores Pkwy.",
+      "city":"Gulf Shores",
+      "state":"AL",
+      "zip":"36542",
+      "phone":""
+   },
+   "59":{
+      "name":"1819 11th Avenue",
+      "address":"1819 11th Avenue",
+      "city":"Haleyville",
+      "state":"AL",
+      "zip":"35565",
+      "phone":"(205) 486-2800"
+   },
+   "60":{
+      "name":"360 Bexar Ave. East",
+      "address":"360 Bexar Ave. East",
+      "city":"Hamilton",
+      "state":"AL",
+      "zip":"35570",
+      "phone":"(205) 921-2523"
+   },
+   "61":{
+      "name":"200 Highway 31 SW",
+      "address":"200 Highway 31 SW",
+      "city":"Hartselle",
+      "state":"AL",
+      "zip":"35640",
+      "phone":"(256) 773-2112"
+   },
+   "62":{
+      "name":"16640 US Highway",
+      "address":"16640 US Highway#431",
+      "city":"Headland",
+      "state":"AL",
+      "zip":"36345",
+      "phone":"(334) 693-2333"
+   },
+   "63":{
+      "name":"495 Helena Market Place",
+      "address":"495 Helena Market Place",
+      "city":"Helena",
+      "state":"AL",
+      "zip":"35080",
+      "phone":"(205) 685-0204"
+   },
+   "64":{
+      "name":"5561 Grove Blvd.",
+      "address":"5561 Grove Blvd.",
+      "city":"Hoover",
+      "state":"AL",
+      "zip":"35226",
+      "phone":""
+   },
+   "65":{
+      "name":"3029 Allison Bonnett Memorial Dr",
+      "address":"3029 Allison Bonnett Memorial Dr# 109",
+      "city":"Hueytown",
+      "state":"AL",
+      "zip":"35023",
+      "phone":"(205) 491-4889"
+   },
+   "66":{
+      "name":"11570 Memorial Pkwy S",
+      "address":"11570 Memorial Pkwy S",
+      "city":"Huntsville",
+      "state":"AL",
+      "zip":"35803",
+      "phone":"(256) 880-9885"
+   },
+   "67":{
+      "name":"2246 Winchester Rd. NE",
+      "address":"2246 Winchester Rd. NEUnit #308",
+      "city":"Huntsville",
+      "state":"AL",
+      "zip":"35811",
+      "phone":"(256) 859-9719"
+   },
+   "68":{
+      "name":"2417 N Memorial Pkwy",
+      "address":"2417 N Memorial Pkwy",
+      "city":"Huntsville",
+      "state":"AL",
+      "zip":"35810",
+      "phone":"(256) 536-4856"
+   },
+   "69":{
+      "name":"4802 University Dr NW",
+      "address":"4802 University Dr NW",
+      "city":"Huntsville",
+      "state":"AL",
+      "zip":"35816",
+      "phone":"(256) 837-1207"
+   },
+   "70":{
+      "name":"2123 N. College",
+      "address":"2123 N. College",
+      "city":"Jackson",
+      "state":"AL",
+      "zip":"36545",
+      "phone":"(251) 246-2402"
+   },
+   "71":{
+      "name":"816 Pelham Rd S",
+      "address":"816 Pelham Rd S",
+      "city":"Jacksonville",
+      "state":"AL",
+      "zip":"36265",
+      "phone":"(256) 435-5202"
+   },
+   "72":{
+      "name":"1160 Hwy 78 East",
+      "address":"1160 Hwy 78 East",
+      "city":"Jasper",
+      "state":"AL",
+      "zip":"35501",
+      "phone":"(205) 878-9504"
+   },
+   "73":{
+      "name":"24557 US Hwy. 31",
+      "address":"24557 US Hwy. 31",
+      "city":"Jemison",
+      "state":"AL",
+      "zip":"35085",
+      "phone":"(205) 688-2443"
+   },
+   "74":{
+      "name":"1127 Highway 72",
+      "address":"1127 Highway 72#8",
+      "city":"Killen",
+      "state":"AL",
+      "zip":"35645",
+      "phone":"(256) 757-4611"
+   },
+   "75":{
+      "name":"424 S. Forest Ave.",
+      "address":"424 S. Forest Ave.",
+      "city":"Luverne",
+      "state":"AL",
+      "zip":"36049",
+      "phone":"(334) 335-2709"
+   },
+   "76":{
+      "name":"7950 Highway 72 W",
+      "address":"7950 Highway 72 W",
+      "city":"Madison",
+      "state":"AL",
+      "zip":"35758",
+      "phone":"(256) 721-5640"
+   },
+   "77":{
+      "name":"8207 Highway 72 W",
+      "address":"8207 Highway 72 W",
+      "city":"Madison",
+      "state":"AL",
+      "zip":"35758",
+      "phone":""
+   },
+   "78":{
+      "name":"8830 Madison Blvd",
+      "address":"8830 Madison Blvd",
+      "city":"Madison",
+      "state":"AL",
+      "zip":"35758",
+      "phone":"(256) 772-8897"
+   },
+   "79":{
+      "name":"11818 US Hwy 231/431 North",
+      "address":"11818 US Hwy 231/431 North",
+      "city":"Meridianville",
+      "state":"AL",
+      "zip":"35759",
+      "phone":"(256) 828-6068"
+   },
+   "80":{
+      "name":"4110 Highway 14",
+      "address":"4110 Highway 14",
+      "city":"Millbrook",
+      "state":"AL",
+      "zip":"36054",
+      "phone":"(334) 285-1441"
+   },
+   "81":{
+      "name":"1866-A Government St",
+      "address":"1866-A Government St",
+      "city":"Mobile",
+      "state":"AL",
+      "zip":"36606",
+      "phone":"(251) 471-3003"
+   },
+   "82":{
+      "name":"2502 Schillinger",
+      "address":"2502 Schillinger",
+      "city":"Mobile",
+      "state":"AL",
+      "zip":"36695",
+      "phone":"(251) 639-1117"
+   },
+   "83":{
+      "name":"307 N. University Blvd.",
+      "address":"307 N. University Blvd.University Of South Alabama",
+      "city":"Mobile",
+      "state":"AL",
+      "zip":"36688",
+      "phone":""
+   },
+   "84":{
+      "name":"5821 Old Shell Rd",
+      "address":"5821 Old Shell RdSte G",
+      "city":"Mobile",
+      "state":"AL",
+      "zip":"36608",
+      "phone":"(251) 380-0818"
+   },
+   "85":{
+      "name":"680 University Blvd. South",
+      "address":"680 University Blvd. South",
+      "city":"Mobile",
+      "state":"AL",
+      "zip":"36609",
+      "phone":"(251) 660-9766"
+   },
+   "86":{
+      "name":"7745-A Moffat Rd",
+      "address":"7745-A Moffat Rd",
+      "city":"Mobile",
+      "state":"AL",
+      "zip":"36618",
+      "phone":"(251) 649-6655"
+   },
+   "87":{
+      "name":"2060 S. Hwy. 21 Bypass",
+      "address":"2060 S. Hwy. 21 Bypass",
+      "city":"Monroeville",
+      "state":"AL",
+      "zip":"36460",
+      "phone":"(251) 575-2088"
+   },
+   "88":{
+      "name":"750 Main St.",
+      "address":"750 Main St.",
+      "city":"Montevallo",
+      "state":"AL",
+      "zip":"35115",
+      "phone":"(205) 665-5656"
+   },
+   "89":{
+      "name":"2865 E South Blvd",
+      "address":"2865 E South Blvd",
+      "city":"Montgomery",
+      "state":"AL",
+      "zip":"36116",
+      "phone":"(334) 288-6831"
+   },
+   "90":{
+      "name":"3992 Atlanta Highway",
+      "address":"3992 Atlanta Highway",
+      "city":"Montgomery",
+      "state":"AL",
+      "zip":"36106",
+      "phone":"(334) 215-7121"
+   },
+   "91":{
+      "name":"6371 Atlanta Hwy",
+      "address":"6371 Atlanta Hwy",
+      "city":"Montgomery",
+      "state":"AL",
+      "zip":"36117",
+      "phone":"(334) 396-6357"
+   },
+   "92":{
+      "name":"7827 Vaughn Rd",
+      "address":"7827 Vaughn Rd",
+      "city":"Montgomery",
+      "state":"AL",
+      "zip":"36116",
+      "phone":"(334) 270-1214"
+   },
+   "93":{
+      "name":"11930 Hwy 157",
+      "address":"11930 Hwy 157",
+      "city":"Moulton",
+      "state":"AL",
+      "zip":"35650",
+      "phone":"(256) 974-7373"
+   },
+   "94":{
+      "name":"611 E. Avalon Ave",
+      "address":"611 E. Avalon Ave",
+      "city":"Muscle Shoals",
+      "state":"AL",
+      "zip":"35661",
+      "phone":"(256) 386-0080"
+   },
+   "95":{
+      "name":"720 2nd Ave E",
+      "address":"720 2nd Ave E",
+      "city":"Oneonta",
+      "state":"AL",
+      "zip":"35121",
+      "phone":"(205) 625-3310"
+   },
+   "96":{
+      "name":"2640 Enterprise Drive",
+      "address":"2640 Enterprise Drive",
+      "city":"Opelika",
+      "state":"AL",
+      "zip":"36801",
+      "phone":""
+   },
+   "97":{
+      "name":"3611 Pepperell Pkwy",
+      "address":"3611 Pepperell Pkwy",
+      "city":"Opelika",
+      "state":"AL",
+      "zip":"36801",
+      "phone":"(334) 749-7111"
+   },
+   "98":{
+      "name":"902 Florala Highway 331 South",
+      "address":"902 Florala Highway 331 South",
+      "city":"Opp",
+      "state":"AL",
+      "zip":"36467",
+      "phone":"(334) 493-4543"
+   },
+   "99":{
+      "name":"25908-I Canal Road",
+      "address":"25908-I Canal Road",
+      "city":"Orange Beach",
+      "state":"AL",
+      "zip":"36561",
+      "phone":"(251) 981-8900"
+   },
+   "100":{
+      "name":"6585 B Hwy 431S",
+      "address":"6585 B Hwy 431S",
+      "city":"Owens Cross Roads",
+      "state":"AL",
+      "zip":"35763",
+      "phone":"(256) 533-9588"
+   },
+   "101":{
+      "name":"202 Hamric Dr E",
+      "address":"202 Hamric Dr E",
+      "city":"Oxford",
+      "state":"AL",
+      "zip":"36203",
+      "phone":"(256) 241-0850"
+   },
+   "102":{
+      "name":"1110 280 Byp",
+      "address":"1110 280 Byp",
+      "city":"Phenix City",
+      "state":"AL",
+      "zip":"36867",
+      "phone":"(334) 298-3115"
+   },
+   "103":{
+      "name":"2319 Lee Road 427",
+      "address":"2319 Lee Road 427Suite 1",
+      "city":"Phenix City",
+      "state":"AL",
+      "zip":"36867",
+      "phone":"(334) 297-3585"
+   },
+   "104":{
+      "name":"2953 Legends Parkway",
+      "address":"2953 Legends Parkway",
+      "city":"Prattville",
+      "state":"AL",
+      "zip":"36066",
+      "phone":""
+   },
+   "105":{
+      "name":"711 E Main St",
+      "address":"711 E Main St",
+      "city":"Prattville",
+      "state":"AL",
+      "zip":"36067",
+      "phone":"(334) 358-1201"
+   },
+   "106":{
+      "name":"3 Independent Dr",
+      "address":"3 Independent Dr",
+      "city":"Rainbow City",
+      "state":"AL",
+      "zip":"35906",
+      "phone":"(256) 442-2300"
+   },
+   "107":{
+      "name":"200 Main St W",
+      "address":"200 Main St WSte. 102",
+      "city":"Rainsville",
+      "state":"AL",
+      "zip":"35986",
+      "phone":"(256) 638-7575"
+   },
+   "108":{
+      "name":"3019 Highway 431 Byp S",
+      "address":"3019 Highway 431 Byp S",
+      "city":"Roanoke",
+      "state":"AL",
+      "zip":"36274",
+      "phone":"(844) 722-0224"
+   },
+   "109":{
+      "name":"22722 Hwy. 59 S.",
+      "address":"22722 Hwy. 59 S.",
+      "city":"Robertsdale",
+      "state":"AL",
+      "zip":"36567",
+      "phone":"(251) 947-4980"
+   },
+   "110":{
+      "name":"16086 US Hwy 72",
+      "address":"16086 US Hwy 72",
+      "city":"Rogersville",
+      "state":"AL",
+      "zip":"35652",
+      "phone":"(256) 247-5199"
+   },
+   "111":{
+      "name":"13450 Highway 43",
+      "address":"13450 Highway 43",
+      "city":"Russellville",
+      "state":"AL",
+      "zip":"35653",
+      "phone":"(256) 332-4583"
+   },
+   "112":{
+      "name":"12 Hwy. 43 South",
+      "address":"12 Hwy. 43 South",
+      "city":"Saraland",
+      "state":"AL",
+      "zip":"36571",
+      "phone":"(251) 675-0880"
+   },
+   "113":{
+      "name":"3310 S. Broad Street",
+      "address":"3310 S. Broad Street",
+      "city":"Scottsboro",
+      "state":"AL",
+      "zip":"35769",
+      "phone":"(256) 259-0893"
+   },
+   "114":{
+      "name":"307 Highland Ave",
+      "address":"307 Highland Ave",
+      "city":"Selma",
+      "state":"AL",
+      "zip":"36701",
+      "phone":"(334) 605-4004"
+   },
+   "115":{
+      "name":"426 W. Lawrence Harris Hwy.",
+      "address":"426 W. Lawrence Harris Hwy.",
+      "city":"Slocomb",
+      "state":"AL",
+      "zip":"36375",
+      "phone":"(334) 886-7007"
+   },
+   "116":{
+      "name":"10179 Eastern Shore Blvd.",
+      "address":"10179 Eastern Shore Blvd.Space 103",
+      "city":"Spanish Fort",
+      "state":"AL",
+      "zip":"36527",
+      "phone":"(251) 625-3066"
+   },
+   "117":{
+      "name":"300 Springville Station Rd.",
+      "address":"300 Springville Station Rd.Ste. 1500",
+      "city":"Springville",
+      "state":"AL",
+      "zip":"35146",
+      "phone":"(205) 467-7877"
+   },
+   "118":{
+      "name":"205 Battle Street East",
+      "address":"205 Battle Street East",
+      "city":"Talladega",
+      "state":"AL",
+      "zip":"35160",
+      "phone":"(256) 649-5502"
+   },
+   "119":{
+      "name":"1514 Gilmer Avenue",
+      "address":"1514 Gilmer Avenue",
+      "city":"Tallassee",
+      "state":"AL",
+      "zip":"36078",
+      "phone":"(334) 640-8001"
+   },
+   "120":{
+      "name":"5827 Hwy. 90 West",
+      "address":"5827 Hwy. 90 WestSuite A",
+      "city":"Theodore",
+      "state":"AL",
+      "zip":"36582",
+      "phone":"(251) 653-0810"
+   },
+   "121":{
+      "name":"33566 Hwy. 43 N.",
+      "address":"33566 Hwy. 43 N.",
+      "city":"Thomasville",
+      "state":"AL",
+      "zip":"36784",
+      "phone":"(334) 636-9655"
+   },
+   "122":{
+      "name":"109 Hwy 231 North",
+      "address":"109 Hwy 231 North",
+      "city":"Troy",
+      "state":"AL",
+      "zip":"36081",
+      "phone":"(334) 566-2672"
+   },
+   "123":{
+      "name":"1110 N Chalkville Rd",
+      "address":"1110 N Chalkville RdSte 100",
+      "city":"Trussville",
+      "state":"AL",
+      "zip":"35173",
+      "phone":""
+   },
+   "124":{
+      "name":"160 McCorvey Drive",
+      "address":"160 McCorvey DriveUniversity Of Alabama",
+      "city":"Tuscaloosa",
+      "state":"AL",
+      "zip":"35487",
+      "phone":""
+   },
+   "125":{
+      "name":"5000 Oscar Baxter Dr",
+      "address":"5000 Oscar Baxter Dr",
+      "city":"Tuscaloosa",
+      "state":"AL",
+      "zip":"35401",
+      "phone":"(205) 391-6841"
+   },
+   "126":{
+      "name":"703 W. Martin Luther King Hwy.",
+      "address":"703 W. Martin Luther King Hwy.Suite 4",
+      "city":"Tuskegee",
+      "state":"AL",
+      "zip":"36083",
+      "phone":"(334) 727-9633"
+   },
+   "127":{
+      "name":"3009 20th Ave",
+      "address":"3009 20th Ave",
+      "city":"Valley",
+      "state":"AL",
+      "zip":"36854",
+      "phone":"(866) 219-7177"
+   },
+   "128":{
+      "name":"5229 US Hwy 231",
+      "address":"5229 US Hwy 231",
+      "city":"Wetumpka",
+      "state":"AL",
+      "zip":"36092",
+      "phone":"(334) 567-5504"
+   },
+   "129":{
+      "name":"2184 Hwy 43",
+      "address":"2184 Hwy 43",
+      "city":"Winfield",
+      "state":"AL",
+      "zip":"35594",
+      "phone":"(205) 487-5575"
+   }
+}

@@ -1,0 +1,422 @@
+{
+   "10052":{
+      "name":"North Platte-I80 & S Hwy 83",
+      "address":"2020 South Jeffers ST.",
+      "city":"North Platte",
+      "state":"NE",
+      "zip":"691019693",
+      "phone":"3085341228",
+      "latitude":41.115746,
+      "longitude":-100.765043
+   },
+   "12983":{
+      "name":"Oasis Travel Center",
+      "address":"700 West Horton Avenue",
+      "city":"Colby",
+      "state":"KS",
+      "zip":"67701",
+      "phone":"7854600042",
+      "latitude":39.3647,
+      "longitude":-101.055
+   },
+   "9753":{
+      "name":"Target Garden City T-906",
+      "address":"2401 E Kansas Ave",
+      "city":"Garden City",
+      "state":"KS",
+      "zip":"678466962",
+      "phone":"6202751101",
+      "latitude":37.980025,
+      "longitude":-100.843105
+   },
+   "1028608":{
+      "name":"United - Dumas #542",
+      "address":"1420 Guylane Plaza",
+      "city":"Dumas",
+      "state":"TX",
+      "zip":"79029",
+      "phone":"8069354894",
+      "latitude":35.848953,
+      "longitude":-101.975162
+   },
+   "1014207":{
+      "name":"United - Pampa #528",
+      "address":"1420 N Hobart",
+      "city":"Pampa",
+      "state":"TX",
+      "zip":"79065",
+      "phone":"8066696115",
+      "latitude":35.550021,
+      "longitude":-100.971931
+   },
+   "10483":{
+      "name":"I 40 & Grand",
+      "address":"3512 E Interstate 40",
+      "city":"Amarillo",
+      "state":"TX",
+      "zip":"791034821",
+      "phone":"8063730156",
+      "latitude":35.192619,
+      "longitude":-101.796636
+   },
+   "17629":{
+      "name":"Georgia St. & Austin",
+      "address":"2335 Georgia Street",
+      "city":"Amarillo",
+      "state":"TX",
+      "zip":"791091836",
+      "phone":"8063584000",
+      "latitude":35.189543,
+      "longitude":-101.865629
+   },
+   "1017712":{
+      "name":"Market Street - Amarillo #526",
+      "address":"2530 S. Georgia",
+      "city":"Amarillo",
+      "state":"TX",
+      "zip":"79109",
+      "phone":"8064686000",
+      "latitude":35.186176,
+      "longitude":-101.868105
+   },
+   "1017568":{
+      "name":"United - Amarillo #523",
+      "address":"5601 Amarillo Blvd",
+      "city":"Amarillo",
+      "state":"TX",
+      "zip":"79106",
+      "phone":"8063537636",
+      "latitude":35.21471,
+      "longitude":-101.900264
+   },
+   "1031184":{
+      "name":"United - Amarillo #529",
+      "address":"5807 SW 45th, #100",
+      "city":"Amarillo",
+      "state":"TX",
+      "zip":"79109",
+      "phone":"8063539700",
+      "latitude":35.159617,
+      "longitude":-101.900634
+   },
+   "1007550":{
+      "name":"Target Amarillo - T-221",
+      "address":"8201 I-40 W",
+      "city":"Amarillo",
+      "state":"TX",
+      "zip":"79121",
+      "phone":"8063584030",
+      "latitude":35.186586,
+      "longitude":-101.930644
+   },
+   "1028295":{
+      "name":"Coulter & Pennsylvania",
+      "address":"5140 S Coulter St",
+      "city":"Amarillo",
+      "state":"TX",
+      "zip":"791194903",
+      "phone":"8064502002",
+      "latitude":35.149411,
+      "longitude":-101.919728
+   },
+   "1027928":{
+      "name":"Canyon Dr & Hollywood Rd",
+      "address":"8619 Canyon Drive",
+      "city":"Amarillo",
+      "state":"TX",
+      "zip":"79110",
+      "phone":"8063754110",
+      "latitude":35.11788,
+      "longitude":-101.907854
+   },
+   "15574":{
+      "name":"Soncy Rd & I-40",
+      "address":"3240 S. Soncy Road",
+      "city":"Amarillo",
+      "state":"TX",
+      "zip":"791242012",
+      "phone":"8063527695",
+      "latitude":35.178477,
+      "longitude":-101.93868
+   },
+   "1007618":{
+      "name":"West Texas A&M Canyon - Student Cen",
+      "address":"2501 4th Ave",
+      "city":"Canyon",
+      "state":"TX",
+      "zip":"79016",
+      "phone":"8066512715",
+      "latitude":34.980076,
+      "longitude":-101.91723
+   },
+   "1017504":{
+      "name":"United - Plainview #507",
+      "address":"3501 Olton Road",
+      "city":"Plainview",
+      "state":"TX",
+      "zip":"79072",
+      "phone":"8062934402",
+      "latitude":34.185398,
+      "longitude":-101.74675
+   },
+   "1017310":{
+      "name":"University & Mac Davis Lane",
+      "address":"2414 Mac Davis Lane",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"794012221",
+      "phone":"8067441396",
+      "latitude":33.590373,
+      "longitude":-101.870408
+   },
+   "1019389":{
+      "name":"Murray Honors Residence Hall",
+      "address":"901 Flint Ave.",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79406",
+      "phone":"8067427255",
+      "latitude":33.587142,
+      "longitude":-101.880138
+   },
+   "1022449":{
+      "name":"Market Street - Lubbock #553",
+      "address":"4425 19th Street",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79407",
+      "phone":"8067882000",
+      "latitude":33.575762,
+      "longitude":-101.906551
+   },
+   "1026892":{
+      "name":"50th & Indiana",
+      "address":"3229 50th St",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79413",
+      "phone":"8067246871",
+      "latitude":33.548418,
+      "longitude":-101.885943
+   },
+   "1016693":{
+      "name":"Market Street - Lubbock #502",
+      "address":"3405 50th Street",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79403",
+      "phone":"8067958341",
+      "latitude":33.547688,
+      "longitude":-101.88909
+   },
+   "6592":{
+      "name":"80th & University",
+      "address":"8001 University",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"794232205",
+      "phone":"8067452982",
+      "latitude":33.521448,
+      "longitude":-101.869961
+   },
+   "1007615":{
+      "name":"Lubbock Christian University",
+      "address":"5601 19th St",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79407",
+      "phone":"8067207988",
+      "latitude":33.577657,
+      "longitude":-101.934751
+   },
+   "1027357":{
+      "name":"4th & Milwaukee",
+      "address":"6307 4th Street",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79416",
+      "phone":"8067239337",
+      "latitude":33.59208,
+      "longitude":-101.955699
+   },
+   "1020045":{
+      "name":"United - Lubbock #552",
+      "address":"6313 4th Street",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79416",
+      "phone":"8067841510",
+      "latitude":33.590887,
+      "longitude":-101.955388
+   },
+   "16359":{
+      "name":"82nd & Quaker",
+      "address":"4402 - 82nd Street",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"794243345",
+      "phone":"8067933335",
+      "latitude":33.520161,
+      "longitude":-101.905324
+   },
+   "1022189":{
+      "name":"Loop 289 & 34th",
+      "address":"3214 W Loop 289",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79407",
+      "phone":"8067821789",
+      "latitude":33.564583,
+      "longitude":-101.945061
+   },
+   "1026206":{
+      "name":"Market Street - Lubbock #543",
+      "address":"4205 98th Street",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79423",
+      "phone":"8067986100",
+      "latitude":33.503145,
+      "longitude":-101.90295
+   },
+   "10106":{
+      "name":"Target Lubbock T-2190",
+      "address":"6064 Brownfield Hmy",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79407",
+      "phone":"8067883600",
+      "latitude":33.551501,
+      "longitude":-101.946648
+   },
+   "1016542":{
+      "name":"United - Lubbock #555",
+      "address":"12815 Indiana Ave",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79423",
+      "phone":"8067768900",
+      "latitude":33.47536,
+      "longitude":-101.889235
+   },
+   "1015499":{
+      "name":"98th & Slide",
+      "address":"5110 98th Street",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"794247531",
+      "phone":"8062416854",
+      "latitude":33.505652,
+      "longitude":-101.921857
+   },
+   "1029294":{
+      "name":"118th  & Quaker",
+      "address":"11805 Quaker Avenue",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79423",
+      "phone":"8065830211",
+      "latitude":33.486434,
+      "longitude":-101.904502
+   },
+   "6802":{
+      "name":"Brownfield & Milwaukee",
+      "address":"5014 Milwaukee",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"794073807",
+      "phone":"8067951508",
+      "latitude":33.546354,
+      "longitude":-101.957598
+   },
+   "1016958":{
+      "name":"United - Lubbock #551",
+      "address":"8010 Frankford Avenue",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79424",
+      "phone":"8067830206",
+      "latitude":33.520438,
+      "longitude":-101.941936
+   },
+   "1030937":{
+      "name":"United - Lubbock #657",
+      "address":"11310 Slide Rd,",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79424",
+      "phone":"None",
+      "latitude":33.491412,
+      "longitude":-101.92334
+   },
+   "1029279":{
+      "name":"82nd & Zadar",
+      "address":"7641 82nd Street",
+      "city":"Lubbock",
+      "state":"TX",
+      "zip":"79424",
+      "phone":"8065830282",
+      "latitude":33.519387,
+      "longitude":-101.989806
+   },
+   "1019196":{
+      "name":"I-20 & San Antonio",
+      "address":"801 I-20 Frontage Rd",
+      "city":"Big Spring",
+      "state":"TX",
+      "zip":"79720",
+      "phone":"3254364585",
+      "latitude":32.262449,
+      "longitude":-101.490761
+   },
+   "1029273":{
+      "name":"Big Spring & Loop 250",
+      "address":"4101 North Big Spring St",
+      "city":"Midland",
+      "state":"TX",
+      "zip":"79701",
+      "phone":"4323024384",
+      "latitude":32.037493,
+      "longitude":-102.08699
+   },
+   "14623":{
+      "name":"Rankin Hwy & I-20",
+      "address":"2410 Rankin Hwy",
+      "city":"Midland",
+      "state":"TX",
+      "zip":"797011803",
+      "phone":"4326869570",
+      "latitude":31.973423,
+      "longitude":-102.074823
+   },
+   "1011938":{
+      "name":"Market Street #674 - Midland",
+      "address":"4706 N Midkiff Road",
+      "city":"Midland",
+      "state":"TX",
+      "zip":"79705",
+      "phone":"4326990761",
+      "latitude":32.03563,
+      "longitude":-102.130002
+   },
+   "1006282":{
+      "name":"Simon Properties - Midland Park Mal",
+      "address":"4511 N Midkiff Rd",
+      "city":"Midland",
+      "state":"TX",
+      "zip":"79705",
+      "phone":"4322410101",
+      "latitude":32.029477,
+      "longitude":-102.128046
+   },
+   "15104":{
+      "name":"Midkiff & Wadley",
+      "address":"3203 North Midkiff Road",
+      "city":"Midland",
+      "state":"TX",
+      "zip":"797056242",
+      "phone":"4326992382",
+      "latitude":32.017964,
+      "longitude":-102.124801
+   }
+}
